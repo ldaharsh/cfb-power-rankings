@@ -212,9 +212,19 @@ def save_weekly_snapshots(year, daily_snapshots, season_end_points):
     # Also grab the cumulative points for each snapshot week
     # We need points, not just ranks – re-derive from the final ranks won't work,
     # so we store ranks only (sufficient for trend analysis)
+    # Only keep Steel-ranked FBS teams
+    preseason_path = os.path.join(PRESEASON_DIR, f'{year}_preseason.csv')
+    steel_teams = set()
+    if os.path.exists(preseason_path):
+        with open(preseason_path) as f:
+            for row in csv.DictReader(f):
+                steel_teams.add(row['team'])
+
     rows = []
     for wk, (date_str, ranks) in weeks.items():
         for team, rank in ranks.items():
+            if team not in steel_teams:
+                continue
             rows.append({'year': year, 'week': wk, 'date': date_str,
                          'team': team, 'rank': rank})
 
@@ -229,12 +239,16 @@ def save_season_rankings(year, season_end_points, preseason):
 
     # Build preseason rank lookup
     preseason_rank_map = {team: rank for team, rank in preseason}
+    steel_teams = set(preseason_rank_map.keys())
 
-    # Compute final ranks
-    final_ranks = assign_ranks(season_end_points)
+    # Only rank Steel-listed FBS teams
+    fbs_points = {t: p for t, p in season_end_points.items() if t in steel_teams}
+
+    # Compute final ranks among FBS teams only
+    final_ranks = assign_ranks(fbs_points)
 
     rows = []
-    for team, pts in sorted(season_end_points.items(), key=lambda x: x[1], reverse=True):
+    for team, pts in sorted(fbs_points.items(), key=lambda x: x[1], reverse=True):
         rows.append({
             'team': team,
             'final_rank': final_ranks[team],

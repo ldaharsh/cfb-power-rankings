@@ -39,183 +39,93 @@ Kentucky,37,135,55
 Tennessee,38,117,65
 UCLA,39,101,31
 Wash St,40,90,25
-The Citadel,41,79,NR
-N Carolina St,42,72,59
-N Carolina,43,63,65
-S Miss,44,62,69
-Arizona,45,61,47
-Air Force,46,35,75
-West Virginia,47,16,59
-Stanford,48,13,38
-UCF,50,8,25
-Louisville,50,8,114
-TCU,52,7,38
-N Mexico St,52,7,124
-Nebraska,53,6,23
-Purdue,54,-1,59
-Northwestern State,55,-3,NR
-Wofford,56,-5,NR
-Elon,57,-7,NR
-South Dakota,58,-9,NR
-Towson,59,-10,NR
-Wake Forest,60,-12,47
-South Dakota State,61,-16,NR
-Samford,62,-17,NR
-Richmond,63,-21,NR
-McNeese,65,-24,NR
-Montana,65,-24,NR
-Central Arkansas,66,-25,NR
-Florida A&M,67,-26,NR
-Delaware,68,-27,NR
-Pittsburgh,72,-29,55
-Eastern Washington,72,-29,NR
-Stephen F. Austin,72,-29,NR
-Southern,72,-29,NR
-Eastern Illinois,73,-34,NR
-Northern Iowa,74,-38,NR
-Lamar,75,-39,NR
-Illinois,76,-43,90
-Southeast Missouri State,77,-44,NR
-Arkansas-Pine Bluff,78,-45,NR
-Missouri State,79,-47,NR
-Idaho,80,-49,NR
-Mercer,81,-50,NR
-North Carolina A&T,82,-51,NR
-Central Connecticut,83,-53,NR
-James Madison,84,-58,NR
-UC Davis,85,-60,NR
-Boise St,86,-64,55
-Montana State,87,-65,NR
-SE Louisiana,90,-66,NR
-Bethune-Cookman,90,-66,NR
-Idaho State,90,-66,NR
-Bucknell,91,-70,NR
-Colgate,92,-75,NR
-Tennessee Tech,93,-77,NR
-Stony Brook,94,-80,NR
-Howard,97,-81,NR
-Campbell,97,-81,NR
-Texas Southern,97,-81,NR
-Prairie View A&M,98,-84,NR
-Indiana State,99,-86,NR
-Illinois State,100,-90,NR
-Southern Utah,101,-91,NR
-Charleston Southern,102,-95,NR
-S Carolina,103,-97,47
-Monmouth,104,-100,NR
-Murray State,105,-101,NR
-Southern Illinois,107,-103,NR
-Tennessee State,107,-103,NR
-Robert Morris,108,-104,NR
-Portland State,109,-105,NR
-Western Carolina,110,-106,NR
-Rhode Island,111,-109,NR
-Houston Christian,112,-111,NR
-Miss St,113,-114,9
-Northern Arizona,114,-115,NR
-Sam Houston,116,-118,NR
-Eastern Kentucky,116,-118,NR
-Temple,117,-119,69
-Furman,118,-123,NR
-Fordham,119,-124,NR
-Jackson State,120,-125,NR
-Holy Cross,121,-126,NR
-UT Martin,122,-128,NR
-UAlbany,124,-129,NR
-Cal Poly,124,-129,NR
-Alcorn State,126,-130,NR
-Kennesaw State,126,-130,NR
-Nicholls,127,-131,NR
-Sacramento State,128,-134,NR
-Florida St,131,-143,55
-South Carolina State,131,-143,NR
-Hampton,131,-143,NR
-Western Illinois,132,-145,NR
-Weber State,133,-146,NR
-Tulane,134,-147,78
-Northern Colorado,135,-155,NR
-Kansas,136,-171,88
-Texas Tech,138,-173,65
-Tulsa,138,-173,88
-Chattanooga,139,-176,NR
-Morgan State,140,-180,NR
-Northwestern,141,-181,31
-Houston,142,-182,78
-Duke,143,-187,42
-Abilene Christian,144,-190,NR
-New Hampshire,145,-195,NR
-Grambling,146,-202,NR
-Alabama State,147,-208,NR
-Mississippi,148,-212,75
-East Tennessee State,149,-215,NR
-Syracuse,150,-216,15
-Wagner,151,-218,NR
-William & Mary,152,-219,NR
-Maryland,153,-220,82
-Maine,154,-238,NR
-Norfolk State,155,-240,NR
-Boston College,156,-241,69
-Appalachian St,157,-246,42
-Missouri,158,-264,18
-Gardner-Webb,159,-265,NR
-VMI,160,-276,NR
-Georgia Tech,161,-301,65
-Rutgers,162,-305,88
-Incarnate Word,163,-326,NR
-USF,164,-333,99
-BYU,165,-352,38
-Vanderbilt,166,-366,61
-"Miami, Fl",168,-429,38
-Hawaii,168,-429,105
-Utah St,169,-446,47
-San Diego St,170,-451,103
-Wyoming,171,-458,82
-FAU,172,-470,103
-Louisiana,173,-511,103
-NC State,174,-548,NR
-Marshall,175,-561,78
-Liberty,176,-587,109
-E Carolina,177,-664,114
-Arkansas St,178,-692,75
-WKU,179,-739,99
-Nevada,180,-761,90
-Arkansas,181,-762,88
-ULM,182,-796,108
-Connecticut,183,-798,130
-La Tech,184,-808,96
-Colorado St,185,-842,116
-W Michigan,186,-844,103
-San Jose St,187,-848,114
-Georgia Southern,188,-850,88
-Army,189,-858,59
-UNLV,190,-910,106
-Georgia St,191,-911,118
-Southern Miss,192,-928,NR
-"Miami, OH",193,-934,75
-Fresno St,194,-937,47
-Buffalo,195,-950,105
-Texas St,196,-963,114
-Kent St,197,-991,108
-Troy,198,-1008,82
-Middle Tenn,200,-1047,96
-C Michigan,200,-1047,129
-Toledo,201,-1048,82
-Coastal Carolina,202,-1063,124
-E Michigan,203,-1075,96
-New Mexico St,204,-1083,NR
-Charlotte,205,-1090,99
-Ohio,206,-1091,55
-New Mexico,207,-1117,124
-UAB,208,-1139,66
-North Texas,209,-1155,118
-N Illinois,210,-1172,92
-S Alabama,211,-1194,126
-UTSA,212,-1199,124
-Ball St,213,-1200,114
-FIU,214,-1201,71
-Rice,215,-1208,116
-Bowling Green,216,-1229,120
-UMass,217,-1712,129
-Old Dominion,218,-1723,119
-UTEP,219,-1777,127
-Akron,220,-1952,125
+N Carolina St,41,72,59
+N Carolina,42,63,65
+S Miss,43,62,69
+Arizona,44,61,47
+Air Force,45,35,75
+West Virginia,46,16,59
+Stanford,47,13,38
+UCF,49,8,25
+Louisville,49,8,114
+TCU,51,7,38
+N Mexico St,51,7,124
+Nebraska,52,6,23
+Purdue,53,-1,59
+Wake Forest,54,-12,47
+Pittsburgh,55,-29,55
+Illinois,56,-43,90
+Boise St,57,-64,55
+S Carolina,58,-97,47
+Miss St,59,-114,9
+Temple,60,-119,69
+Florida St,61,-143,55
+Tulane,62,-147,78
+Kansas,63,-171,88
+Texas Tech,65,-173,65
+Tulsa,65,-173,88
+Northwestern,66,-181,31
+Houston,67,-182,78
+Duke,68,-187,42
+Mississippi,69,-212,75
+Syracuse,70,-216,15
+Maryland,71,-220,82
+Boston College,72,-241,69
+Appalachian St,73,-246,42
+Missouri,74,-264,18
+Georgia Tech,75,-301,65
+Rutgers,76,-305,88
+USF,77,-333,99
+BYU,78,-352,38
+Vanderbilt,79,-366,61
+"Miami, Fl",81,-429,38
+Hawaii,81,-429,105
+Utah St,82,-446,47
+San Diego St,83,-451,103
+Wyoming,84,-458,82
+FAU,85,-470,103
+Louisiana,86,-511,103
+Marshall,87,-561,78
+Liberty,88,-587,109
+E Carolina,89,-664,114
+Arkansas St,90,-692,75
+WKU,91,-739,99
+Nevada,92,-761,90
+Arkansas,93,-762,88
+ULM,94,-796,108
+Connecticut,95,-798,130
+La Tech,96,-808,96
+Colorado St,97,-842,116
+W Michigan,98,-844,103
+San Jose St,99,-848,114
+Georgia Southern,100,-850,88
+Army,101,-858,59
+UNLV,102,-910,106
+Georgia St,103,-911,118
+"Miami, OH",104,-934,75
+Fresno St,105,-937,47
+Buffalo,106,-950,105
+Texas St,107,-963,114
+Kent St,108,-991,108
+Troy,109,-1008,82
+Middle Tenn,111,-1047,96
+C Michigan,111,-1047,129
+Toledo,112,-1048,82
+Coastal Carolina,113,-1063,124
+E Michigan,114,-1075,96
+Charlotte,115,-1090,99
+Ohio,116,-1091,55
+New Mexico,117,-1117,124
+UAB,118,-1139,66
+North Texas,119,-1155,118
+N Illinois,120,-1172,92
+S Alabama,121,-1194,126
+UTSA,122,-1199,124
+Ball St,123,-1200,114
+FIU,124,-1201,71
+Rice,125,-1208,116
+Bowling Green,126,-1229,120
+UMass,127,-1712,129
+Old Dominion,128,-1723,119
+UTEP,129,-1777,127
+Akron,130,-1952,125

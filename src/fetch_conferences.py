@@ -65,7 +65,7 @@ def parse_year(yr_short):
             # Data row
             for offset in (0, 4, 8):
                 if offset + 2 >= len(cells): break
-                name = cells[offset].get_text(strip=True)
+                name = ' '.join(cells[offset].get_text().split())  # normalize whitespace
                 start = cells[offset+1].get_text(strip=True)
                 if not name or not is_number(start) or is_number(name): continue
                 conf = conf_map.get(offset)
