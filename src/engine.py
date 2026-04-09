@@ -118,14 +118,15 @@ def run_season(year):
         return {}, []
 
     n = len(preseason)
+    steel_teams = set(team for team, _ in preseason)
 
     # Initialize points: rank k -> (n+1-k) points
     points = {}
     for team, rank in preseason:
         points[team] = n + 1 - rank
 
-    # Build initial ranked set
-    current_ranks = assign_ranks(points)
+    # Build initial ranked set — only Steel-ranked FBS teams are ever ranked
+    current_ranks = assign_ranks({t: p for t, p in points.items() if t in steel_teams})
 
     games = load_games(year)
     if not games:
@@ -183,8 +184,8 @@ def run_season(year):
             points[winner] += win_pts
             points[loser] -= loss_pts
 
-        # Re-rank after all games on this day are processed
-        current_ranks = assign_ranks(points)
+        # Re-rank after all games on this day are processed — Steel teams only
+        current_ranks = assign_ranks({t: p for t, p in points.items() if t in steel_teams})
         daily_snapshots.append((date, dict(current_ranks)))
 
     return dict(points), daily_snapshots
