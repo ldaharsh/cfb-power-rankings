@@ -21,6 +21,9 @@ CFP = {
     2024: {'champion': 'Ohio St',    'participants': ['Ohio St','Notre Dame','Penn St','Texas',
                                                        'Oregon','Indiana','Boise St','SMU',
                                                        'Clemson','Tennessee','Arizona St','Georgia']},
+    2025: {'champion': 'Indiana',    'participants': ['Indiana','Miami, Fl','Oregon','Ole Miss',
+                                                       'Ohio St','Alabama','Georgia','Texas Tech',
+                                                       'Oklahoma','Texas A&M','Tulane','James Madison']},
 }
 
 def load_season_ranks(yr):
