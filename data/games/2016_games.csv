@@ -1,0 +1,874 @@
+date,home_team,away_team,home_score,away_score
+2016-08-27,California,Hawai'i,51,31
+2016-09-01,Central Michigan,Presbyterian,49,3
+2016-09-01,UConn,Maine,24,21
+2016-09-01,Cincinnati,UT Martin,28,7
+2016-09-01,Louisville,Charlotte,70,14
+2016-09-01,Wake Forest,Tulane,7,3
+2016-09-01,Florida International,Indiana,13,34
+2016-09-01,Tennessee,App State,20,13
+2016-09-01,NC State,William & Mary,48,14
+2016-09-02,Utah State,Weber State,45,6
+2016-09-02,Utah,Southern Utah,24,0
+2016-09-02,Vanderbilt,South Carolina,10,13
+2016-09-02,Western Kentucky,Rice,46,14
+2016-09-02,Minnesota,Oregon State,30,23
+2016-09-02,New Mexico,South Dakota,48,21
+2016-09-02,Idaho,Montana State,20,17
+2016-09-02,UNLV,Jackson State,63,13
+2016-09-02,Eastern Michigan,Mississippi Valley State,61,14
+2016-09-02,Buffalo,UAlbany,16,22
+2016-09-02,Syracuse,Colgate,33,7
+2016-09-02,Michigan State,Furman,28,13
+2016-09-02,Georgia State,Ball State,21,31
+2016-09-02,Temple,Army,13,28
+2016-09-02,Baylor,Northwestern State,55,7
+2016-09-03,Colorado,Colorado State,44,7
+2016-09-03,Arkansas State,Toledo,10,31
+2016-09-03,Stanford,Kansas State,26,13
+2016-09-03,Nevada,Cal Poly,30,27
+2016-09-03,Boston College,Georgia Tech,14,17
+2016-09-03,Navy,Fordham,52,16
+2016-09-03,Purdue,Eastern Kentucky,45,24
+2016-09-03,Maryland,Howard,52,13
+2016-09-03,Mississippi State,South Alabama,20,21
+2016-09-03,Northwestern,Western Michigan,21,22
+2016-09-03,West Virginia,Missouri,26,11
+2016-09-03,Louisiana,Boise State,10,45
+2016-09-03,Houston,Oklahoma,33,23
+2016-09-03,Michigan,Hawai'i,63,3
+2016-09-03,Ohio State,Bowling Green,77,10
+2016-09-03,Virginia Tech,Liberty,36,13
+2016-09-03,Pittsburgh,Villanova,28,7
+2016-09-03,Air Force,Abilene Christian,37,21
+2016-09-03,Washington,Rutgers,48,13
+2016-09-03,Wisconsin,LSU,16,14
+2016-09-03,Texas A&M,UCLA,31,24
+2016-09-03,Oklahoma State,SE Louisiana,61,7
+2016-09-03,Iowa,Miami (OH),45,21
+2016-09-03,Ohio,Texas State,54,56
+2016-09-03,Penn State,Kent State,33,13
+2016-09-03,Illinois,Murray State,52,3
+2016-09-03,Virginia,Richmond,20,37
+2016-09-03,Arkansas,Louisiana Tech,21,20
+2016-09-03,Oregon,UC Davis,53,28
+2016-09-03,North Carolina,Georgia,24,33
+2016-09-03,Troy,Austin Peay,57,17
+2016-09-03,Duke,North Carolina Central,49,6
+2016-09-03,Florida Atlantic,Southern Illinois,38,30
+2016-09-03,East Carolina,Western Carolina,52,7
+2016-09-03,Miami,Florida A&M,70,3
+2016-09-03,Georgia Southern,Savannah St,54,0
+2016-09-03,Akron,VMI,47,24
+2016-09-03,Kansas,Rhode Island,55,6
+2016-09-03,UL Monroe,Southern,38,21
+2016-09-03,UCF,South Carolina State,38,0
+2016-09-03,South Florida,Towson,56,20
+2016-09-03,Middle Tennessee,Alabama A&M,55,0
+2016-09-03,Tulsa,San José State,45,10
+2016-09-03,North Texas,SMU,21,34
+2016-09-03,UTSA,Alabama State,26,13
+2016-09-03,Memphis,Southeast Missouri State,35,17
+2016-09-03,Kentucky,Southern Miss,35,44
+2016-09-03,Florida,Massachusetts,24,7
+2016-09-04,Texas Tech,Stephen F. Austin,69,17
+2016-09-04,Nebraska,Fresno State,43,10
+2016-09-04,Washington State,Eastern Washington,42,45
+2016-09-04,TCU,South Dakota State,59,41
+2016-09-04,UTEP,New Mexico State,38,22
+2016-09-04,Iowa State,Northern Iowa,20,25
+2016-09-04,Alabama,USC,52,6
+2016-09-04,San Diego State,New Hampshire,31,0
+2016-09-04,Auburn,Clemson,13,19
+2016-09-04,Arizona,BYU,16,18
+2016-09-04,Wyoming,Northern Illinois,40,34
+2016-09-04,Arizona State,Northern Arizona,44,13
+2016-09-04,Old Dominion,Hampton,54,21
+2016-09-04,Texas,Notre Dame,50,47
+2016-09-06,Florida State,Ole Miss,45,34
+2016-09-09,Florida International,Maryland,14,41
+2016-09-10,Syracuse,Louisville,28,62
+2016-09-10,Texas A&M,Prairie View A&M,67,0
+2016-09-10,Houston,Lamar,42,0
+2016-09-10,Georgia,Nicholls,26,24
+2016-09-10,Rutgers,Howard,52,14
+2016-09-10,Minnesota,Indiana State,58,28
+2016-09-10,Pittsburgh,Penn State,42,39
+2016-09-10,Michigan,UCF,51,14
+2016-09-10,Oklahoma State,Central Michigan,27,30
+2016-09-10,East Carolina,NC State,33,30
+2016-09-10,Purdue,Cincinnati,20,38
+2016-09-10,Army,Rice,31,14
+2016-09-10,Massachusetts,Boston College,7,26
+2016-09-10,Nebraska,Wyoming,52,17
+2016-09-10,Clemson,Troy,30,24
+2016-09-10,Florida State,Charleston Southern,52,8
+2016-09-10,Temple,Stony Brook,38,0
+2016-09-10,West Virginia,Youngstown State,38,21
+2016-09-10,USC,Utah State,45,7
+2016-09-10,Air Force,Georgia State,48,14
+2016-09-10,Kansas,Ohio,21,37
+2016-09-10,Georgia Tech,Mercer,35,10
+2016-09-10,Navy,UConn,28,24
+2016-09-10,Baylor,SMU,40,13
+2016-09-10,Notre Dame,Nevada,39,10
+2016-09-10,Bowling Green,North Dakota,27,26
+2016-09-10,Northwestern,Illinois State,7,9
+2016-09-10,App State,Old Dominion,31,7
+2016-09-10,Duke,Wake Forest,14,24
+2016-09-10,Ohio State,Tulsa,48,3
+2016-09-10,Wisconsin,Akron,54,10
+2016-09-10,Florida,Kentucky,45,7
+2016-09-10,Alabama,Western Kentucky,38,10
+2016-09-10,Indiana,Ball State,30,20
+2016-09-10,Vanderbilt,Middle Tennessee,47,24
+2016-09-10,Colorado State,UTSA,23,14
+2016-09-10,Ole Miss,Wofford,38,13
+2016-09-10,Miami (OH),Eastern Illinois,17,21
+2016-09-10,San José State,Portland State,66,35
+2016-09-10,Washington,Idaho,59,14
+2016-09-10,Colorado,Idaho State,56,7
+2016-09-10,Marshall,Morgan State,62,0
+2016-09-10,Miami,Florida Atlantic,38,10
+2016-09-10,Kent State,North Carolina A&T,36,39
+2016-09-10,Charlotte,Elon,47,14
+2016-09-10,South Florida,Northern Illinois,48,17
+2016-09-10,Texas,UTEP,41,7
+2016-09-10,Oklahoma,UL Monroe,59,17
+2016-09-10,Mississippi State,South Carolina,27,14
+2016-09-10,South Alabama,Georgia Southern,9,24
+2016-09-10,Louisiana,McNeese,30,22
+2016-09-10,Toledo,Maine,45,3
+2016-09-10,Western Michigan,North Carolina Central,70,21
+2016-09-10,Southern Miss,Savannah St,56,0
+2016-09-10,Louisiana Tech,South Carolina State,53,24
+2016-09-10,North Texas,Bethune-Cookman,41,20
+2016-09-10,TCU,Arkansas,38,41
+2016-09-10,Iowa,Iowa State,42,3
+2016-09-10,Illinois,North Carolina,23,48
+2016-09-10,LSU,Jacksonville State,34,13
+2016-09-10,Missouri,Eastern Michigan,61,21
+2016-09-10,Utah,BYU,20,19
+2016-09-10,Auburn,Arkansas State,51,14
+2016-09-11,Tennessee,Virginia Tech,45,24
+2016-09-11,New Mexico State,New Mexico,32,31
+2016-09-11,UCLA,UNLV,42,21
+2016-09-11,Tulane,Southern,66,21
+2016-09-11,Arizona State,Texas Tech,68,55
+2016-09-11,Fresno State,Sacramento State,31,3
+2016-09-11,Boise State,Washington State,31,28
+2016-09-11,Oregon,Virginia,44,26
+2016-09-11,San Diego State,California,45,40
+2016-09-11,Arizona,Grambling,31,21
+2016-09-11,Hawai'i,UT Martin,41,36
+2016-09-15,Cincinnati,Houston,16,40
+2016-09-17,Rice,Baylor,10,38
+2016-09-17,Utah State,Arkansas State,34,20
+2016-09-17,UTSA,Arizona State,28,32
+2016-09-17,Penn State,Temple,34,27
+2016-09-17,Rutgers,New Mexico,37,28
+2016-09-17,Bowling Green,Middle Tennessee,21,41
+2016-09-17,Clemson,South Carolina State,59,0
+2016-09-17,Iowa,North Dakota State,21,23
+2016-09-17,Marshall,Akron,38,65
+2016-09-17,App State,Miami,10,45
+2016-09-17,Memphis,Kansas,43,7
+2016-09-17,TCU,Iowa State,41,20
+2016-09-17,Tennessee,Ohio,28,19
+2016-09-17,Louisville,Florida State,63,20
+2016-09-17,Wisconsin,Georgia State,23,17
+2016-09-17,Georgia Tech,Vanderbilt,38,7
+2016-09-17,UConn,Virginia,13,10
+2016-09-17,Washington State,Idaho,56,6
+2016-09-17,Tulsa,North Carolina A&T,58,21
+2016-09-17,Kansas State,Florida Atlantic,63,7
+2016-09-17,Central Michigan,UNLV,44,21
+2016-09-17,Ball State,Eastern Kentucky,41,14
+2016-09-17,Toledo,Fresno State,52,17
+2016-09-17,Virginia Tech,Boston College,49,0
+2016-09-17,Nebraska,Oregon,35,32
+2016-09-17,Kent State,Monmouth,27,7
+2016-09-17,North Carolina,James Madison,56,28
+2016-09-17,Northern Illinois,San Diego State,28,42
+2016-09-17,Michigan,Colorado,45,28
+2016-09-17,Ole Miss,Alabama,43,48
+2016-09-17,Massachusetts,Florida International,21,13
+2016-09-17,Syracuse,South Florida,20,45
+2016-09-17,Oklahoma State,Pittsburgh,45,38
+2016-09-17,Miami (OH),Western Kentucky,24,31
+2016-09-17,Colorado State,Northern Colorado,47,21
+2016-09-17,Wyoming,UC Davis,45,22
+2016-09-17,Illinois,Western Michigan,10,34
+2016-09-17,Kentucky,New Mexico State,62,42
+2016-09-17,South Carolina,East Carolina,20,15
+2016-09-17,Oregon State,Idaho State,37,7
+2016-09-17,Charlotte,Eastern Michigan,19,37
+2016-09-17,NC State,Old Dominion,49,22
+2016-09-17,Georgia Southern,UL Monroe,23,21
+2016-09-17,Wake Forest,Delaware,38,21
+2016-09-17,Tulane,Navy,14,21
+2016-09-17,LSU,Mississippi State,23,20
+2016-09-17,Auburn,Texas A&M,16,29
+2016-09-17,Louisiana,South Alabama,28,23
+2016-09-17,UCF,Maryland,24,30
+2016-09-17,Southern Miss,Troy,31,37
+2016-09-17,SMU,Liberty,29,14
+2016-09-17,Texas Tech,Louisiana Tech,59,45
+2016-09-17,UTEP,Army,14,66
+2016-09-17,Arkansas,Texas State,42,3
+2016-09-17,Missouri,Georgia,27,28
+2016-09-17,Notre Dame,Michigan State,28,36
+2016-09-17,Florida,North Texas,32,0
+2016-09-17,Oklahoma,Ohio State,24,45
+2016-09-18,Washington,Portland State,41,3
+2016-09-18,Stanford,USC,27,10
+2016-09-18,Northwestern,Duke,24,13
+2016-09-18,Nevada,Buffalo,38,14
+2016-09-18,BYU,UCLA,14,17
+2016-09-18,San José State,Utah,17,34
+2016-09-18,California,Texas,50,43
+2016-09-18,Arizona,Hawai'i,47,28
+2016-09-22,Georgia Tech,Clemson,7,26
+2016-09-23,Eastern Michigan,Wyoming,27,24
+2016-09-24,SMU,TCU,3,33
+2016-09-24,Utah,USC,31,27
+2016-09-24,Ole Miss,Georgia,45,14
+2016-09-24,Temple,Charlotte,48,20
+2016-09-24,Rutgers,Iowa,7,14
+2016-09-24,Purdue,Nevada,24,14
+2016-09-24,Iowa State,San José State,44,10
+2016-09-24,Minnesota,Colorado State,31,24
+2016-09-24,Michigan State,Wisconsin,6,30
+2016-09-24,South Florida,Florida State,35,55
+2016-09-24,Alabama,Kent State,48,0
+2016-09-24,Virginia,Central Michigan,49,35
+2016-09-24,Virginia Tech,East Carolina,54,17
+2016-09-24,UConn,Syracuse,24,31
+2016-09-24,Boston College,Wagner,42,10
+2016-09-24,Ohio,Gardner-Webb,37,21
+2016-09-24,Tennessee,Florida,38,28
+2016-09-24,Notre Dame,Duke,35,38
+2016-09-24,Old Dominion,UTSA,33,19
+2016-09-24,Northern Illinois,Western Illinois,23,28
+2016-09-24,Michigan,Penn State,49,10
+2016-09-24,Cincinnati,Miami (OH),27,20
+2016-09-24,Akron,App State,38,45
+2016-09-24,Indiana,Wake Forest,28,33
+2016-09-24,North Carolina,Pittsburgh,37,36
+2016-09-24,Massachusetts,Mississippi State,35,47
+2016-09-24,West Virginia,BYU,35,32
+2016-09-24,Oregon State,Boise State,24,38
+2016-09-24,Missouri,Delaware State,79,0
+2016-09-24,Fresno State,Tulsa,41,48
+2016-09-24,Western Kentucky,Vanderbilt,30,31
+2016-09-24,Oregon,Colorado,38,41
+2016-09-24,Florida Atlantic,Ball State,27,31
+2016-09-24,Rice,North Texas,35,42
+2016-09-24,Auburn,LSU,18,13
+2016-09-24,Buffalo,Army,23,20
+2016-09-24,Western Michigan,Georgia Southern,49,31
+2016-09-24,Florida International,UCF,14,53
+2016-09-24,Texas State,Houston,3,64
+2016-09-24,Troy,New Mexico State,52,6
+2016-09-24,Middle Tennessee,Louisiana Tech,38,34
+2016-09-24,Arkansas State,Central Arkansas,23,28
+2016-09-24,South Alabama,Nicholls,41,40
+2016-09-24,Kansas State,Missouri State,35,0
+2016-09-24,Kentucky,South Carolina,17,10
+2016-09-24,Baylor,Oklahoma State,35,24
+2016-09-24,Northwestern,Nebraska,13,24
+2016-09-25,Marshall,Louisville,28,59
+2016-09-25,Memphis,Bowling Green,77,3
+2016-09-25,UCLA,Stanford,13,22
+2016-09-25,UTEP,Southern Miss,7,34
+2016-09-25,Tulane,Louisiana,41,39
+2016-09-25,UNLV,Idaho,30,33
+2016-09-25,Texas A&M,Arkansas,45,24
+2016-09-25,Arizona State,California,51,41
+2016-09-25,Utah State,Air Force,20,27
+2016-09-25,Arizona,Washington,28,35
+2016-09-30,Houston,UConn,42,14
+2016-09-30,Texas Tech,Kansas,55,19
+2016-10-01,Washington,Stanford,44,6
+2016-10-01,BYU,Toledo,55,53
+2016-10-01,Oklahoma State,Texas,49,31
+2016-10-01,Iowa State,Baylor,42,45
+2016-10-01,Ohio State,Rutgers,58,0
+2016-10-01,East Carolina,UCF,29,47
+2016-10-01,Arkansas,Alcorn State,52,10
+2016-10-01,Georgia Tech,Miami,21,35
+2016-10-01,Vanderbilt,Florida,6,13
+2016-10-01,Temple,SMU,45,20
+2016-10-01,App State,Georgia State,17,3
+2016-10-01,Syracuse,Notre Dame,33,50
+2016-10-01,Iowa,Northwestern,31,38
+2016-10-01,Duke,Virginia,20,34
+2016-10-01,Boston College,Buffalo,35,3
+2016-10-01,Colorado,Oregon State,47,6
+2016-10-01,Miami (OH),Ohio,7,17
+2016-10-01,Bowling Green,Eastern Michigan,25,28
+2016-10-01,Maryland,Purdue,50,7
+2016-10-01,Air Force,Navy,28,14
+2016-10-01,Georgia,Tennessee,31,34
+2016-10-01,Auburn,UL Monroe,58,7
+2016-10-01,NC State,Wake Forest,33,16
+2016-10-01,Kent State,Akron,27,31
+2016-10-01,Ball State,Northern Illinois,24,31
+2016-10-01,Nebraska,Illinois,31,16
+2016-10-01,Massachusetts,Tulane,24,31
+2016-10-01,Florida State,North Carolina,35,37
+2016-10-01,Michigan,Wisconsin,14,7
+2016-10-01,West Virginia,Kansas State,17,16
+2016-10-01,Penn State,Minnesota,29,26
+2016-10-01,South Carolina,Texas A&M,13,24
+2016-10-01,New Mexico,San José State,48,41
+2016-10-01,TCU,Oklahoma,46,52
+2016-10-01,Idaho,Troy,13,34
+2016-10-01,Charlotte,Old Dominion,17,52
+2016-10-01,California,Utah,28,23
+2016-10-01,Louisiana Tech,UTEP,28,7
+2016-10-01,Central Michigan,Western Michigan,10,49
+2016-10-01,Cincinnati,South Florida,20,45
+2016-10-01,Southern Miss,Rice,44,28
+2016-10-01,Alabama,Kentucky,34,6
+2016-10-01,Florida International,Florida Atlantic,33,31
+2016-10-01,North Texas,Middle Tennessee,13,30
+2016-10-01,Western Kentucky,Houston Christian,50,3
+2016-10-01,Ole Miss,Memphis,48,28
+2016-10-01,Pittsburgh,Marshall,43,27
+2016-10-01,Texas State,Incarnate Word,48,17
+2016-10-01,LSU,Missouri,42,7
+2016-10-02,Indiana,Michigan State,24,21
+2016-10-02,Clemson,Louisville,42,36
+2016-10-02,New Mexico State,Louisiana,37,31
+2016-10-02,South Alabama,San Diego State,42,24
+2016-10-02,USC,Arizona State,41,20
+2016-10-02,Washington State,Oregon,51,33
+2016-10-02,Colorado State,Wyoming,17,38
+2016-10-02,Boise State,Utah State,21,10
+2016-10-02,UCLA,Arizona,45,24
+2016-10-02,UNLV,Fresno State,45,20
+2016-10-02,Hawai'i,Nevada,38,17
+2016-10-06,Arkansas State,Georgia Southern,27,26
+2016-10-07,Memphis,Temple,34,27
+2016-10-07,Louisiana Tech,Western Kentucky,55,52
+2016-10-07,Boston College,Clemson,10,56
+2016-10-08,Tulsa,SMU,43,40
+2016-10-08,Old Dominion,Massachusetts,36,16
+2016-10-08,New Mexico,Boise State,21,49
+2016-10-08,UConn,Cincinnati,20,9
+2016-10-08,NC State,Notre Dame,10,3
+2016-10-08,South Florida,East Carolina,38,22
+2016-10-08,Minnesota,Iowa,7,14
+2016-10-08,Penn State,Maryland,38,14
+2016-10-08,Oklahoma,Texas,45,40
+2016-10-08,Mississippi State,Auburn,14,38
+2016-10-08,UTSA,Southern Miss,55,32
+2016-10-08,Kansas,TCU,23,24
+2016-10-08,Pittsburgh,Georgia Tech,37,34
+2016-10-08,Ohio,Bowling Green,30,24
+2016-10-08,Eastern Michigan,Toledo,20,35
+2016-10-08,Navy,Houston,46,40
+2016-10-08,Akron,Miami (OH),35,13
+2016-10-08,Wyoming,Air Force,35,26
+2016-10-08,Texas A&M,Tennessee,45,38
+2016-10-08,Illinois,Purdue,31,34
+2016-10-08,Central Michigan,Ball State,24,21
+2016-10-08,Oklahoma State,Iowa State,38,31
+2016-10-08,Georgia State,Texas State,41,21
+2016-10-08,Buffalo,Kent State,20,44
+2016-10-08,North Carolina,Virginia Tech,3,34
+2016-10-08,Michigan State,BYU,14,31
+2016-10-08,Ohio State,Indiana,38,17
+2016-10-08,Duke,Army,13,6
+2016-10-08,Kentucky,Vanderbilt,20,13
+2016-10-08,USC,Colorado,21,17
+2016-10-08,San José State,Hawai'i,17,34
+2016-10-08,Western Michigan,Northern Illinois,45,30
+2016-10-08,Kansas State,Texas Tech,44,38
+2016-10-08,North Texas,Marshall,38,21
+2016-10-08,Nevada,Fresno State,27,22
+2016-10-08,Wake Forest,Syracuse,28,9
+2016-10-08,Rutgers,Michigan,0,78
+2016-10-08,UL Monroe,Idaho,31,34
+2016-10-08,Arkansas,Alabama,30,49
+2016-10-08,Oregon,Washington,21,70
+2016-10-09,Miami,Florida State,19,20
+2016-10-09,UTEP,Florida International,21,35
+2016-10-09,Oregon State,California,47,44
+2016-10-09,Colorado State,Utah State,31,24
+2016-10-09,Utah,Arizona,36,23
+2016-10-09,Stanford,Washington State,16,42
+2016-10-09,Arizona State,UCLA,23,20
+2016-10-09,San Diego State,UNLV,26,7
+2016-10-09,Florida Atlantic,Charlotte,23,28
+2016-10-09,South Carolina,Georgia,14,28
+2016-10-13,Louisiana,App State,0,24
+2016-10-14,Louisville,Duke,24,14
+2016-10-15,Tulane,Memphis,14,24
+2016-10-15,Fresno State,San Diego State,3,17
+2016-10-15,BYU,Mississippi State,28,21
+2016-10-15,Oklahoma,Kansas State,38,17
+2016-10-15,Army,Lafayette,62,7
+2016-10-15,Clemson,NC State,24,17
+2016-10-15,Texas Tech,West Virginia,17,48
+2016-10-15,Georgia,Vanderbilt,16,17
+2016-10-15,Purdue,Iowa,35,49
+2016-10-15,Maryland,Minnesota,10,31
+2016-10-15,Rutgers,Illinois,7,24
+2016-10-15,Georgia Tech,Georgia Southern,35,24
+2016-10-15,Virginia,Pittsburgh,31,45
+2016-10-15,Ohio,Eastern Michigan,20,27
+2016-10-15,Miami (OH),Kent State,18,14
+2016-10-15,Middle Tennessee,Western Kentucky,43,44
+2016-10-15,Tennessee,Alabama,10,49
+2016-10-15,Buffalo,Ball State,21,31
+2016-10-15,Toledo,Bowling Green,42,35
+2016-10-15,Indiana,Nebraska,22,27
+2016-10-15,Baylor,Kansas,49,7
+2016-10-15,Florida State,Wake Forest,17,6
+2016-10-15,Northern Illinois,Central Michigan,28,34
+2016-10-15,Massachusetts,Louisiana Tech,28,56
+2016-10-15,Arizona,USC,14,48
+2016-10-15,Troy,Georgia State,31,21
+2016-10-15,Michigan State,Northwestern,40,54
+2016-10-15,Air Force,New Mexico,40,45
+2016-10-15,Akron,Western Michigan,0,41
+2016-10-15,Miami,North Carolina,13,20
+2016-10-15,Syracuse,Virginia Tech,31,17
+2016-10-15,Florida,Missouri,40,14
+2016-10-15,Oregon State,Utah,14,19
+2016-10-15,Idaho,New Mexico State,55,23
+2016-10-15,Charlotte,Florida International,26,27
+2016-10-15,Houston,Tulsa,38,31
+2016-10-15,Rice,UTSA,13,14
+2016-10-15,Marshall,Florida Atlantic,27,21
+2016-10-15,South Florida,UConn,42,27
+2016-10-15,Arkansas State,South Alabama,17,7
+2016-10-15,Texas,Iowa State,27,6
+2016-10-15,UL Monroe,Texas State,40,34
+2016-10-15,Arkansas,Ole Miss,34,30
+2016-10-15,UCF,Temple,25,26
+2016-10-15,LSU,Southern Miss,45,10
+2016-10-15,Notre Dame,Stanford,10,17
+2016-10-16,Colorado,Arizona State,40,16
+2016-10-16,Wisconsin,Ohio State,23,30
+2016-10-16,Boise State,Colorado State,28,23
+2016-10-16,Washington State,UCLA,27,21
+2016-10-16,San José State,Nevada,14,10
+2016-10-16,Hawai'i,UNLV,38,41
+2016-10-20,Virginia Tech,Miami,37,16
+2016-10-20,South Alabama,Troy,21,28
+2016-10-21,Boise State,BYU,28,27
+2016-10-21,Temple,South Florida,46,30
+2016-10-22,San Diego State,San José State,42,3
+2016-10-22,California,Oregon,52,49
+2016-10-22,Iowa,Wisconsin,9,17
+2016-10-22,South Carolina,Massachusetts,34,28
+2016-10-22,Louisville,NC State,54,13
+2016-10-22,Bowling Green,Miami (OH),26,40
+2016-10-22,Northwestern,Indiana,24,14
+2016-10-22,Kansas State,Texas,24,21
+2016-10-22,Minnesota,Rutgers,34,32
+2016-10-22,Kansas,Oklahoma State,20,44
+2016-10-22,Army,North Texas,18,35
+2016-10-22,UConn,UCF,16,24
+2016-10-22,Toledo,Central Michigan,31,17
+2016-10-22,Boston College,Syracuse,20,28
+2016-10-22,Kent State,Ohio,10,14
+2016-10-22,Air Force,Hawai'i,27,34
+2016-10-22,Ball State,Akron,25,35
+2016-10-22,Virginia,North Carolina,14,35
+2016-10-22,Stanford,Colorado,5,10
+2016-10-22,Northern Illinois,Buffalo,44,7
+2016-10-22,Michigan,Illinois,41,8
+2016-10-22,Alabama,Texas A&M,33,14
+2016-10-22,West Virginia,TCU,34,10
+2016-10-22,Western Michigan,Eastern Michigan,45,31
+2016-10-22,App State,Idaho,37,19
+2016-10-22,Nebraska,Purdue,27,14
+2016-10-22,Navy,Memphis,42,28
+2016-10-22,Rice,Prairie View A&M,65,44
+2016-10-22,Georgia State,UT Martin,31,6
+2016-10-22,Tulsa,Tulane,50,27
+2016-10-22,UCLA,Utah,45,52
+2016-10-22,Missouri,Middle Tennessee,45,51
+2016-10-22,Marshall,Charlotte,24,27
+2016-10-22,UNLV,Colorado State,23,42
+2016-10-22,Auburn,Arkansas,56,3
+2016-10-22,Washington,Oregon State,41,17
+2016-10-22,Cincinnati,East Carolina,31,19
+2016-10-22,Texas State,Louisiana,3,27
+2016-10-22,SMU,Houston,38,16
+2016-10-22,Florida International,Louisiana Tech,24,44
+2016-10-22,UTSA,UTEP,49,52
+2016-10-22,Western Kentucky,Old Dominion,59,24
+2016-10-22,Maryland,Michigan State,28,17
+2016-10-22,Kentucky,Mississippi State,40,38
+2016-10-22,Vanderbilt,Tennessee State,35,17
+2016-10-23,New Mexico State,Georgia Southern,19,22
+2016-10-23,Penn State,Ohio State,24,21
+2016-10-23,Texas Tech,Oklahoma,59,66
+2016-10-23,LSU,Ole Miss,38,21
+2016-10-23,New Mexico,UL Monroe,59,17
+2016-10-23,Arizona State,Washington State,32,37
+2016-10-23,Utah State,Fresno State,38,20
+2016-10-23,Nevada,Wyoming,34,42
+2016-10-27,Pittsburgh,Virginia Tech,36,39
+2016-10-27,Buffalo,Akron,41,20
+2016-10-27,Georgia Southern,App State,10,34
+2016-10-27,Toledo,Ohio,26,31
+2016-10-28,USC,California,45,24
+2016-10-28,South Florida,Navy,52,45
+2016-10-29,Utah State,San Diego State,13,40
+2016-10-29,Fresno State,Air Force,21,31
+2016-10-29,Central Michigan,Kent State,24,27
+2016-10-29,Massachusetts,Wagner,34,10
+2016-10-29,Michigan State,Michigan,23,32
+2016-10-29,Virginia,Louisville,25,32
+2016-10-29,Purdue,Penn State,24,62
+2016-10-29,Missouri,Kentucky,21,35
+2016-10-29,Houston,UCF,31,24
+2016-10-29,East Carolina,UConn,41,3
+2016-10-29,Iowa State,Kansas State,26,31
+2016-10-29,Illinois,Minnesota,17,40
+2016-10-29,Georgia Tech,Duke,38,35
+2016-10-29,Oklahoma State,West Virginia,37,20
+2016-10-29,NC State,Boston College,14,21
+2016-10-29,Notre Dame,Miami,30,27
+2016-10-29,Temple,Cincinnati,34,13
+2016-10-29,Florida Atlantic,Western Kentucky,3,52
+2016-10-29,Wake Forest,Army,13,21
+2016-10-29,Utah,Washington,24,31
+2016-10-29,Mississippi State,Samford,56,41
+2016-10-29,Ohio State,Northwestern,24,20
+2016-10-29,Georgia,Florida,10,24
+2016-10-29,Texas,Baylor,35,34
+2016-10-29,Eastern Michigan,Miami (OH),15,28
+2016-10-29,TCU,Texas Tech,24,27
+2016-10-29,Indiana,Maryland,42,36
+2016-10-29,Tulane,SMU,31,35
+2016-10-29,South Alabama,Georgia State,13,10
+2016-10-29,Oregon,Arizona State,54,35
+2016-10-29,Wyoming,Boise State,30,28
+2016-10-29,Wisconsin,Nebraska,23,17
+2016-10-29,Florida International,Middle Tennessee,35,42
+2016-10-29,Arkansas State,UL Monroe,51,10
+2016-10-29,Louisiana Tech,Rice,61,16
+2016-10-29,UTSA,North Texas,31,17
+2016-10-29,Oklahoma,Kansas,56,3
+2016-10-29,Southern Miss,Marshall,24,14
+2016-10-29,Ole Miss,Auburn,29,40
+2016-10-29,South Carolina,Tennessee,24,21
+2016-10-29,Texas A&M,New Mexico State,52,10
+2016-10-30,Memphis,Tulsa,30,59
+2016-10-30,UTEP,Old Dominion,21,31
+2016-10-30,Florida State,Clemson,34,37
+2016-10-30,San José State,UNLV,30,24
+2016-10-30,Oregon State,Washington State,31,35
+2016-10-30,Arizona,Stanford,10,34
+2016-10-30,Hawai'i,New Mexico,21,28
+2016-11-02,Ball State,Western Michigan,20,52
+2016-11-02,Northern Illinois,Bowling Green,45,20
+2016-11-02,Akron,Toledo,17,48
+2016-11-03,Ohio,Buffalo,34,10
+2016-11-03,Georgia State,Arkansas State,16,31
+2016-11-03,Iowa State,Oklahoma,24,34
+2016-11-04,Colorado,UCLA,20,10
+2016-11-04,Miami (OH),Central Michigan,37,17
+2016-11-04,UConn,Temple,0,21
+2016-11-05,Boise State,San José State,45,31
+2016-11-05,Navy,Notre Dame,28,27
+2016-11-05,Mississippi State,Texas A&M,35,28
+2016-11-05,Rutgers,Indiana,27,33
+2016-11-05,Army,Air Force,12,31
+2016-11-05,Illinois,Michigan State,31,27
+2016-11-05,Texas Tech,Texas,37,45
+2016-11-05,Boston College,Louisville,7,52
+2016-11-05,Northwestern,Wisconsin,7,21
+2016-11-05,Auburn,Vanderbilt,23,16
+2016-11-05,Ole Miss,Georgia Southern,37,27
+2016-11-05,North Carolina,Georgia Tech,48,20
+2016-11-05,Miami,Pittsburgh,51,28
+2016-11-05,Middle Tennessee,UTSA,25,45
+2016-11-05,Wake Forest,Virginia,27,20
+2016-11-05,Clemson,Syracuse,54,0
+2016-11-05,Baylor,TCU,22,62
+2016-11-05,Michigan,Maryland,59,3
+2016-11-05,Kansas State,Oklahoma State,37,43
+2016-11-05,Duke,Virginia Tech,21,24
+2016-11-05,Minnesota,Purdue,44,31
+2016-11-05,Rice,Florida Atlantic,25,42
+2016-11-05,Southern Miss,Charlotte,27,38
+2016-11-05,App State,Texas State,35,10
+2016-11-05,Troy,Massachusetts,52,31
+2016-11-05,Cincinnati,BYU,3,20
+2016-11-05,Colorado State,Fresno State,37,0
+2016-11-05,Stanford,Oregon State,26,15
+2016-11-05,Arkansas,Florida,31,10
+2016-11-05,South Carolina,Missouri,31,21
+2016-11-05,Tennessee,Tennessee Tech,55,0
+2016-11-05,Washington State,Arizona,69,7
+2016-11-05,SMU,Memphis,7,51
+2016-11-05,Louisiana,Idaho,13,23
+2016-11-05,UCF,Tulane,37,6
+2016-11-05,UL Monroe,South Alabama,42,35
+2016-11-05,Western Kentucky,Florida International,49,21
+2016-11-05,North Texas,Louisiana Tech,24,45
+2016-11-05,Old Dominion,Marshall,38,14
+2016-11-05,San Diego State,Hawai'i,55,0
+2016-11-05,West Virginia,Kansas,48,21
+2016-11-05,NC State,Florida State,20,24
+2016-11-05,USC,Oregon,45,20
+2016-11-05,Kentucky,Georgia,24,27
+2016-11-05,Penn State,Iowa,41,14
+2016-11-06,Tulsa,East Carolina,45,24
+2016-11-06,Ohio State,Nebraska,62,3
+2016-11-06,UTEP,Houston Christian,42,10
+2016-11-06,LSU,Alabama,0,10
+2016-11-06,Wyoming,Utah State,52,28
+2016-11-06,New Mexico,Nevada,35,26
+2016-11-06,California,Washington,27,66
+2016-11-09,Ball State,Eastern Michigan,41,48
+2016-11-09,Kent State,Western Michigan,21,37
+2016-11-10,Akron,Bowling Green,28,38
+2016-11-10,Northern Illinois,Toledo,24,31
+2016-11-11,Georgia Southern,Louisiana,26,33
+2016-11-11,Duke,North Carolina,28,27
+2016-11-11,Arizona State,Utah,26,49
+2016-11-12,Florida State,Boston College,45,7
+2016-11-12,Michigan State,Rutgers,49,0
+2016-11-12,Kansas,Iowa State,24,31
+2016-11-12,Indiana,Penn State,31,45
+2016-11-12,Texas,West Virginia,20,24
+2016-11-12,Navy,Tulsa,42,40
+2016-11-12,East Carolina,SMU,31,55
+2016-11-12,Oklahoma,Baylor,45,24
+2016-11-12,Florida,South Carolina,20,7
+2016-11-12,Purdue,Northwestern,17,45
+2016-11-12,Tennessee,Kentucky,49,36
+2016-11-12,UCF,Cincinnati,24,3
+2016-11-12,Alabama,Mississippi State,51,3
+2016-11-12,Syracuse,NC State,20,35
+2016-11-12,Buffalo,Miami (OH),24,35
+2016-11-12,Virginia,Miami,14,34
+2016-11-12,Charlotte,Rice,21,22
+2016-11-12,Georgia State,UL Monroe,23,37
+2016-11-12,Arkansas State,New Mexico State,41,22
+2016-11-12,BYU,Southern Utah,37,7
+2016-11-12,Clemson,Pittsburgh,42,43
+2016-11-12,Georgia,Auburn,13,7
+2016-11-12,Notre Dame,Army,44,6
+2016-11-12,Maryland,Ohio State,3,62
+2016-11-12,Western Kentucky,North Texas,45,7
+2016-11-12,Oklahoma State,Texas Tech,45,44
+2016-11-12,UNLV,Wyoming,69,66
+2016-11-12,Houston,Tulane,30,18
+2016-11-12,Missouri,Vanderbilt,26,17
+2016-11-12,Wisconsin,Illinois,48,3
+2016-11-12,Troy,App State,28,24
+2016-11-12,Old Dominion,Southern Miss,51,35
+2016-11-12,Virginia Tech,Georgia Tech,20,30
+2016-11-12,Louisiana Tech,UTSA,63,35
+2016-11-12,Texas State,Idaho,14,47
+2016-11-12,Oregon,Stanford,27,52
+2016-11-12,Florida Atlantic,UTEP,35,31
+2016-11-13,Marshall,Middle Tennessee,42,17
+2016-11-13,Louisville,Wake Forest,44,12
+2016-11-13,Arkansas,LSU,10,38
+2016-11-13,Memphis,South Florida,42,49
+2016-11-13,Hawai'i,Boise State,16,52
+2016-11-13,Texas A&M,Ole Miss,28,29
+2016-11-13,Washington,USC,13,26
+2016-11-13,Nebraska,Minnesota,24,17
+2016-11-13,Iowa,Michigan,14,13
+2016-11-13,UCLA,Oregon State,38,24
+2016-11-13,Arizona,Colorado,24,49
+2016-11-13,Utah State,New Mexico,21,24
+2016-11-13,Air Force,Colorado State,49,46
+2016-11-13,Nevada,San Diego State,16,46
+2016-11-13,Washington State,California,56,21
+2016-11-16,Central Michigan,Ohio,27,20
+2016-11-16,Bowling Green,Kent State,42,7
+2016-11-17,Toledo,Ball State,37,19
+2016-11-17,Eastern Michigan,Northern Illinois,24,31
+2016-11-18,Houston,Louisville,36,10
+2016-11-18,Troy,Arkansas State,3,35
+2016-11-19,Cincinnati,Memphis,7,34
+2016-11-19,Boise State,UNLV,42,25
+2016-11-19,Georgia,Louisiana,35,21
+2016-11-19,Texas A&M,UTSA,23,10
+2016-11-19,Army,Morgan State,60,3
+2016-11-19,Illinois,Iowa,0,28
+2016-11-19,Purdue,Wisconsin,20,49
+2016-11-19,Michigan State,Ohio State,16,17
+2016-11-19,TCU,Oklahoma State,6,31
+2016-11-19,Nebraska,Maryland,28,7
+2016-11-19,Baylor,Kansas State,21,42
+2016-11-19,Rice,UTEP,44,24
+2016-11-19,NC State,Miami,13,27
+2016-11-19,Georgia Tech,Virginia,31,17
+2016-11-19,LSU,Florida,10,16
+2016-11-19,Boston College,UConn,30,0
+2016-11-19,BYU,Massachusetts,51,9
+2016-11-19,Georgia State,Georgia Southern,30,24
+2016-11-19,Utah,Oregon,28,30
+2016-11-19,Charlotte,Middle Tennessee,31,38
+2016-11-19,App State,UL Monroe,42,17
+2016-11-19,Pittsburgh,Duke,56,14
+2016-11-19,Tulane,Temple,0,31
+2016-11-19,Iowa State,Texas Tech,66,10
+2016-11-19,Notre Dame,Virginia Tech,31,34
+2016-11-19,Wyoming,San Diego State,34,33
+2016-11-19,Kansas,Texas,24,21
+2016-11-19,Syracuse,Florida State,14,45
+2016-11-19,Michigan,Indiana,20,10
+2016-11-19,Colorado,Washington State,38,24
+2016-11-19,Minnesota,Northwestern,29,12
+2016-11-19,Tennessee,Missouri,63,37
+2016-11-19,Western Michigan,Buffalo,38,0
+2016-11-19,North Carolina,The Citadel,41,7
+2016-11-19,South Carolina,Western Carolina,44,31
+2016-11-19,East Carolina,Navy,31,66
+2016-11-19,Nevada,Utah State,38,37
+2016-11-19,Kentucky,Austin Peay,49,13
+2016-11-19,New Mexico State,Texas State,50,10
+2016-11-19,North Texas,Southern Miss,29,23
+2016-11-19,California,Stanford,31,45
+2016-11-19,Florida Atlantic,Old Dominion,24,42
+2016-11-20,Florida International,Marshall,31,14
+2016-11-20,Fresno State,Hawai'i,13,14
+2016-11-20,Mississippi State,Arkansas,42,58
+2016-11-20,SMU,South Florida,27,35
+2016-11-20,Wake Forest,Clemson,13,35
+2016-11-20,South Alabama,Presbyterian,31,7
+2016-11-20,Alabama,Chattanooga,31,3
+2016-11-20,Auburn,Alabama A&M,55,0
+2016-11-20,Washington,Arizona State,44,18
+2016-11-20,West Virginia,Oklahoma,28,56
+2016-11-20,Rutgers,Penn State,0,39
+2016-11-20,UCF,Tulsa,20,35
+2016-11-20,Vanderbilt,Ole Miss,38,17
+2016-11-20,Colorado State,New Mexico,49,31
+2016-11-20,Oregon State,Arizona,42,17
+2016-11-20,UCLA,USC,14,36
+2016-11-20,San José State,Air Force,38,41
+2016-11-23,Miami (OH),Ball State,21,20
+2016-11-23,Eastern Michigan,Central Michigan,26,21
+2016-11-23,Ohio,Akron,9,3
+2016-11-25,Texas A&M,LSU,39,54
+2016-11-25,Kent State,Northern Illinois,21,31
+2016-11-25,Memphis,Houston,48,44
+2016-11-25,North Carolina,NC State,21,28
+2016-11-25,Bowling Green,Buffalo,27,19
+2016-11-25,Missouri,Arkansas,28,24
+2016-11-25,Texas,TCU,9,31
+2016-11-25,Washington State,Washington,17,45
+2016-11-25,Air Force,Boise State,27,20
+2016-11-25,Iowa,Nebraska,40,10
+2016-11-25,Southern Miss,Louisiana Tech,39,24
+2016-11-25,Western Michigan,Toledo,55,35
+2016-11-25,Texas Tech,Baylor,54,35
+2016-11-26,Tulsa,Cincinnati,40,37
+2016-11-26,Arizona,Arizona State,56,35
+2016-11-26,South Florida,UCF,48,31
+2016-11-26,Maryland,Rutgers,31,13
+2016-11-26,Ohio State,Michigan,30,27
+2016-11-26,Louisiana,Arkansas State,24,19
+2016-11-26,Georgia,Georgia Tech,27,28
+2016-11-26,Louisville,Kentucky,38,41
+2016-11-26,Kansas State,Kansas,34,19
+2016-11-26,Indiana,Purdue,26,24
+2016-11-26,Northwestern,Illinois,42,21
+2016-11-26,Virginia Tech,Virginia,52,10
+2016-11-26,Pittsburgh,Syracuse,76,61
+2016-11-26,Wake Forest,Boston College,14,17
+2016-11-26,Wisconsin,Minnesota,31,17
+2016-11-26,Miami,Duke,40,21
+2016-11-26,Old Dominion,Florida International,42,28
+2016-11-26,SMU,Navy,31,75
+2016-11-26,Iowa State,West Virginia,19,49
+2016-11-26,USC,Notre Dame,45,27
+2016-11-26,Penn State,Michigan State,45,12
+2016-11-26,Alabama,Auburn,30,12
+2016-11-26,Fresno State,San José State,14,16
+2016-11-26,Ole Miss,Mississippi State,20,55
+2016-11-26,Idaho,South Alabama,38,31
+2016-11-26,Oregon State,Oregon,34,24
+2016-11-26,New Mexico State,App State,7,37
+2016-11-26,UConn,Tulane,13,38
+2016-11-26,UNLV,Nevada,10,45
+2016-11-26,UTEP,North Texas,52,24
+2016-11-26,Texas State,Troy,7,40
+2016-11-26,Middle Tennessee,Florida Atlantic,77,56
+2016-11-27,Marshall,Western Kentucky,6,60
+2016-11-27,California,UCLA,36,10
+2016-11-27,UTSA,Charlotte,33,14
+2016-11-27,Temple,East Carolina,37,10
+2016-11-27,Clemson,South Carolina,56,7
+2016-11-27,Colorado,Utah,27,22
+2016-11-27,Vanderbilt,Tennessee,45,34
+2016-11-27,Florida State,Florida,31,13
+2016-11-27,Stanford,Rice,41,17
+2016-11-27,San Diego State,Colorado State,31,63
+2016-11-27,BYU,Utah State,28,10
+2016-11-27,New Mexico,Wyoming,56,35
+2016-11-27,Hawai'i,Massachusetts,46,40
+2016-12-03,Ohio,Western Michigan,23,29
+2016-12-03,Washington,Colorado,41,10
+2016-12-03,Western Kentucky,Louisiana Tech,58,44
+2016-12-03,Navy,Temple,10,34
+2016-12-03,Georgia Southern,Troy,28,24
+2016-12-03,TCU,Kansas State,6,30
+2016-12-03,Oklahoma,Oklahoma State,38,20
+2016-12-03,South Alabama,New Mexico State,35,28
+2016-12-03,UL Monroe,Louisiana,3,30
+2016-12-03,West Virginia,Baylor,24,21
+2016-12-03,Florida,Alabama,16,54
+2016-12-03,Idaho,Georgia State,37,12
+2016-12-04,Texas State,Arkansas State,14,36
+2016-12-04,Wyoming,San Diego State,24,27
+2016-12-04,Virginia Tech,Clemson,35,42
+2016-12-04,Penn State,Wisconsin,38,31
+2016-12-10,Army,Navy,21,17
+2016-12-17,UTSA,New Mexico,20,23
+2016-12-17,San Diego State,Houston,34,10
+2016-12-17,Toledo,App State,28,31
+2016-12-17,UCF,Arkansas State,13,31
+2016-12-18,Louisiana,Southern Miss,21,28
+2016-12-19,Tulsa,Central Michigan,55,10
+2016-12-21,Western Kentucky,Memphis,51,31
+2016-12-22,Wyoming,BYU,21,24
+2016-12-23,Colorado State,Idaho,50,61
+2016-12-23,Old Dominion,Eastern Michigan,24,20
+2016-12-23,Navy,Louisiana Tech,45,48
+2016-12-24,Troy,Ohio,28,23
+2016-12-25,Middle Tennessee,Hawai'i,35,52
+2016-12-26,Mississippi State,Miami (OH),17,16
+2016-12-26,Boston College,Maryland,36,30
+2016-12-26,Vanderbilt,NC State,17,41
+2016-12-27,North Texas,Army,31,38
+2016-12-27,Wake Forest,Temple,34,26
+2016-12-28,Washington State,Minnesota,12,17
+2016-12-28,Baylor,Boise State,31,12
+2016-12-28,Northwestern,Pittsburgh,31,24
+2016-12-28,Miami,West Virginia,31,14
+2016-12-29,Utah,Indiana,26,24
+2016-12-29,Kansas State,Texas A&M,33,28
+2016-12-29,South Carolina,South Florida,39,46
+2016-12-29,Virginia Tech,Arkansas,35,24
+2016-12-30,Colorado,Oklahoma State,8,38
+2016-12-30,TCU,Georgia,23,31
+2016-12-30,North Carolina,Stanford,23,25
+2016-12-30,Tennessee,Nebraska,38,24
+2016-12-30,Air Force,South Alabama,45,21
+2016-12-31,Florida State,Michigan,33,32
+2016-12-31,Louisville,LSU,9,29
+2016-12-31,Kentucky,Georgia Tech,18,33
+2016-12-31,Alabama,Washington,24,7
+2017-01-01,Clemson,Ohio State,31,0
+2017-01-02,Iowa,Florida,3,30
+2017-01-02,Wisconsin,Western Michigan,24,16
+2017-01-02,Penn State,USC,49,52
+2017-01-03,Oklahoma,Auburn,35,19
+2017-01-10,Alabama,Clemson,31,35

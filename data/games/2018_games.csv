@@ -1,0 +1,885 @@
+date,home_team,away_team,home_score,away_score
+2018-08-25,Massachusetts,Duquesne,63,15
+2018-08-25,Rice,Prairie View A&M,31,28
+2018-08-25,Colorado State,Hawai'i,34,43
+2018-08-26,New Mexico State,Wyoming,7,29
+2018-08-30,Georgia State,Kennesaw State,24,20
+2018-08-30,Ball State,Central Connecticut,42,6
+2018-08-30,Minnesota,New Mexico State,48,10
+2018-08-30,UConn,UCF,17,56
+2018-08-31,Purdue,Northwestern,27,31
+2018-08-31,Tulane,Wake Forest,17,23
+2018-08-31,Utah,Weber State,41,10
+2018-08-31,Oklahoma State,Missouri State,58,17
+2018-08-31,UL Monroe,SE Louisiana,34,31
+2018-08-31,UAB,Savannah St,52,0
+2018-08-31,Texas A&M,Northwestern State,59,7
+2018-08-31,San José State,UC Davis,38,44
+2018-08-31,Western Michigan,Syracuse,42,55
+2018-08-31,Eastern Michigan,Monmouth,51,17
+2018-08-31,Michigan State,Utah State,38,31
+2018-08-31,Duke,Army,34,14
+2018-09-01,Wisconsin,Western Kentucky,34,3
+2018-09-01,Nevada,Portland State,72,19
+2018-09-01,Stanford,San Diego State,31,10
+2018-09-01,Colorado State,Colorado,13,45
+2018-09-01,Oklahoma,Florida Atlantic,63,14
+2018-09-01,South Carolina,Coastal Carolina,49,15
+2018-09-01,Rutgers,Texas State,35,7
+2018-09-01,Illinois,Kent State,31,24
+2018-09-01,Rice,Houston,27,45
+2018-09-01,Texas Tech,Ole Miss,27,47
+2018-09-01,Ohio State,Oregon State,77,31
+2018-09-01,Temple,Villanova,17,19
+2018-09-01,TCU,Southern,55,7
+2018-09-01,Maryland,Texas,34,29
+2018-09-01,NC State,James Madison,24,13
+2018-09-01,Clemson,Furman,48,7
+2018-09-01,Georgia Tech,Alcorn State,41,0
+2018-09-01,Boston College,Massachusetts,55,21
+2018-09-01,Ohio,Howard,38,32
+2018-09-01,Air Force,Stony Brook,38,0
+2018-09-01,Auburn,Washington,21,16
+2018-09-01,Georgia,Austin Peay,45,0
+2018-09-01,Pittsburgh,UAlbany,33,7
+2018-09-01,Kentucky,Central Michigan,35,20
+2018-09-01,Wyoming,Washington State,19,41
+2018-09-01,Tennessee,West Virginia,14,40
+2018-09-01,Penn State,App State,45,38
+2018-09-01,Iowa,Northern Illinois,33,7
+2018-09-01,Arkansas,Eastern Illinois,55,20
+2018-09-01,Missouri,UT Martin,51,14
+2018-09-01,USC,UNLV,43,21
+2018-09-01,California,North Carolina,24,17
+2018-09-01,Miami (OH),Marshall,28,35
+2018-09-01,Charlotte,Fordham,34,10
+2018-09-01,Troy,Boise State,20,56
+2018-09-01,Liberty,Old Dominion,52,10
+2018-09-01,Georgia Southern,South Carolina State,37,6
+2018-09-01,South Florida,Elon,34,14
+2018-09-01,Buffalo,Delaware State,48,10
+2018-09-01,Virginia,Richmond,42,13
+2018-09-01,Florida International,Indiana,28,38
+2018-09-01,Memphis,Mercer,66,14
+2018-09-01,Louisiana,Grambling,49,17
+2018-09-01,Tulsa,Central Arkansas,38,27
+2018-09-01,Toledo,VMI,66,3
+2018-09-01,UCLA,Cincinnati,17,26
+2018-09-01,Kansas,Nicholls,23,26
+2018-09-01,South Alabama,Louisiana Tech,26,30
+2018-09-01,Kansas State,South Dakota,27,24
+2018-09-01,Southern Miss,Jackson State,55,7
+2018-09-01,Arkansas State,Southeast Missouri State,48,21
+2018-09-01,Notre Dame,Michigan,24,17
+2018-09-01,Mississippi State,Stephen F. Austin,63,6
+2018-09-01,Florida,Charleston Southern,53,6
+2018-09-01,UTEP,Northern Arizona,10,30
+2018-09-01,North Texas,SMU,46,23
+2018-09-01,Vanderbilt,Middle Tennessee,35,7
+2018-09-02,New Mexico,Incarnate Word,62,30
+2018-09-02,Baylor,Abilene Christian,55,27
+2018-09-02,Alabama,Louisville,51,14
+2018-09-02,Oregon,Bowling Green,58,24
+2018-09-02,Fresno State,Idaho,79,13
+2018-09-02,Arizona State,UTSA,49,7
+2018-09-02,Arizona,BYU,23,28
+2018-09-02,Hawai'i,Navy,59,41
+2018-09-02,East Carolina,North Carolina A&T,23,28
+2018-09-02,LSU,Miami,33,17
+2018-09-04,Florida State,Virginia Tech,3,24
+2018-09-08,SMU,TCU,12,42
+2018-09-08,Wake Forest,Towson,51,20
+2018-09-08,Purdue,Eastern Michigan,19,20
+2018-09-08,South Florida,Georgia Tech,49,38
+2018-09-08,Army,Liberty,38,14
+2018-09-08,Northwestern,Duke,7,21
+2018-09-08,Wisconsin,New Mexico,45,14
+2018-09-08,Houston,Arizona,45,18
+2018-09-08,Vanderbilt,Nevada,41,10
+2018-09-08,Michigan,Western Michigan,49,3
+2018-09-08,Kansas State,Mississippi State,10,31
+2018-09-08,NC State,Georgia State,41,7
+2018-09-08,Boston College,Holy Cross,62,14
+2018-09-08,Oklahoma,UCLA,49,21
+2018-09-08,Oregon,Portland State,62,14
+2018-09-08,Virginia Tech,William & Mary,62,17
+2018-09-08,Florida Atlantic,Air Force,33,26
+2018-09-08,Central Michigan,Kansas,7,31
+2018-09-08,Alabama,Arkansas State,57,7
+2018-09-08,Ohio State,Rutgers,52,3
+2018-09-08,South Carolina,Georgia,17,41
+2018-09-08,Temple,Buffalo,29,36
+2018-09-08,Navy,Memphis,22,21
+2018-09-08,East Carolina,North Carolina,41,19
+2018-09-08,Syracuse,Wagner,62,10
+2018-09-08,Notre Dame,Ball State,24,16
+2018-09-08,Nebraska,Colorado,28,33
+2018-09-08,Kent State,Howard,54,14
+2018-09-08,Akron,Morgan State,41,7
+2018-09-08,Ole Miss,Southern Illinois,76,41
+2018-09-08,Tennessee,East Tennessee State,59,3
+2018-09-08,Texas Tech,Lamar,77,0
+2018-09-08,Washington,North Dakota,45,3
+2018-09-08,Iowa,Iowa State,13,3
+2018-09-08,Charlotte,App State,9,45
+2018-09-08,Georgia Southern,Massachusetts,34,13
+2018-09-08,Bowling Green,Maryland,14,45
+2018-09-08,Miami,Savannah St,77,0
+2018-09-08,West Virginia,Youngstown State,52,17
+2018-09-08,UCF,South Carolina State,38,0
+2018-09-08,Marshall,Eastern Kentucky,32,16
+2018-09-08,LSU,SE Louisiana,31,0
+2018-09-08,Louisiana Tech,Southern,54,17
+2018-09-08,Troy,Florida A&M,59,7
+2018-09-08,Middle Tennessee,UT Martin,61,37
+2018-09-08,Southern Miss,UL Monroe,20,21
+2018-09-08,Missouri,Wyoming,40,13
+2018-09-08,Louisville,Indiana State,31,7
+2018-09-08,Texas State,Texas Southern,36,20
+2018-09-08,Texas A&M,Clemson,26,28
+2018-09-08,UTSA,Baylor,20,37
+2018-09-08,Coastal Carolina,UAB,47,24
+2018-09-08,Florida State,Samford,36,26
+2018-09-08,Colorado State,Arkansas,34,27
+2018-09-08,Northern Illinois,Utah,6,17
+2018-09-08,Old Dominion,Florida International,20,28
+2018-09-08,Minnesota,Fresno State,21,14
+2018-09-08,North Texas,Incarnate Word,58,16
+2018-09-08,Illinois,Western Illinois,34,14
+2018-09-08,Florida,Kentucky,16,27
+2018-09-08,Indiana,Virginia,20,16
+2018-09-08,Auburn,Alabama State,63,9
+2018-09-08,Western Kentucky,Maine,28,31
+2018-09-09,Oregon State,Southern Utah,48,25
+2018-09-09,Tulane,Nicholls,42,17
+2018-09-09,Pittsburgh,Penn State,6,51
+2018-09-09,Miami (OH),Cincinnati,0,21
+2018-09-09,Texas,Tulsa,28,21
+2018-09-09,Oklahoma State,South Alabama,55,13
+2018-09-09,Utah State,New Mexico State,60,13
+2018-09-09,Stanford,USC,17,3
+2018-09-09,UNLV,UTEP,52,24
+2018-09-09,San Diego State,Sacramento State,28,14
+2018-09-09,Boise State,UConn,62,7
+2018-09-09,BYU,California,18,21
+2018-09-09,Arizona State,Michigan State,16,13
+2018-09-09,Washington State,San José State,31,0
+2018-09-09,Hawai'i,Rice,43,29
+2018-09-12,Campbell,Coastal Carolina,21,58
+2018-09-13,Charlotte,Old Dominion,28,25
+2018-09-13,Wake Forest,Boston College,34,41
+2018-09-14,Utah State,Tennessee Tech,73,12
+2018-09-14,Memphis,Georgia State,59,22
+2018-09-15,Kansas,Rutgers,55,14
+2018-09-15,Kentucky,Murray State,48,10
+2018-09-15,Indiana,Ball State,38,10
+2018-09-15,Tennessee,UTEP,24,0
+2018-09-15,Toledo,Miami,24,49
+2018-09-15,Maryland,Temple,14,35
+2018-09-15,Syracuse,Florida State,30,7
+2018-09-15,UConn,Rhode Island,56,49
+2018-09-15,Penn State,Kent State,63,10
+2018-09-15,Iowa State,Oklahoma,27,37
+2018-09-15,Army,Hawai'i,28,21
+2018-09-15,Nebraska,Troy,19,24
+2018-09-15,Clemson,Georgia Southern,38,7
+2018-09-15,Georgia,Middle Tennessee,49,7
+2018-09-15,Pittsburgh,Georgia Tech,24,19
+2018-09-15,UAB,Tulane,31,24
+2018-09-15,Stanford,UC Davis,30,10
+2018-09-15,Notre Dame,Vanderbilt,22,17
+2018-09-15,Baylor,Duke,27,40
+2018-09-15,Northern Illinois,Central Michigan,24,16
+2018-09-15,Minnesota,Miami (OH),26,3
+2018-09-15,Oklahoma State,Boise State,44,21
+2018-09-15,Michigan,SMU,45,20
+2018-09-15,Wisconsin,BYU,21,24
+2018-09-15,Navy,Lehigh,51,21
+2018-09-15,Illinois,South Florida,19,25
+2018-09-15,Auburn,LSU,21,22
+2018-09-15,Kansas State,UTSA,41,17
+2018-09-15,Arkansas,North Texas,17,44
+2018-09-15,Florida,Colorado State,48,10
+2018-09-15,Bowling Green,Eastern Kentucky,42,35
+2018-09-15,Wyoming,Wofford,17,14
+2018-09-15,Texas Tech,Houston,63,49
+2018-09-15,Virginia,Ohio,45,31
+2018-09-15,Oregon,San José State,35,22
+2018-09-15,Colorado,New Hampshire,45,14
+2018-09-15,California,Idaho State,45,23
+2018-09-15,Florida Atlantic,Bethune-Cookman,49,28
+2018-09-15,Buffalo,Eastern Michigan,35,28
+2018-09-15,Cincinnati,Alabama A&M,63,7
+2018-09-15,South Alabama,Texas State,41,31
+2018-09-15,Tulsa,Arkansas State,20,29
+2018-09-15,Western Michigan,Delaware State,68,0
+2018-09-15,Ole Miss,Alabama,7,62
+2018-09-15,Nevada,Oregon State,37,35
+2018-09-15,Mississippi State,Louisiana,56,10
+2018-09-15,Northwestern,Akron,34,39
+2018-09-15,Iowa,Northern Iowa,38,14
+2018-09-15,Texas A&M,UL Monroe,48,10
+2018-09-15,Louisville,Western Kentucky,20,17
+2018-09-15,Florida International,Massachusetts,63,24
+2018-09-15,Purdue,Missouri,37,40
+2018-09-16,Washington State,Eastern Washington,59,24
+2018-09-16,TCU,Ohio State,28,40
+2018-09-16,Texas,USC,37,14
+2018-09-16,New Mexico State,New Mexico,25,42
+2018-09-16,UNLV,Prairie View A&M,46,17
+2018-09-16,Utah,Washington,7,21
+2018-09-16,San Diego State,Arizona State,28,21
+2018-09-16,UCLA,Fresno State,14,38
+2018-09-16,Arizona,Southern Utah,62,31
+2018-09-20,Temple,Tulsa,31,17
+2018-09-21,UCF,Florida Atlantic,56,36
+2018-09-22,Illinois,Penn State,24,63
+2018-09-22,USC,Washington State,39,36
+2018-09-22,Maryland,Minnesota,42,13
+2018-09-22,Purdue,Boston College,30,13
+2018-09-22,Missouri,Georgia,29,43
+2018-09-22,Toledo,Nevada,63,44
+2018-09-22,Iowa State,Akron,26,13
+2018-09-22,Cincinnati,Ohio,34,30
+2018-09-22,Rutgers,Buffalo,13,42
+2018-09-22,Wake Forest,Notre Dame,27,56
+2018-09-22,SMU,Navy,31,30
+2018-09-22,Michigan,Nebraska,56,10
+2018-09-22,Ole Miss,Kent State,38,17
+2018-09-22,North Carolina,Pittsburgh,38,35
+2018-09-22,Virginia,Louisville,27,3
+2018-09-22,Georgia State,Western Michigan,15,34
+2018-09-22,Central Michigan,Maine,17,5
+2018-09-22,Ball State,Western Kentucky,20,28
+2018-09-22,Bowling Green,Miami (OH),23,38
+2018-09-22,Colorado State,Illinois State,19,35
+2018-09-22,Duke,North Carolina Central,55,13
+2018-09-22,Ohio State,Tulane,49,6
+2018-09-22,Baylor,Kansas,26,7
+2018-09-22,Alabama,Texas A&M,45,23
+2018-09-22,Old Dominion,Virginia Tech,49,35
+2018-09-22,Florida State,Northern Illinois,37,19
+2018-09-22,West Virginia,Kansas State,35,6
+2018-09-22,Miami,Florida International,31,17
+2018-09-22,Massachusetts,Charlotte,49,31
+2018-09-22,App State,Gardner-Webb,72,7
+2018-09-22,Georgia Tech,Clemson,21,49
+2018-09-22,Vanderbilt,South Carolina,14,37
+2018-09-22,Syracuse,UConn,51,21
+2018-09-22,Oregon State,Arizona,14,35
+2018-09-22,Texas,TCU,31,16
+2018-09-22,Liberty,North Texas,7,47
+2018-09-22,BYU,McNeese,30,3
+2018-09-22,LSU,Louisiana Tech,38,21
+2018-09-22,UTSA,Texas State,25,21
+2018-09-22,Oklahoma State,Texas Tech,17,41
+2018-09-22,Tennessee,Florida,21,47
+2018-09-22,Marshall,NC State,20,37
+2018-09-22,Oklahoma,Army,28,21
+2018-09-22,Louisiana,Coastal Carolina,28,30
+2018-09-22,Kentucky,Mississippi State,28,7
+2018-09-22,UL Monroe,Troy,27,35
+2018-09-22,Arkansas State,UNLV,27,20
+2018-09-22,Southern Miss,Rice,40,22
+2018-09-22,Auburn,Arkansas,34,3
+2018-09-22,Indiana,Michigan State,21,35
+2018-09-22,UTEP,New Mexico State,20,27
+2018-09-23,Memphis,South Alabama,52,35
+2018-09-23,Oregon,Stanford,31,38
+2018-09-23,Houston,Texas Southern,70,14
+2018-09-23,South Florida,East Carolina,20,13
+2018-09-23,Iowa,Wisconsin,17,28
+2018-09-23,Utah State,Air Force,42,32
+2018-09-23,Washington,Arizona State,27,20
+2018-09-23,San Diego State,Eastern Michigan,23,20
+2018-09-23,Hawai'i,Duquesne,42,21
+2018-09-28,Miami,North Carolina,47,10
+2018-09-29,Tulane,Memphis,40,24
+2018-09-29,Colorado,UCLA,38,16
+2018-09-29,Buffalo,Army,13,42
+2018-09-29,Clemson,Syracuse,27,23
+2018-09-29,Boston College,Temple,45,35
+2018-09-29,Kansas,Oklahoma State,28,48
+2018-09-29,Rutgers,Indiana,17,24
+2018-09-29,Michigan State,Central Michigan,31,20
+2018-09-29,Georgia Tech,Bowling Green,63,17
+2018-09-29,Texas A&M,Arkansas,24,17
+2018-09-29,Alabama,Louisiana,56,14
+2018-09-29,Texas Tech,West Virginia,34,42
+2018-09-29,NC State,Virginia,35,21
+2018-09-29,Georgia State,UL Monroe,46,14
+2018-09-29,Ohio,Massachusetts,58,42
+2018-09-29,Ball State,Kent State,52,24
+2018-09-29,Miami (OH),Western Michigan,39,40
+2018-09-29,Louisville,Florida State,24,28
+2018-09-29,Oklahoma,Baylor,66,33
+2018-09-29,UCF,Pittsburgh,45,14
+2018-09-29,Georgia,Tennessee,38,12
+2018-09-29,East Carolina,Old Dominion,37,35
+2018-09-29,Kansas State,Texas,14,19
+2018-09-29,UConn,Cincinnati,7,49
+2018-09-29,Troy,Coastal Carolina,45,21
+2018-09-29,App State,South Alabama,52,7
+2018-09-29,Wake Forest,Rice,56,24
+2018-09-29,Nebraska,Purdue,28,42
+2018-09-29,Air Force,Nevada,25,28
+2018-09-29,Auburn,Southern Miss,24,13
+2018-09-29,Vanderbilt,Tennessee State,31,27
+2018-09-29,Northwestern,Michigan,17,20
+2018-09-29,Mississippi State,Florida,6,13
+2018-09-29,Georgia Southern,Arkansas State,28,21
+2018-09-29,New Mexico,Liberty,43,52
+2018-09-29,Eastern Michigan,Northern Illinois,23,26
+2018-09-29,Washington State,Utah,28,24
+2018-09-29,SMU,Houston Christian,63,27
+2018-09-29,Duke,Virginia Tech,14,31
+2018-09-29,San José State,Hawai'i,41,44
+2018-09-29,UAB,Charlotte,28,7
+2018-09-29,UTSA,UTEP,30,21
+2018-09-29,TCU,Iowa State,17,14
+2018-09-29,Middle Tennessee,Florida Atlantic,25,24
+2018-09-29,Wyoming,Boise State,14,34
+2018-09-29,Notre Dame,Stanford,38,17
+2018-09-29,Penn State,Ohio State,26,27
+2018-09-29,Western Kentucky,Marshall,17,20
+2018-09-29,Kentucky,South Carolina,24,10
+2018-09-29,North Texas,Louisiana Tech,27,29
+2018-09-29,Florida International,Arkansas-Pine Bluff,55,9
+2018-09-30,Washington,BYU,35,7
+2018-09-30,LSU,Ole Miss,45,16
+2018-09-30,Arizona State,Oregon State,52,24
+2018-09-30,Fresno State,Toledo,49,27
+2018-09-30,California,Oregon,24,42
+2018-09-30,Arizona,USC,20,24
+2018-10-04,Troy,Georgia State,37,20
+2018-10-05,Houston,Tulsa,41,26
+2018-10-05,Louisville,Georgia Tech,31,66
+2018-10-05,Marshall,Middle Tennessee,24,34
+2018-10-06,BYU,Utah State,20,45
+2018-10-06,Rutgers,Illinois,17,38
+2018-10-06,Temple,East Carolina,49,6
+2018-10-06,Cincinnati,Tulane,37,21
+2018-10-06,Michigan,Maryland,42,21
+2018-10-06,South Carolina,Missouri,37,35
+2018-10-06,Oklahoma,Texas,45,48
+2018-10-06,Central Michigan,Buffalo,24,34
+2018-10-06,Arkansas,Alabama,31,65
+2018-10-06,West Virginia,Kansas,38,22
+2018-10-06,Western Michigan,Eastern Michigan,27,24
+2018-10-06,Michigan State,Northwestern,19,29
+2018-10-06,Pittsburgh,Syracuse,44,37
+2018-10-06,NC State,Boston College,28,23
+2018-10-06,Ball State,Northern Illinois,16,24
+2018-10-06,Akron,Miami (OH),17,41
+2018-10-06,Wake Forest,Clemson,3,63
+2018-10-06,Boise State,San Diego State,13,19
+2018-10-06,Toledo,Bowling Green,52,36
+2018-10-06,Florida,LSU,27,19
+2018-10-06,Air Force,Navy,35,7
+2018-10-06,Kent State,Ohio,26,27
+2018-10-06,Oklahoma State,Iowa State,42,48
+2018-10-06,Minnesota,Iowa,31,48
+2018-10-06,Massachusetts,South Florida,42,58
+2018-10-06,Miami,Florida State,28,27
+2018-10-06,Georgia Southern,South Alabama,48,13
+2018-10-06,Baylor,Kansas State,37,34
+2018-10-06,Colorado,Arizona State,28,21
+2018-10-06,Ohio State,Indiana,49,26
+2018-10-06,Ole Miss,UL Monroe,70,21
+2018-10-06,UNLV,New Mexico,14,50
+2018-10-06,Florida Atlantic,Old Dominion,52,33
+2018-10-06,Memphis,UConn,55,14
+2018-10-06,Rice,UTSA,3,20
+2018-10-06,Texas State,Louisiana,27,42
+2018-10-06,Texas A&M,Kentucky,20,14
+2018-10-06,Louisiana Tech,UAB,7,28
+2018-10-06,UCF,SMU,48,20
+2018-10-06,Wisconsin,Nebraska,41,24
+2018-10-06,Mississippi State,Auburn,23,9
+2018-10-06,UTEP,North Texas,24,27
+2018-10-06,UCLA,Washington,24,31
+2018-10-06,Georgia,Vanderbilt,41,13
+2018-10-07,New Mexico State,Liberty,49,41
+2018-10-07,Virginia Tech,Notre Dame,23,45
+2018-10-07,Oregon State,Washington State,37,56
+2018-10-07,Arizona,California,24,17
+2018-10-07,San José State,Colorado State,30,42
+2018-10-07,Stanford,Utah,21,40
+2018-10-07,Nevada,Fresno State,3,21
+2018-10-07,Hawai'i,Wyoming,17,13
+2018-10-10,Arkansas State,App State,9,35
+2018-10-11,TCU,Texas Tech,14,17
+2018-10-11,Texas State,Georgia Southern,13,15
+2018-10-12,Tulsa,South Florida,24,25
+2018-10-13,San Diego State,Air Force,21,17
+2018-10-13,Utah,Arizona,42,10
+2018-10-13,Ohio State,Minnesota,30,14
+2018-10-13,Vanderbilt,Florida,27,37
+2018-10-13,Northwestern,Nebraska,34,31
+2018-10-13,Eastern Michigan,Toledo,28,26
+2018-10-13,Maryland,Rutgers,34,7
+2018-10-13,Buffalo,Akron,24,6
+2018-10-13,Kansas State,Oklahoma State,31,12
+2018-10-13,Auburn,Tennessee,24,30
+2018-10-13,Indiana,Iowa,16,42
+2018-10-13,Georgia Tech,Duke,14,28
+2018-10-13,Boston College,Louisville,38,20
+2018-10-13,Rice,UAB,0,42
+2018-10-13,Liberty,Troy,22,16
+2018-10-13,North Texas,Southern Miss,30,7
+2018-10-13,Notre Dame,Pittsburgh,19,14
+2018-10-13,Miami (OH),Kent State,31,6
+2018-10-13,Bowling Green,Western Michigan,35,42
+2018-10-13,Central Michigan,Ball State,23,24
+2018-10-13,Texas,Baylor,23,17
+2018-10-13,LSU,Georgia,36,16
+2018-10-13,South Carolina,Texas A&M,23,26
+2018-10-13,Illinois,Purdue,7,46
+2018-10-13,Navy,Temple,17,24
+2018-10-13,San José State,Army,3,52
+2018-10-13,Memphis,UCF,30,31
+2018-10-13,Old Dominion,Marshall,20,42
+2018-10-13,Charlotte,Western Kentucky,40,14
+2018-10-13,Oregon,Washington,30,27
+2018-10-13,Northern Illinois,Ohio,24,21
+2018-10-13,Penn State,Michigan State,17,21
+2018-10-13,Colorado State,New Mexico,20,18
+2018-10-13,Utah State,UNLV,59,28
+2018-10-13,South Alabama,Alabama State,45,7
+2018-10-13,Louisiana,New Mexico State,66,38
+2018-10-13,Coastal Carolina,UL Monroe,20,45
+2018-10-13,East Carolina,Houston,20,42
+2018-10-13,Iowa State,West Virginia,30,14
+2018-10-13,California,UCLA,7,37
+2018-10-13,North Carolina,Virginia Tech,19,22
+2018-10-13,UTSA,Louisiana Tech,3,31
+2018-10-13,Virginia,Miami,16,13
+2018-10-13,Alabama,Missouri,39,10
+2018-10-13,Arkansas,Ole Miss,33,37
+2018-10-13,Florida International,Middle Tennessee,24,21
+2018-10-13,Michigan,Wisconsin,38,13
+2018-10-14,BYU,Hawai'i,49,23
+2018-10-14,Nevada,Boise State,27,31
+2018-10-14,Fresno State,Wyoming,27,3
+2018-10-14,USC,Colorado,31,20
+2018-10-18,Arkansas State,Georgia State,51,35
+2018-10-19,Arizona State,Stanford,13,20
+2018-10-20,Boise State,Colorado State,56,28
+2018-10-20,UNLV,Air Force,35,41
+2018-10-20,Iowa,Maryland,23,0
+2018-10-20,Ole Miss,Auburn,16,31
+2018-10-20,TCU,Oklahoma,27,52
+2018-10-20,Arkansas,Tulsa,23,0
+2018-10-20,Michigan State,Michigan,7,21
+2018-10-20,Rutgers,Northwestern,15,18
+2018-10-20,Wisconsin,Illinois,49,20
+2018-10-20,Army,Miami (OH),31,30
+2018-10-20,Temple,Cincinnati,24,17
+2018-10-20,Toledo,Buffalo,17,31
+2018-10-20,Syracuse,North Carolina,40,37
+2018-10-20,Duke,Virginia,14,28
+2018-10-20,Ohio,Bowling Green,49,14
+2018-10-20,Liberty,Idaho State,48,41
+2018-10-20,Wyoming,Utah State,16,24
+2018-10-20,Marshall,Florida Atlantic,31,7
+2018-10-20,Middle Tennessee,Charlotte,21,13
+2018-10-20,Central Michigan,Western Michigan,10,35
+2018-10-20,Ball State,Eastern Michigan,20,42
+2018-10-20,Kent State,Akron,23,24
+2018-10-20,Washington,Colorado,27,13
+2018-10-20,App State,Louisiana,27,17
+2018-10-20,Massachusetts,Coastal Carolina,13,24
+2018-10-20,Navy,Houston,36,49
+2018-10-20,Louisiana Tech,UTEP,31,24
+2018-10-20,Texas Tech,Kansas,48,16
+2018-10-20,Florida State,Wake Forest,38,17
+2018-10-20,Clemson,NC State,41,7
+2018-10-20,Nebraska,Minnesota,53,28
+2018-10-20,Tulane,SMU,23,27
+2018-10-20,Tennessee,Alabama,21,58
+2018-10-20,Indiana,Penn State,28,33
+2018-10-20,Oregon State,California,7,49
+2018-10-20,Missouri,Memphis,65,33
+2018-10-20,New Mexico State,Georgia Southern,31,48
+2018-10-20,Southern Miss,UTSA,27,17
+2018-10-20,East Carolina,UCF,10,37
+2018-10-20,South Florida,UConn,38,30
+2018-10-20,LSU,Mississippi State,19,3
+2018-10-20,UL Monroe,Texas State,20,14
+2018-10-20,Kentucky,Vanderbilt,14,7
+2018-10-20,Purdue,Ohio State,49,20
+2018-10-20,Washington State,Oregon,34,20
+2018-10-20,Western Kentucky,Old Dominion,34,37
+2018-10-20,Florida International,Rice,36,17
+2018-10-20,New Mexico,Fresno State,7,38
+2018-10-20,UAB,North Texas,29,21
+2018-10-21,Utah,USC,41,28
+2018-10-21,San Diego State,San José State,16,13
+2018-10-21,UCLA,Arizona,31,30
+2018-10-21,Hawai'i,Nevada,22,40
+2018-10-24,South Alabama,Troy,17,38
+2018-10-25,Western Michigan,Toledo,24,51
+2018-10-25,Ohio,Ball State,52,14
+2018-10-25,West Virginia,Baylor,58,14
+2018-10-25,Virginia Tech,Georgia Tech,28,49
+2018-10-25,Georgia Southern,App State,34,14
+2018-10-26,Florida Atlantic,Louisiana Tech,13,21
+2018-10-26,Boston College,Miami,27,14
+2018-10-27,Minnesota,Indiana,38,31
+2018-10-27,Colorado State,Wyoming,21,34
+2018-10-27,UCLA,Utah,10,41
+2018-10-27,UConn,Massachusetts,17,22
+2018-10-27,Louisville,Wake Forest,35,56
+2018-10-27,Florida State,Clemson,10,59
+2018-10-27,Eastern Michigan,Army,22,37
+2018-10-27,Iowa State,Texas Tech,40,31
+2018-10-27,Akron,Central Michigan,17,10
+2018-10-27,Michigan State,Purdue,23,13
+2018-10-27,Northwestern,Wisconsin,31,17
+2018-10-27,Arkansas,Vanderbilt,31,45
+2018-10-27,Nebraska,Bethune-Cookman,45,9
+2018-10-27,Virginia,North Carolina,31,21
+2018-10-27,Charlotte,Southern Miss,20,17
+2018-10-27,Georgia State,Coastal Carolina,34,37
+2018-10-27,Kansas,TCU,27,26
+2018-10-27,Colorado,Oregon State,34,41
+2018-10-27,USC,Arizona State,35,38
+2018-10-27,Oklahoma,Kansas State,51,14
+2018-10-27,Penn State,Iowa,30,24
+2018-10-27,Pittsburgh,Duke,54,45
+2018-10-27,Maryland,Illinois,63,33
+2018-10-27,Houston,South Florida,57,36
+2018-10-27,SMU,Cincinnati,20,26
+2018-10-27,Georgia,Florida,36,17
+2018-10-27,BYU,Northern Illinois,6,7
+2018-10-27,Old Dominion,Middle Tennessee,17,51
+2018-10-27,Utah State,New Mexico,61,19
+2018-10-27,Missouri,Kentucky,14,15
+2018-10-27,North Texas,Rice,41,17
+2018-10-27,San José State,UNLV,50,37
+2018-10-27,California,Washington,12,10
+2018-10-27,Syracuse,NC State,51,41
+2018-10-27,Louisiana,Arkansas State,47,43
+2018-10-27,Mississippi State,Texas A&M,28,13
+2018-10-27,Air Force,Boise State,38,48
+2018-10-27,Tulsa,Tulane,17,24
+2018-10-27,Texas State,New Mexico State,27,20
+2018-10-27,Stanford,Washington State,38,41
+2018-10-27,UTEP,UAB,0,19
+2018-10-27,Western Kentucky,Florida International,17,38
+2018-10-27,South Carolina,Tennessee,27,24
+2018-10-28,Navy,Notre Dame,22,44
+2018-10-28,Oklahoma State,Texas,38,35
+2018-10-28,Fresno State,Hawai'i,50,20
+2018-10-28,Nevada,San Diego State,28,24
+2018-10-28,Arizona,Oregon,44,15
+2018-10-31,Buffalo,Miami (OH),51,42
+2018-10-31,Bowling Green,Kent State,28,35
+2018-10-31,Toledo,Ball State,45,13
+2018-11-01,Western Michigan,Ohio,14,59
+2018-11-01,Akron,Northern Illinois,26,36
+2018-11-01,UCF,Temple,52,40
+2018-11-02,Virginia,Pittsburgh,13,23
+2018-11-03,Middle Tennessee,Western Kentucky,29,10
+2018-11-03,Arizona,Colorado,42,34
+2018-11-03,Army,Air Force,17,14
+2018-11-03,East Carolina,Memphis,41,59
+2018-11-03,Eastern Michigan,Central Michigan,17,7
+2018-11-03,Wake Forest,Syracuse,24,41
+2018-11-03,Auburn,Texas A&M,28,24
+2018-11-03,Baylor,Oklahoma State,35,31
+2018-11-03,Ole Miss,South Carolina,44,48
+2018-11-03,Ohio State,Nebraska,36,31
+2018-11-03,Maryland,Michigan State,3,24
+2018-11-03,Clemson,Louisville,77,16
+2018-11-03,Wisconsin,Rutgers,31,17
+2018-11-03,Kansas,Iowa State,3,27
+2018-11-03,North Carolina,Georgia Tech,28,38
+2018-11-03,Wyoming,San José State,24,9
+2018-11-03,Georgia State,Texas State,30,40
+2018-11-03,Arkansas State,South Alabama,38,14
+2018-11-03,UL Monroe,Georgia Southern,44,25
+2018-11-03,Southern Miss,Marshall,26,24
+2018-11-03,Cincinnati,Navy,42,0
+2018-11-03,Rice,UTEP,26,34
+2018-11-03,Purdue,Iowa,38,36
+2018-11-03,Kentucky,Georgia,17,34
+2018-11-03,Illinois,Minnesota,55,31
+2018-11-03,Troy,Louisiana,26,16
+2018-11-03,Massachusetts,Liberty,62,59
+2018-11-03,South Florida,Tulane,15,41
+2018-11-03,TCU,Kansas State,14,13
+2018-11-03,Texas,West Virginia,41,42
+2018-11-03,NC State,Florida State,47,28
+2018-11-03,Michigan,Penn State,42,7
+2018-11-03,Virginia Tech,Boston College,21,31
+2018-11-03,Arizona State,Utah,38,20
+2018-11-03,Florida,Missouri,17,38
+2018-11-03,Tennessee,Charlotte,14,3
+2018-11-03,New Mexico State,Alcorn State,52,42
+2018-11-03,Coastal Carolina,App State,7,23
+2018-11-03,SMU,Houston,45,31
+2018-11-03,Miami,Duke,12,20
+2018-11-03,Tulsa,UConn,49,19
+2018-11-03,Northwestern,Notre Dame,21,31
+2018-11-03,UAB,UTSA,52,3
+2018-11-03,Oregon,UCLA,42,21
+2018-11-03,Mississippi State,Louisiana Tech,45,3
+2018-11-03,Florida International,Florida Atlantic,14,49
+2018-11-04,LSU,Alabama,0,29
+2018-11-04,Texas Tech,Oklahoma,46,51
+2018-11-04,Washington,Stanford,27,23
+2018-11-04,Oregon State,USC,21,38
+2018-11-04,Boise State,BYU,21,16
+2018-11-04,New Mexico,San Diego State,23,31
+2018-11-04,UNLV,Fresno State,3,48
+2018-11-04,Washington State,California,19,13
+2018-11-04,Hawai'i,Utah State,17,56
+2018-11-07,Buffalo,Kent State,48,14
+2018-11-08,Miami (OH),Ohio,30,28
+2018-11-08,Northern Illinois,Toledo,38,15
+2018-11-09,NC State,Wake Forest,23,27
+2018-11-10,Syracuse,Louisville,54,23
+2018-11-10,Boise State,Fresno State,24,17
+2018-11-10,Michigan State,Ohio State,6,26
+2018-11-10,Kansas State,Kansas,21,17
+2018-11-10,Texas A&M,Ole Miss,38,24
+2018-11-10,Missouri,Vanderbilt,33,28
+2018-11-10,Florida,South Carolina,35,31
+2018-11-10,Massachusetts,BYU,16,35
+2018-11-10,Penn State,Wisconsin,22,10
+2018-11-10,Nebraska,Illinois,54,35
+2018-11-10,UCF,Navy,35,24
+2018-11-10,Eastern Michigan,Akron,27,7
+2018-11-10,Memphis,Tulsa,47,21
+2018-11-10,West Virginia,TCU,47,10
+2018-11-10,Indiana,Maryland,34,32
+2018-11-10,UConn,SMU,50,62
+2018-11-10,Army,Lafayette,31,13
+2018-11-10,Duke,North Carolina,42,35
+2018-11-10,Georgia Southern,Troy,21,35
+2018-11-10,Arizona State,UCLA,31,28
+2018-11-10,Marshall,Charlotte,30,13
+2018-11-10,Virginia,Liberty,45,24
+2018-11-10,UTEP,Middle Tennessee,32,48
+2018-11-10,Central Michigan,Bowling Green,13,24
+2018-11-10,Iowa State,Baylor,28,14
+2018-11-10,Tennessee,Kentucky,24,7
+2018-11-10,Colorado,Washington State,7,31
+2018-11-10,Alabama,Mississippi State,24,0
+2018-11-10,Minnesota,Purdue,41,10
+2018-11-10,Pittsburgh,Virginia Tech,52,22
+2018-11-10,Old Dominion,North Texas,34,31
+2018-11-10,Oklahoma,Oklahoma State,48,47
+2018-11-10,Iowa,Northwestern,10,14
+2018-11-10,Air Force,New Mexico,42,24
+2018-11-10,Rutgers,Michigan,7,42
+2018-11-10,Texas State,App State,7,38
+2018-11-10,Utah State,San José State,62,24
+2018-11-10,Tulane,East Carolina,24,18
+2018-11-10,South Alabama,UL Monroe,10,38
+2018-11-10,Florida Atlantic,Western Kentucky,34,15
+2018-11-10,Coastal Carolina,Arkansas State,16,44
+2018-11-10,Louisiana,Georgia State,36,22
+2018-11-10,Utah,Oregon,32,25
+2018-11-11,Louisiana Tech,Rice,28,13
+2018-11-11,UTSA,Florida International,7,45
+2018-11-11,Cincinnati,South Florida,35,23
+2018-11-11,Georgia,Auburn,27,10
+2018-11-11,Georgia Tech,Miami,27,21
+2018-11-11,Houston,Temple,49,59
+2018-11-11,UAB,Southern Miss,26,23
+2018-11-11,Arkansas,LSU,17,24
+2018-11-11,Notre Dame,Florida State,42,13
+2018-11-11,Texas Tech,Texas,34,41
+2018-11-11,Boston College,Clemson,7,27
+2018-11-11,Stanford,Oregon State,48,17
+2018-11-11,Nevada,Colorado State,49,10
+2018-11-11,San Diego State,UNLV,24,27
+2018-11-11,USC,California,14,15
+2018-11-13,Ball State,Western Michigan,42,41
+2018-11-15,Ohio,Buffalo,52,17
+2018-11-15,Northern Illinois,Miami (OH),7,13
+2018-11-15,Kent State,Toledo,34,56
+2018-11-16,Houston,Tulane,48,17
+2018-11-16,North Texas,Florida Atlantic,41,38
+2018-11-17,SMU,Memphis,18,28
+2018-11-17,New Mexico,Boise State,14,45
+2018-11-17,Alabama,The Citadel,50,17
+2018-11-17,Baylor,TCU,9,16
+2018-11-17,Florida,Idaho,63,10
+2018-11-17,Army,Colgate,28,14
+2018-11-17,Minnesota,Northwestern,14,24
+2018-11-17,Mississippi State,Arkansas,52,6
+2018-11-17,Nebraska,Michigan State,9,6
+2018-11-17,Wake Forest,Pittsburgh,13,34
+2018-11-17,Kentucky,Middle Tennessee,34,23
+2018-11-17,Temple,South Florida,27,17
+2018-11-17,Rutgers,Penn State,7,20
+2018-11-17,Maryland,Ohio State,51,52
+2018-11-17,Louisville,NC State,10,52
+2018-11-17,Colorado,Utah,7,30
+2018-11-17,Charlotte,Florida International,35,42
+2018-11-17,Colorado State,Utah State,24,29
+2018-11-17,Old Dominion,VMI,77,14
+2018-11-17,App State,Georgia State,45,17
+2018-11-17,Notre Dame,Syracuse,36,3
+2018-11-17,Marshall,UTSA,23,0
+2018-11-17,Arkansas State,UL Monroe,31,17
+2018-11-17,San José State,Nevada,12,21
+2018-11-17,North Carolina,Western Carolina,49,26
+2018-11-17,Florida State,Boston College,22,21
+2018-11-17,UCLA,USC,34,27
+2018-11-17,Southern Miss,Louisiana Tech,21,20
+2018-11-17,Georgia Tech,Virginia,30,27
+2018-11-17,Navy,Tulsa,37,29
+2018-11-17,Tennessee,Missouri,17,50
+2018-11-17,Akron,Bowling Green,6,21
+2018-11-17,Kansas State,Texas Tech,21,6
+2018-11-17,Illinois,Iowa,0,63
+2018-11-17,Purdue,Wisconsin,44,47
+2018-11-17,Oklahoma State,West Virginia,45,41
+2018-11-17,Virginia Tech,Miami,14,38
+2018-11-17,Troy,Texas State,12,7
+2018-11-17,Georgia,Massachusetts,66,27
+2018-11-17,Michigan,Indiana,31,20
+2018-11-17,Wyoming,Air Force,35,27
+2018-11-17,Auburn,Liberty,53,0
+2018-11-17,Washington,Oregon State,42,23
+2018-11-17,Louisiana,South Alabama,48,38
+2018-11-17,Coastal Carolina,Georgia Southern,17,41
+2018-11-18,Texas A&M,UAB,41,20
+2018-11-18,Clemson,Duke,35,6
+2018-11-18,East Carolina,UConn,55,21
+2018-11-18,Western Kentucky,UTEP,40,16
+2018-11-18,Vanderbilt,Ole Miss,36,29
+2018-11-18,LSU,Rice,42,10
+2018-11-18,South Carolina,Chattanooga,49,9
+2018-11-18,Oklahoma,Kansas,55,40
+2018-11-18,UCF,Cincinnati,38,13
+2018-11-18,Texas,Iowa State,24,10
+2018-11-18,BYU,New Mexico State,45,10
+2018-11-18,Oregon,Arizona State,31,29
+2018-11-18,Fresno State,San Diego State,23,14
+2018-11-18,Washington State,Arizona,69,28
+2018-11-18,Hawai'i,UNLV,35,28
+2018-11-21,Western Michigan,Northern Illinois,28,21
+2018-11-21,Miami (OH),Ball State,42,21
+2018-11-22,Air Force,Colorado State,27,19
+2018-11-23,Ole Miss,Mississippi State,3,35
+2018-11-23,Iowa,Nebraska,31,28
+2018-11-23,Kansas,Texas,17,24
+2018-11-23,Bowling Green,Buffalo,14,44
+2018-11-23,Kent State,Eastern Michigan,20,28
+2018-11-23,Memphis,Houston,52,31
+2018-11-23,Toledo,Central Michigan,51,13
+2018-11-23,Ohio,Akron,49,28
+2018-11-23,Missouri,Arkansas,38,0
+2018-11-23,South Alabama,Coastal Carolina,31,28
+2018-11-23,Cincinnati,East Carolina,56,6
+2018-11-23,Virginia Tech,Virginia,34,31
+2018-11-23,Oregon State,Oregon,15,55
+2018-11-23,South Florida,UCF,10,38
+2018-11-24,West Virginia,Oklahoma,56,59
+2018-11-24,Washington State,Washington,15,28
+2018-11-24,Ohio State,Michigan,62,39
+2018-11-24,Boston College,Syracuse,21,42
+2018-11-24,Tulane,Navy,29,28
+2018-11-24,Florida International,Marshall,25,28
+2018-11-24,Florida State,Florida,14,41
+2018-11-24,Texas Tech,Baylor,24,35
+2018-11-24,Louisiana Tech,Western Kentucky,15,30
+2018-11-24,Georgia,Georgia Tech,45,21
+2018-11-24,Indiana,Purdue,21,28
+2018-11-24,North Carolina,NC State,28,34
+2018-11-24,Duke,Wake Forest,7,59
+2018-11-24,Rice,Old Dominion,27,13
+2018-11-24,Georgia State,Georgia Southern,14,35
+2018-11-24,Liberty,New Mexico State,28,21
+2018-11-24,App State,Troy,21,10
+2018-11-24,New Mexico,Wyoming,3,31
+2018-11-24,UCLA,Stanford,42,49
+2018-11-24,UTEP,Southern Miss,7,39
+2018-11-24,UL Monroe,Louisiana,28,31
+2018-11-24,Middle Tennessee,UAB,27,3
+2018-11-24,Arizona,Arizona State,40,41
+2018-11-24,Miami,Pittsburgh,24,3
+2018-11-24,Northwestern,Illinois,24,16
+2018-11-24,Tulsa,SMU,27,24
+2018-11-24,Penn State,Maryland,38,3
+2018-11-24,Alabama,Auburn,52,21
+2018-11-24,Wisconsin,Minnesota,15,37
+2018-11-24,UConn,Temple,7,57
+2018-11-24,Texas State,Arkansas State,7,33
+2018-11-24,Vanderbilt,Tennessee,38,13
+2018-11-24,Michigan State,Rutgers,14,10
+2018-11-24,Florida Atlantic,Charlotte,24,27
+2018-11-25,UTSA,North Texas,21,24
+2018-11-25,Clemson,South Carolina,56,35
+2018-11-25,Iowa State,Kansas State,42,38
+2018-11-25,California,Colorado,33,21
+2018-11-25,Fresno State,San José State,31,13
+2018-11-25,Louisville,Kentucky,10,56
+2018-11-25,Texas A&M,LSU,74,72
+2018-11-25,USC,Notre Dame,17,24
+2018-11-25,TCU,Oklahoma State,31,24
+2018-11-25,UNLV,Nevada,34,29
+2018-11-25,Utah,BYU,35,27
+2018-11-25,Boise State,Utah State,33,24
+2018-11-25,San Diego State,Hawai'i,30,31
+2018-12-01,Buffalo,Northern Illinois,29,30
+2018-12-01,Washington,Utah,10,3
+2018-12-01,App State,Louisiana,30,19
+2018-12-01,Virginia Tech,Marshall,41,20
+2018-12-01,Oklahoma,Texas,39,27
+2018-12-01,NC State,East Carolina,58,3
+2018-12-01,South Carolina,Akron,28,3
+2018-12-01,Iowa State,Drake,27,24
+2018-12-01,Middle Tennessee,UAB,25,27
+2018-12-01,Liberty,Norfolk State,52,17
+2018-12-01,California,Stanford,13,23
+2018-12-01,UCF,Memphis,56,41
+2018-12-01,Georgia,Alabama,28,35
+2018-12-02,Boise State,Fresno State,16,19
+2018-12-02,Ohio State,Northwestern,45,24
+2018-12-02,Pittsburgh,Clemson,10,42
+2018-12-08,Army,Navy,17,10
+2018-12-15,Louisiana,Tulane,24,41
+2018-12-15,North Texas,Utah State,13,52
+2018-12-15,Fresno State,Arizona State,31,20
+2018-12-15,Eastern Michigan,Georgia Southern,21,23
+2018-12-16,App State,Middle Tennessee,45,13
+2018-12-19,Northern Illinois,UAB,13,37
+2018-12-20,Ohio,San Diego State,27,0
+2018-12-21,South Florida,Marshall,20,38
+2018-12-21,Toledo,Florida International,32,35
+2018-12-21,BYU,Western Michigan,49,18
+2018-12-22,Wake Forest,Memphis,37,34
+2018-12-22,Army,Houston,70,14
+2018-12-23,Troy,Buffalo,42,32
+2018-12-23,Louisiana Tech,Hawai'i,31,14
+2018-12-26,Georgia Tech,Minnesota,10,34
+2018-12-27,TCU,California,10,7
+2018-12-27,Duke,Temple,56,27
+2018-12-27,Wisconsin,Miami,35,3
+2018-12-28,Vanderbilt,Baylor,38,45
+2018-12-28,Auburn,Purdue,63,14
+2018-12-28,Syracuse,West Virginia,34,18
+2018-12-29,Washington State,Iowa State,28,26
+2018-12-29,Virginia,South Carolina,28,0
+2018-12-29,Michigan,Florida,15,41
+2018-12-29,Nevada,Arkansas State,16,13
+2018-12-29,Clemson,Notre Dame,30,3
+2018-12-30,Alabama,Oklahoma,45,34
+2018-12-31,Virginia Tech,Cincinnati,31,35
+2018-12-31,Pittsburgh,Stanford,13,14
+2018-12-31,Oregon,Michigan State,7,6
+2018-12-31,Oklahoma State,Missouri,38,33
+2019-01-01,Utah,Northwestern,20,31
+2019-01-01,Texas A&M,NC State,52,13
+2019-01-01,Iowa,Mississippi State,27,22
+2019-01-01,UCF,LSU,32,40
+2019-01-01,Penn State,Kentucky,24,27
+2019-01-01,Ohio State,Washington,28,23
+2019-01-02,Georgia,Texas,21,28
+2019-01-08,Alabama,Clemson,16,44

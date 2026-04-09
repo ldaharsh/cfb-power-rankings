@@ -1,0 +1,421 @@
+team,coach,start_year,end_year,departure
+Alabama,Nick Saban,2014,2023,retired
+Alabama,Kalen DeBoer,2024,2025,active
+Air Force,Troy Calhoun,2014,2025,active
+Akron,Terry Bowden,2014,2017,fired
+Akron,Tom Arth,2018,2020,fired
+Akron,Joe Moorhead,2021,2023,resigned
+Appalachian St,Scott Satterfield,2014,2018,resigned
+Appalachian St,Eliah Drinkwitz,2019,2019,resigned
+Appalachian St,Shawn Clark,2020,2025,active
+Arizona,Rich Rodriguez,2014,2017,fired
+Arizona,Kevin Sumlin,2018,2020,fired
+Arizona,Jedd Fisch,2021,2023,resigned
+Arizona,Brent Brennan,2024,2024,fired
+Arizona St,Todd Graham,2014,2017,fired
+Arizona St,Herm Edwards,2018,2022,fired
+Arizona St,Kenny Dillingham,2023,2025,active
+Arkansas,Bret Bielema,2014,2017,fired
+Arkansas,Chad Morris,2018,2019,fired
+Arkansas,Sam Pittman,2020,2025,active
+Arkansas St,Bryan Harsin,2014,2014,resigned
+Arkansas St,Blake Anderson,2015,2020,resigned
+Arkansas St,Butch Jones,2021,2021,resigned
+Arkansas St,Butch Jones,2023,2023,resigned
+Arkansas St,Jeff Traylor,2024,2025,active
+Army,Jeff Monken,2014,2025,active
+Auburn,Gus Malzahn,2014,2020,fired
+Auburn,Bryan Harsin,2021,2022,fired
+Auburn,Hugh Freeze,2023,2025,active
+Ball St,Mike Neu,2014,2022,fired
+Ball St,Mike Neu,2023,2023,fired
+Baylor,Art Briles,2014,2016,fired
+Baylor,Jim Grobe,2016,2016,resigned
+Baylor,Matt Rhule,2017,2019,resigned
+Baylor,Dave Aranda,2020,2025,active
+Boise St,Chris Petersen,2014,2014,resigned
+Boise St,Bryan Harsin,2015,2020,resigned
+Boise St,Andy Avalos,2021,2025,active
+Boston College,Steve Addazio,2014,2019,fired
+Boston College,Jeff Hafley,2020,2023,resigned
+Boston College,Bill O'Brien,2024,2025,active
+Bowling Green,Dino Babers,2014,2015,resigned
+Bowling Green,Mike Jinks,2016,2018,fired
+Bowling Green,Scot Loeffler,2019,2025,active
+Buffalo,Jeff Quinn,2014,2014,fired
+Buffalo,Lance Leipold,2015,2020,resigned
+Buffalo,Maurice Linguist,2021,2021,fired
+Buffalo,Andy Breiner,2022,2025,active
+BYU,Bronco Mendenhall,2014,2015,resigned
+BYU,Kalani Sitake,2016,2025,active
+C Michigan,John Bonamego,2014,2017,fired
+C Michigan,Jim McElwain,2018,2021,resigned
+C Michigan,Jim McElwain,2022,2022,resigned
+Central Michigan,Jim McElwain,2022,2022,resigned
+Central Michigan,Butch Jones,2023,2025,active
+California,Sonny Dykes,2014,2016,fired
+California,Justin Wilcox,2017,2025,active
+Charlotte,Brad Lambert,2014,2019,resigned
+Charlotte,Will Healy,2020,2022,fired
+Charlotte,Biff Poggi,2023,2025,active
+Cincinnati,Tommy Tuberville,2014,2016,resigned
+Cincinnati,Luke Fickell,2017,2022,resigned
+Cincinnati,Scott Satterfield,2023,2025,active
+Clemson,Dabo Swinney,2014,2025,active
+Coastal Carolina,Jamey Chadwell,2017,2021,resigned
+Coastal Carolina,Tim Beck,2022,2025,active
+Colorado,Mike MacIntyre,2014,2018,fired
+Colorado,Mel Tucker,2019,2019,resigned
+Colorado,Karl Dorrell,2020,2022,fired
+Colorado,Deion Sanders,2023,2025,active
+Colorado St,Jim McElwain,2014,2014,resigned
+Colorado St,Mike Bobo,2015,2019,fired
+Colorado St,Steve Addazio,2020,2021,fired
+Colorado St,Jay Norvell,2022,2025,active
+Connecticut,Bob Diaco,2014,2016,fired
+Connecticut,Randy Edsall,2017,2019,resigned
+Connecticut,Jim Mora,2022,2025,active
+Duke,David Cutcliffe,2014,2021,fired
+Duke,Mike Elko,2022,2023,resigned
+Duke,Manny Diaz,2024,2025,active
+E Carolina,Ruffin McNeill,2014,2015,fired
+E Carolina,Scottie Montgomery,2016,2018,fired
+E Carolina,Mike Houston,2019,2024,active
+East Carolina,Mike Houston,2022,2025,active
+E Michigan,Chris Creighton,2014,2023,resigned
+East Michigan,Chris Creighton,2022,2025,active
+Eastern Michigan,Chris Creighton,2022,2025,active
+FAU,Charlie Partridge,2014,2016,fired
+FAU,Lane Kiffin,2017,2017,resigned
+FAU,Willie Taggart,2018,2018,resigned
+FAU,Tom Herman,2022,2023,resigned
+FAU,Gerry Gdowski,2024,2025,active
+FIU,Ron Turner,2014,2015,fired
+FIU,Butch Davis,2016,2022,retired
+FIU,Mike MacIntyre,2023,2025,active
+Florida,Will Muschamp,2014,2014,fired
+Florida,Jim McElwain,2015,2017,fired
+Florida,Dan Mullen,2018,2021,fired
+Florida,Billy Napier,2022,2025,active
+Florida St,Jimbo Fisher,2014,2017,resigned
+Florida St,Willie Taggart,2018,2018,fired
+Florida St,Mike Norvell,2020,2025,active
+Fresno St,Tim DeRuyter,2014,2015,fired
+Fresno St,Jeff Tedford,2017,2019,resigned
+Fresno St,Kalen DeBoer,2020,2021,resigned
+Fresno St,Jeff Tedford,2022,2022,resigned
+Fresno St,Tim Skipper,2023,2025,active
+GA Southern,Clay Helton,2024,2025,active
+Georgia,Mark Richt,2014,2015,resigned
+Georgia,Kirby Smart,2016,2025,active
+Georgia Southern,Willie Fritz,2014,2015,resigned
+Georgia Southern,Chad Lunsford,2016,2020,resigned
+Georgia Southern,Clay Helton,2021,2025,active
+Georgia St,Trent Miles,2014,2016,fired
+Georgia St,Shawn Elliott,2017,2022,resigned
+Georgia St,Shawn Elliott,2023,2025,active
+Georgia Tech,Paul Johnson,2014,2018,retired
+Georgia Tech,Geoff Collins,2019,2022,fired
+Georgia Tech,Brent Key,2022,2025,active
+Hawaii,Norm Chow,2014,2015,fired
+Hawaii,Nick Rolovich,2016,2019,resigned
+Hawaii,Todd Graham,2020,2022,fired
+Hawaii,Timmy Chang,2022,2024,fired
+Houston,Tony Levine,2014,2014,fired
+Houston,Tom Herman,2015,2016,resigned
+Houston,Major Applewhite,2017,2018,fired
+Houston,Dana Holgorsen,2019,2022,fired
+Houston,Willie Fritz,2023,2025,active
+Idaho,Paul Petrino,2014,2017,resigned
+Illinois,Tim Beckman,2014,2015,fired
+Illinois,Bill Cubit,2015,2015,fired
+Illinois,Lovie Smith,2016,2020,fired
+Illinois,Bret Bielema,2021,2025,active
+Indiana,Kevin Wilson,2014,2016,resigned
+Indiana,Tom Allen,2017,2023,fired
+Indiana,Curt Cignetti,2024,2025,active
+Iowa,Kirk Ferentz,2014,2025,active
+Iowa St,Paul Rhoads,2014,2015,fired
+Iowa St,Matt Campbell,2016,2025,active
+Jacksonville St,Rich Rodriguez,2023,2025,active
+James Madison,Curt Cignetti,2022,2023,resigned
+James Madison,Bob Wiesenfeld,2024,2025,active
+Kansas,Charlie Weis,2014,2014,fired
+Kansas,Clint Bowen,2014,2014,fired
+Kansas,David Beaty,2015,2018,fired
+Kansas,Les Miles,2019,2020,fired
+Kansas,Lance Leipold,2021,2025,active
+Kansas St,Bill Snyder,2014,2018,retired
+Kansas St,Chris Klieman,2019,2025,active
+Kennesaw St,Brian Bohannon,2024,2025,active
+Kent St,Paul Haynes,2014,2017,fired
+Kent St,Sean Lewis,2018,2022,resigned
+Kent St,Kenni Burns,2023,2025,active
+Kentucky,Mark Stoops,2014,2025,active
+La Tech,Skip Holtz,2014,2020,resigned
+La Tech,Sonny Cumbie,2021,2023,fired
+La Tech,Jerod Hase,2024,2025,active
+Louisiana Tech,Skip Holtz,2014,2020,resigned
+Louisiana Tech,Sonny Cumbie,2021,2023,fired
+Louisiana Tech,Jerod Hase,2024,2025,active
+Liberty,Hugh Freeze,2019,2022,resigned
+Liberty,Jamey Chadwell,2023,2025,active
+Louisiana,Mark Hudspeth,2014,2017,resigned
+Louisiana,Billy Napier,2018,2021,resigned
+Louisiana,Michael Desormeaux,2022,2025,active
+Louisville,Bobby Petrino,2014,2018,fired
+Louisville,Scott Satterfield,2019,2022,resigned
+Louisville,Jeff Brohm,2023,2025,active
+LSU,Les Miles,2014,2016,fired
+LSU,Ed Orgeron,2016,2021,fired
+LSU,Brian Kelly,2022,2025,active
+Marshall,Doc Holliday,2014,2019,resigned
+Marshall,Charles Huff,2020,2025,active
+Maryland,Randy Edsall,2014,2015,fired
+Maryland,DJ Durkin,2016,2018,fired
+Maryland,Mike Locksley,2019,2025,active
+Memphis,Justin Fuente,2014,2015,resigned
+Memphis,Mike Norvell,2016,2019,resigned
+Memphis,Ryan Silverfield,2020,2025,active
+"Miami, Fl",Al Golden,2014,2015,fired
+"Miami, Fl",Mark Richt,2016,2018,retired
+"Miami, Fl",Manny Diaz,2019,2021,fired
+"Miami, Fl",Mario Cristobal,2022,2025,active
+"Miami, OH",Chuck Martin,2014,2025,active
+"Miami, Oh",Chuck Martin,2014,2025,active
+Michigan,Brady Hoke,2014,2014,fired
+Michigan,Jim Harbaugh,2015,2023,resigned
+Michigan,Sherrone Moore,2024,2025,active
+Michigan St,Mark Dantonio,2014,2019,retired
+Michigan St,Mel Tucker,2020,2023,fired
+Michigan St,Jonathan Smith,2024,2025,active
+Middle Tenn,Rick Stockstill,2014,2022,retired
+Middle Tenn,Derek Mason,2023,2025,active
+Minnesota,Jerry Kill,2014,2015,resigned
+Minnesota,Tracy Claeys,2015,2016,fired
+Minnesota,P.J. Fleck,2017,2025,active
+Mississippi,Hugh Freeze,2014,2017,resigned
+Mississippi,Matt Luke,2018,2019,fired
+Mississippi,Lane Kiffin,2020,2025,active
+Miss St,Dan Mullen,2014,2017,resigned
+Miss St,Joe Moorhead,2018,2019,fired
+Miss St,Mike Leach,2020,2022,resigned
+Miss St,Zach Arnett,2023,2023,fired
+Miss St,Jeff Lebby,2024,2025,active
+Mississippi St,Mike Leach,2020,2022,resigned
+Mississippi St,Zach Arnett,2023,2023,fired
+Mississippi St,Jeff Lebby,2024,2025,active
+Missouri,Gary Pinkel,2014,2015,retired
+Missouri,Barry Odom,2016,2019,fired
+Missouri,Eliah Drinkwitz,2020,2025,active
+Missouri St,Bobby Petrino,2025,2025,active
+N Carolina,Larry Fedora,2014,2018,fired
+N Carolina,Mack Brown,2019,2025,active
+North Carolina,Larry Fedora,2014,2018,fired
+North Carolina,Mack Brown,2019,2025,active
+N Carolina St,Dave Doeren,2014,2025,active
+NC State,Dave Doeren,2014,2025,active
+N Illinois,Rod Carey,2014,2018,resigned
+N Illinois,Thomas Hammock,2019,2025,active
+Northern Illinois,Rod Carey,2014,2018,resigned
+Northern Illinois,Thomas Hammock,2019,2025,active
+N Mexico St,Doug Martin,2014,2017,fired
+N Mexico St,David Morris,2018,2020,fired
+N Mexico St,Jerry Kill,2021,2021,resigned
+N Mexico St,Gary Harrell,2022,2025,active
+New Mexico St,Doug Martin,2014,2017,fired
+New Mexico St,David Morris,2018,2020,fired
+New Mexico St,Jerry Kill,2021,2021,resigned
+New Mexico St,Gary Harrell,2022,2025,active
+Navy,Ken Niumatalolo,2014,2021,fired
+Navy,Brian Newberry,2022,2025,active
+Nevada,Brian Polian,2014,2015,fired
+Nevada,Jay Norvell,2016,2021,resigned
+Nevada,Ken Wilson,2022,2025,active
+New Mexico,Bob Davie,2014,2019,fired
+New Mexico,Danny Gonzales,2020,2025,active
+North Texas,Dan McCarney,2014,2015,fired
+North Texas,Seth Littrell,2016,2022,fired
+North Texas,Eric Morris,2023,2025,active
+Northwestern,Pat Fitzgerald,2014,2023,fired
+Northwestern,David Braun,2023,2025,active
+Notre Dame,Brian Kelly,2014,2021,resigned
+Notre Dame,Marcus Freeman,2022,2025,active
+Ohio,Frank Solich,2014,2021,retired
+Ohio,Tim Albin,2022,2025,active
+Ohio St,Urban Meyer,2014,2018,retired
+Ohio St,Ryan Day,2019,2025,active
+Oklahoma,Bob Stoops,2014,2016,retired
+Oklahoma,Lincoln Riley,2017,2021,resigned
+Oklahoma,Brent Venables,2022,2025,active
+Oklahoma St,Mike Gundy,2014,2025,active
+Old Dominion,Bobby Wilder,2014,2017,fired
+Old Dominion,Ricky Rahne,2019,2022,fired
+Old Dominion,Chris Creighton,2023,2025,active
+Oregon,Mark Helfrich,2014,2016,fired
+Oregon,Willie Taggart,2017,2017,resigned
+Oregon,Mario Cristobal,2018,2021,resigned
+Oregon,Dan Lanning,2022,2025,active
+Oregon St,Mike Riley,2014,2014,resigned
+Oregon St,Gary Andersen,2015,2017,resigned
+Oregon St,Jonathan Smith,2018,2023,resigned
+Oregon St,Trent Bray,2024,2025,active
+Penn St,James Franklin,2014,2025,active
+Pittsburgh,Paul Chryst,2014,2015,resigned
+Pittsburgh,Pat Narduzzi,2016,2025,active
+Purdue,Darrell Hazell,2014,2016,fired
+Purdue,Jeff Brohm,2017,2022,resigned
+Purdue,Ryan Walters,2023,2024,fired
+Purdue,Barry Lunney Jr,2025,2025,active
+Rice,David Bailiff,2014,2018,fired
+Rice,Mike Bloomgren,2019,2025,active
+Rutgers,Kyle Flood,2014,2015,fired
+Rutgers,Chris Ash,2016,2019,fired
+Rutgers,Greg Schiano,2020,2025,active
+S Alabama,Joey Jones,2014,2018,resigned
+S Alabama,Steve Campbell,2019,2021,resigned
+S Alabama,Kane Wommack,2022,2025,active
+South Alabama,Joey Jones,2014,2018,resigned
+South Alabama,Steve Campbell,2019,2021,resigned
+South Alabama,Kane Wommack,2022,2025,active
+S Carolina,Steve Spurrier,2014,2015,retired
+S Carolina,Will Muschamp,2016,2020,fired
+S Carolina,Shane Beamer,2021,2025,active
+South Carolina,Steve Spurrier,2014,2015,retired
+South Carolina,Will Muschamp,2016,2020,fired
+South Carolina,Shane Beamer,2021,2025,active
+S Miss,Todd Monken,2014,2015,resigned
+S Miss,Jay Hopson,2016,2018,fired
+S Miss,Will Hall,2019,2022,resigned
+S Miss,Will Hall,2023,2024,resigned
+S Miss,Doc Holliday,2025,2025,active
+Southern Miss,Todd Monken,2014,2015,resigned
+Southern Miss,Jay Hopson,2016,2018,fired
+Southern Miss,Will Hall,2019,2024,resigned
+SMU,June Jones,2014,2014,resigned
+SMU,Chad Morris,2015,2017,resigned
+SMU,Sonny Dykes,2018,2021,resigned
+SMU,Rhett Lashlee,2022,2025,active
+Sam Houston,K.C. Keeler,2023,2024,resigned
+Sam Houston St,K.C. Keeler,2024,2024,resigned
+San Diego St,Rocky Long,2014,2019,retired
+San Diego St,Brady Hoke,2020,2024,fired
+San Diego St,Sean Lewis,2025,2025,active
+San Jose St,Ron Caragher,2014,2016,fired
+San Jose St,Brent Brennan,2017,2023,resigned
+San Jose St,Ken Niumatalolo,2024,2025,active
+Stanford,David Shaw,2014,2022,resigned
+Stanford,Troy Taylor,2023,2025,active
+Syracuse,Scott Shafer,2014,2015,fired
+Syracuse,Dino Babers,2016,2023,fired
+Syracuse,Fran Brown,2024,2025,active
+TCU,Gary Patterson,2014,2021,resigned
+TCU,Sonny Dykes,2022,2025,active
+Temple,Matt Rhule,2014,2016,resigned
+Temple,Geoff Collins,2017,2018,resigned
+Temple,Rod Carey,2019,2022,fired
+Temple,Stan Drayton,2023,2025,active
+Tennessee,Butch Jones,2014,2017,fired
+Tennessee,Jeremy Pruitt,2018,2020,fired
+Tennessee,Josh Heupel,2021,2025,active
+Texas,Charlie Strong,2014,2016,fired
+Texas,Tom Herman,2017,2020,fired
+Texas,Steve Sarkisian,2021,2025,active
+Texas A&M,Kevin Sumlin,2014,2017,fired
+Texas A&M,Jimbo Fisher,2018,2023,fired
+Texas A&M,Mike Elko,2024,2025,active
+Texas St,Dennis Franchione,2014,2016,retired
+Texas St,Everett Withers,2017,2018,fired
+Texas St,Jake Spavital,2019,2022,fired
+Texas St,G.J. Kinne,2023,2025,active
+Texas Tech,Kliff Kingsbury,2014,2018,resigned
+Texas Tech,Matt Wells,2019,2021,fired
+Texas Tech,Joey McGuire,2022,2025,active
+Toledo,Matt Campbell,2014,2015,resigned
+Toledo,Jason Candle,2016,2025,active
+Troy,Neal Brown,2014,2018,resigned
+Troy,Chip Lindsey,2019,2021,resigned
+Troy,Jon Sumrall,2022,2025,active
+Tulane,Curtis Johnson,2014,2015,fired
+Tulane,Willie Fritz,2016,2022,resigned
+Tulane,Jon Sumrall,2023,2023,resigned
+Tulane,Darius Hines,2024,2025,active
+Tulsa,Bill Blankenship,2014,2014,fired
+Tulsa,Philip Montgomery,2015,2021,fired
+Tulsa,Kevin Wilson,2022,2025,active
+UAB,Bill Clark,2014,2022,retired
+UAB,Trent Dilfer,2023,2025,active
+UCF,George O'Leary,2014,2015,retired
+UCF,Scott Frost,2016,2017,resigned
+UCF,Josh Heupel,2018,2020,resigned
+UCF,Gus Malzahn,2021,2025,active
+UCLA,Jim Mora,2014,2017,fired
+UCLA,Chip Kelly,2018,2022,fired
+UCLA,DeShaun Foster,2023,2025,active
+ULM,Todd Berry,2014,2017,fired
+ULM,Matt Viator,2018,2020,fired
+ULM,Terry Bowden,2021,2022,resigned
+ULM,Bryant Vincent,2023,2025,active
+UMass,Mark Whipple,2014,2018,resigned
+UMass,Walt Bell,2019,2021,resigned
+UMass,Don Brown,2022,2025,active
+UNLV,Bobby Hauck,2014,2014,resigned
+UNLV,Tony Sanchez,2015,2019,fired
+UNLV,Marcus Arroyo,2020,2022,fired
+UNLV,Barry Odom,2023,2025,active
+USC,Steve Sarkisian,2014,2014,fired
+USC,Clay Helton,2015,2021,fired
+USC,Lincoln Riley,2022,2024,resigned
+USC,Eric Bienemy,2025,2025,active
+USF,Willie Taggart,2014,2016,resigned
+USF,Charlie Strong,2017,2018,resigned
+USF,Jeff Scott,2020,2022,fired
+USF,Alex Golesh,2023,2025,active
+Utah,Kyle Whittingham,2014,2025,active
+Utah St,Matt Wells,2014,2018,resigned
+Utah St,Gary Andersen,2019,2019,resigned
+Utah St,Blake Anderson,2020,2023,resigned
+Utah St,Nate Dreiling,2024,2025,active
+UTEP,Sean Kugler,2014,2017,resigned
+UTEP,Dana Dimel,2018,2022,resigned
+UTEP,Scotty Walden,2023,2025,active
+UTSA,Larry Coker,2014,2015,retired
+UTSA,Frank Wilson,2016,2018,fired
+UTSA,Jeff Traylor,2020,2023,resigned
+UTSA,Barry Lunney Jr,2024,2024,resigned
+UTSA,Lowell Lovelace,2025,2025,active
+Vanderbilt,James Franklin,2014,2014,resigned
+Vanderbilt,Derek Mason,2015,2020,fired
+Vanderbilt,Clark Lea,2021,2025,active
+Virginia,Mike London,2014,2015,fired
+Virginia,Bronco Mendenhall,2016,2021,resigned
+Virginia,Tony Elliott,2022,2025,active
+Virginia Tech,Frank Beamer,2014,2015,retired
+Virginia Tech,Justin Fuente,2016,2021,resigned
+Virginia Tech,Brent Pry,2022,2025,active
+W Michigan,P.J. Fleck,2014,2016,resigned
+W Michigan,Tim Lester,2017,2022,fired
+W Michigan,Lance Taylor,2023,2025,active
+Wake Forest,Dave Clawson,2014,2025,active
+Washington,Chris Petersen,2014,2019,retired
+Washington,Jimmy Lake,2020,2021,fired
+Washington,Kalen DeBoer,2022,2023,resigned
+Washington,Jedd Fisch,2024,2025,active
+Wash St,Mike Leach,2014,2019,resigned
+Wash St,Nick Rolovich,2020,2021,fired
+Wash St,Jake Dickert,2022,2025,active
+Washington St,Mike Leach,2014,2019,resigned
+Washington St,Nick Rolovich,2020,2021,fired
+Washington St,Jake Dickert,2022,2025,active
+West Virginia,Dana Holgorsen,2014,2018,resigned
+West Virginia,Neal Brown,2019,2025,active
+Western Michigan,P.J. Fleck,2014,2016,resigned
+Western Michigan,Tim Lester,2017,2022,fired
+Western Michigan,Lance Taylor,2023,2025,active
+Wisconsin,Gary Andersen,2014,2014,resigned
+Wisconsin,Paul Chryst,2015,2022,fired
+Wisconsin,Luke Fickell,2023,2025,active
+WKU,Bobby Petrino,2014,2016,resigned
+WKU,Mike Sanford,2017,2018,fired
+WKU,Tyson Helton,2019,2025,active
+Wyoming,Craig Bohl,2014,2025,active

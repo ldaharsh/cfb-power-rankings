@@ -1,0 +1,1541 @@
+year,team,conference
+2014,Georgia,SEC
+2014,Michigan St,Big Ten
+2014,Baylor,Big 12
+2014,Miss St,SEC
+2014,Ohio St,Big Ten
+2014,TCU,Big 12
+2014,Alabama,SEC
+2014,Wisconsin,Big Ten
+2014,Kansas St,Big 12
+2014,Arkansas,SEC
+2014,Minnesota,Big Ten
+2014,Oklahoma,Big 12
+2014,Mississippi,SEC
+2014,Nebraska,Big Ten
+2014,Texas,Big 12
+2014,Missouri,SEC
+2014,Iowa,Big Ten
+2014,West Virginia,Big 12
+2014,LSU,SEC
+2014,Northwestern,Big Ten
+2014,Oklahoma St,Big 12
+2014,Auburn,SEC
+2014,Maryland,Big Ten
+2014,Kansas,Big 12
+2014,Florida,SEC
+2014,Michigan,Big Ten
+2014,Texas Tech,Big 12
+2014,Tennessee,SEC
+2014,Penn St,Big Ten
+2014,Iowa St,Big 12
+2014,S Carolina,SEC
+2014,Illinois,Big Ten
+2014,Texas A&M,SEC
+2014,Indiana,Big Ten
+2014,Kentucky,SEC
+2014,Rutgers,Big Ten
+2014,Vanderbilt,SEC
+2014,Purdue,Big Ten
+2014,Oregon,Pac-12
+2014,Georgia Tech,ACC
+2014,Memphis,AAC
+2014,UCLA,Pac-12
+2014,Florida St,ACC
+2014,Cincinnati,AAC
+2014,Arizona,Pac-12
+2014,Louisville,ACC
+2014,UCF,AAC
+2014,Arizona St,Pac-12
+2014,"Miami, Fl",ACC
+2014,E Carolina,AAC
+2014,Stanford,Pac-12
+2014,Virginia,ACC
+2014,Houston,AAC
+2014,USC,Pac-12
+2014,Clemson,ACC
+2014,Temple,AAC
+2014,Washington,Pac-12
+2014,N Carolina,ACC
+2014,USF,AAC
+2014,Utah,Pac-12
+2014,Boston College,ACC
+2014,Tulane,AAC
+2014,California,Pac-12
+2014,Pittsburgh,ACC
+2014,Tulsa,AAC
+2014,Wash St,Pac-12
+2014,Duke,ACC
+2014,Connecticut,AAC
+2014,Oregon St,Pac-12
+2014,Virginia Tech,ACC
+2014,SMU,AAC
+2014,Colorado,Pac-12
+2014,N Carolina St,ACC
+2014,Syracuse,ACC
+2014,Wake Forest,ACC
+2014,Boise St,Mountain West
+2014,Marshall,C-USA
+2014,W Michigan,MAC
+2014,Colorado St,Mountain West
+2014,La Tech,C-USA
+2014,Toledo,MAC
+2014,Utah St,Mountain West
+2014,Rice,C-USA
+2014,N Illinois,MAC
+2014,San Diego St,Mountain West
+2014,UAB,C-USA
+2014,Bowling Green,MAC
+2014,Fresno St,Mountain West
+2014,WKU,C-USA
+2014,C Michigan,MAC
+2014,Air Force,Mountain West
+2014,UTEP,C-USA
+2014,Ohio,MAC
+2014,Nevada,Mountain West
+2014,FIU,C-USA
+2014,Akron,MAC
+2014,Hawaii,Mountain West
+2014,North Texas,C-USA
+2014,Ball St,MAC
+2014,Wyoming,Mountain West
+2014,Middle Tenn,C-USA
+2014,Kent St,MAC
+2014,New Mexico,Mountain West
+2014,Old Dominion,C-USA
+2014,UMass,MAC
+2014,San Jose St,Mountain West
+2014,FAU,C-USA
+2014,Buffalo,MAC
+2014,UNLV,Mountain West
+2014,UTSA,C-USA
+2014,"Miami, OH",MAC
+2014,S Miss,C-USA
+2014,E Michigan,MAC
+2014,Louisiana,Sun Belt
+2014,Notre Dame,Independent
+2014,Appalachian St,Sun Belt
+2014,BYU,Independent
+2014,Texas St,Sun Belt
+2014,Navy,Independent
+2014,Arkansas St,Sun Belt
+2014,Army,Independent
+2014,Georgia Southern,Sun Belt
+2014,S Alabama,Sun Belt
+2014,ULM,Sun Belt
+2014,Troy,Sun Belt
+2014,Idaho,Sun Belt
+2014,N Mexico St,Sun Belt
+2014,Georgia St,Sun Belt
+2015,Alabama,SEC
+2015,Ohio St,Big Ten
+2015,Oklahoma,Big 12
+2015,Mississippi,SEC
+2015,Michigan St,Big Ten
+2015,TCU,Big 12
+2015,Arkansas,SEC
+2015,Iowa,Big Ten
+2015,Baylor,Big 12
+2015,Tennessee,SEC
+2015,Michigan,Big Ten
+2015,Oklahoma St,Big 12
+2015,LSU,SEC
+2015,Wisconsin,Big Ten
+2015,West Virginia,Big 12
+2015,Miss St,SEC
+2015,Northwestern,Big Ten
+2015,Texas Tech,Big 12
+2015,Georgia,SEC
+2015,Minnesota,Big Ten
+2015,Texas,Big 12
+2015,Florida,SEC
+2015,Penn St,Big Ten
+2015,Kansas St,Big 12
+2015,Texas A&M,SEC
+2015,Indiana,Big Ten
+2015,Iowa St,Big 12
+2015,Auburn,SEC
+2015,Nebraska,Big Ten
+2015,Kansas,Big 12
+2015,Missouri,SEC
+2015,Illinois,Big Ten
+2015,S Carolina,SEC
+2015,Maryland,Big Ten
+2015,Vanderbilt,SEC
+2015,Purdue,Big Ten
+2015,Kentucky,SEC
+2015,Rutgers,Big Ten
+2015,Stanford,Pac-12
+2015,Clemson,ACC
+2015,Houston,AAC
+2015,Oregon,Pac-12
+2015,Florida St,ACC
+2015,Memphis,AAC
+2015,Washington,Pac-12
+2015,N Carolina,ACC
+2015,Temple,AAC
+2015,USC,Pac-12
+2015,Virginia Tech,ACC
+2015,USF,AAC
+2015,UCLA,Pac-12
+2015,"Miami, Fl",ACC
+2015,Navy,AAC
+2015,Wash St,Pac-12
+2015,Pittsburgh,ACC
+2015,Cincinnati,AAC
+2015,Arizona St,Pac-12
+2015,Louisville,ACC
+2015,E Carolina,AAC
+2015,Utah,Pac-12
+2015,N Carolina St,ACC
+2015,Connecticut,AAC
+2015,California,Pac-12
+2015,Virginia,ACC
+2015,Tulsa,AAC
+2015,Arizona,Pac-12
+2015,Georgia Tech,ACC
+2015,SMU,AAC
+2015,Colorado,Pac-12
+2015,Duke,ACC
+2015,Tulane,AAC
+2015,Oregon St,Pac-12
+2015,Boston College,ACC
+2015,UCF,AAC
+2015,Syracuse,ACC
+2015,Wake Forest,ACC
+2015,San Diego St,Mountain West
+2015,WKU,C-USA
+2015,Bowling Green,MAC
+2015,Boise St,Mountain West
+2015,S Miss,C-USA
+2015,W Michigan,MAC
+2015,Air Force,Mountain West
+2015,La Tech,C-USA
+2015,Toledo,MAC
+2015,Utah St,Mountain West
+2015,Middle Tenn,C-USA
+2015,N Illinois,MAC
+2015,Nevada,Mountain West
+2015,Marshall,C-USA
+2015,Ohio,MAC
+2015,Colorado St,Mountain West
+2015,FAU,C-USA
+2015,Akron,MAC
+2015,San Jose St,Mountain West
+2015,UTEP,C-USA
+2015,C Michigan,MAC
+2015,New Mexico,Mountain West
+2015,FIU,C-USA
+2015,Kent St,MAC
+2015,UNLV,Mountain West
+2015,Old Dominion,C-USA
+2015,"Miami, OH",MAC
+2015,Wyoming,Mountain West
+2015,Rice,C-USA
+2015,Ball St,MAC
+2015,Fresno St,Mountain West
+2015,North Texas,C-USA
+2015,E Michigan,MAC
+2015,Hawaii,Mountain West
+2015,UTSA,C-USA
+2015,Buffalo,MAC
+2015,Charlotte,C-USA
+2015,UMass,MAC
+2015,Arkansas St,Sun Belt
+2015,Notre Dame,Independent
+2015,Georgia Southern,Sun Belt
+2015,BYU,Independent
+2015,Appalachian St,Sun Belt
+2015,Army,Independent
+2015,Georgia St,Sun Belt
+2015,Troy,Sun Belt
+2015,S Alabama,Sun Belt
+2015,N Mexico St,Sun Belt
+2015,Louisiana,Sun Belt
+2015,Idaho,Sun Belt
+2015,ULM,Sun Belt
+2015,Texas St,Sun Belt
+2016,Alabama,SEC
+2016,Ohio St,Big Ten
+2016,Oklahoma,Big 12
+2016,LSU,SEC
+2016,Penn St,Big Ten
+2016,Kansas St,Big 12
+2016,Auburn,SEC
+2016,Michigan,Big Ten
+2016,Oklahoma St,Big 12
+2016,Florida,SEC
+2016,Wisconsin,Big Ten
+2016,West Virginia,Big 12
+2016,Tennessee,SEC
+2016,Iowa,Big Ten
+2016,TCU,Big 12
+2016,Texas A&M,SEC
+2016,Minnesota,Big Ten
+2016,Texas Tech,Big 12
+2016,Vanderbilt,SEC
+2016,Northwestern,Big Ten
+2016,Baylor,Big 12
+2016,Arkansas,SEC
+2016,Nebraska,Big Ten
+2016,Iowa St,Big 12
+2016,Georgia,SEC
+2016,Michigan St,Big Ten
+2016,Texas,Big 12
+2016,Miss St,SEC
+2016,Indiana,Big Ten
+2016,Kansas,Big 12
+2016,Kentucky,SEC
+2016,Purdue,Big Ten
+2016,Mississippi,SEC
+2016,Illinois,Big Ten
+2016,Missouri,SEC
+2016,Maryland,Big Ten
+2016,S Carolina,SEC
+2016,Rutgers,Big Ten
+2016,Washington,Pac-12
+2016,Clemson,ACC
+2016,Temple,AAC
+2016,USC,Pac-12
+2016,Florida St,ACC
+2016,USF,AAC
+2016,Colorado,Pac-12
+2016,Virginia Tech,ACC
+2016,Navy,AAC
+2016,Stanford,Pac-12
+2016,"Miami, Fl",ACC
+2016,Houston,AAC
+2016,Wash St,Pac-12
+2016,Louisville,ACC
+2016,Memphis,AAC
+2016,Utah,Pac-12
+2016,Pittsburgh,ACC
+2016,Tulsa,AAC
+2016,Oregon St,Pac-12
+2016,N Carolina,ACC
+2016,UCF,AAC
+2016,Oregon,Pac-12
+2016,Georgia Tech,ACC
+2016,SMU,AAC
+2016,California,Pac-12
+2016,N Carolina St,ACC
+2016,Cincinnati,AAC
+2016,UCLA,Pac-12
+2016,Duke,ACC
+2016,Tulane,AAC
+2016,Arizona,Pac-12
+2016,Boston College,ACC
+2016,E Carolina,AAC
+2016,Arizona St,Pac-12
+2016,Wake Forest,ACC
+2016,Connecticut,AAC
+2016,Syracuse,ACC
+2016,Virginia,ACC
+2016,Colorado St,Mountain West
+2016,WKU,C-USA
+2016,W Michigan,MAC
+2016,San Diego St,Mountain West
+2016,La Tech,C-USA
+2016,Toledo,MAC
+2016,Boise St,Mountain West
+2016,Old Dominion,C-USA
+2016,N Illinois,MAC
+2016,Air Force,Mountain West
+2016,UTSA,C-USA
+2016,Ohio,MAC
+2016,New Mexico,Mountain West
+2016,Middle Tenn,C-USA
+2016,"Miami, OH",MAC
+2016,Wyoming,Mountain West
+2016,S Miss,C-USA
+2016,C Michigan,MAC
+2016,Nevada,Mountain West
+2016,FIU,C-USA
+2016,E Michigan,MAC
+2016,Utah St,Mountain West
+2016,Rice,C-USA
+2016,Bowling Green,MAC
+2016,San Jose St,Mountain West
+2016,UTEP,C-USA
+2016,Ball St,MAC
+2016,UNLV,Mountain West
+2016,North Texas,C-USA
+2016,Kent St,MAC
+2016,Hawaii,Mountain West
+2016,Charlotte,C-USA
+2016,Akron,MAC
+2016,Fresno St,Mountain West
+2016,Marshall,C-USA
+2016,Buffalo,MAC
+2016,FAU,C-USA
+2016,Appalachian St,Sun Belt
+2016,Notre Dame,Independent
+2016,Arkansas St,Sun Belt
+2016,BYU,Independent
+2016,Louisiana,Sun Belt
+2016,Army,Independent
+2016,Idaho,Sun Belt
+2016,UMass,Independent
+2016,Troy,Sun Belt
+2016,Georgia Southern,Sun Belt
+2016,S Alabama,Sun Belt
+2016,Georgia St,Sun Belt
+2016,N Mexico St,Sun Belt
+2016,ULM,Sun Belt
+2016,Texas St,Sun Belt
+2017,Georgia,SEC
+2017,Ohio St,Big Ten
+2017,Oklahoma,Big 12
+2017,Alabama,SEC
+2017,Penn St,Big Ten
+2017,Oklahoma St,Big 12
+2017,Auburn,SEC
+2017,Wisconsin,Big Ten
+2017,TCU,Big 12
+2017,LSU,SEC
+2017,Northwestern,Big Ten
+2017,Iowa St,Big 12
+2017,Missouri,SEC
+2017,Michigan,Big Ten
+2017,Kansas St,Big 12
+2017,Miss St,SEC
+2017,Michigan St,Big Ten
+2017,Texas,Big 12
+2017,S Carolina,SEC
+2017,Iowa,Big Ten
+2017,West Virginia,Big 12
+2017,Texas A&M,SEC
+2017,Purdue,Big Ten
+2017,Texas Tech,Big 12
+2017,Mississippi,SEC
+2017,Indiana,Big Ten
+2017,Baylor,Big 12
+2017,Florida,SEC
+2017,Minnesota,Big Ten
+2017,Kansas,Big 12
+2017,Kentucky,SEC
+2017,Nebraska,Big Ten
+2017,Arkansas,SEC
+2017,Maryland,Big Ten
+2017,Vanderbilt,SEC
+2017,Rutgers,Big Ten
+2017,Tennessee,SEC
+2017,Illinois,Big Ten
+2017,Washington,Pac-12
+2017,Clemson,ACC
+2017,Memphis,AAC
+2017,USC,Pac-12
+2017,Louisville,ACC
+2017,UCF,AAC
+2017,Stanford,Pac-12
+2017,N Carolina St,ACC
+2017,USF,AAC
+2017,Oregon,Pac-12
+2017,Boston College,ACC
+2017,Houston,AAC
+2017,Wash St,Pac-12
+2017,"Miami, Fl",ACC
+2017,Temple,AAC
+2017,Utah,Pac-12
+2017,Virginia Tech,ACC
+2017,Navy,AAC
+2017,Arizona St,Pac-12
+2017,Wake Forest,ACC
+2017,SMU,AAC
+2017,UCLA,Pac-12
+2017,Duke,ACC
+2017,Tulane,AAC
+2017,Arizona,Pac-12
+2017,Florida St,ACC
+2017,Tulsa,AAC
+2017,California,Pac-12
+2017,Pittsburgh,ACC
+2017,Cincinnati,AAC
+2017,Colorado,Pac-12
+2017,N Carolina,ACC
+2017,Connecticut,AAC
+2017,Oregon St,Pac-12
+2017,Georgia Tech,ACC
+2017,E Carolina,AAC
+2017,Virginia,ACC
+2017,Syracuse,ACC
+2017,Boise St,Mountain West
+2017,FAU,C-USA
+2017,Toledo,MAC
+2017,San Diego St,Mountain West
+2017,FIU,C-USA
+2017,C Michigan,MAC
+2017,Fresno St,Mountain West
+2017,North Texas,C-USA
+2017,N Illinois,MAC
+2017,Colorado St,Mountain West
+2017,Marshall,C-USA
+2017,Ohio,MAC
+2017,Utah St,Mountain West
+2017,Middle Tenn,C-USA
+2017,E Michigan,MAC
+2017,Air Force,Mountain West
+2017,S Miss,C-USA
+2017,W Michigan,MAC
+2017,Wyoming,Mountain West
+2017,La Tech,C-USA
+2017,Buffalo,MAC
+2017,Nevada,Mountain West
+2017,UAB,C-USA
+2017,Akron,MAC
+2017,UNLV,Mountain West
+2017,UTSA,C-USA
+2017,"Miami, OH",MAC
+2017,New Mexico,Mountain West
+2017,WKU,C-USA
+2017,Bowling Green,MAC
+2017,Hawaii,Mountain West
+2017,Old Dominion,C-USA
+2017,Kent St,MAC
+2017,San Jose St,Mountain West
+2017,Rice,C-USA
+2017,Ball St,MAC
+2017,Charlotte,C-USA
+2017,UTEP,C-USA
+2017,Arkansas   St,Sun Belt
+2017,Notre   Dame,Independent
+2017,Georgia St,Sun Belt
+2017,Army,Independent
+2017,Louisiana,Sun Belt
+2017,UMass,Independent
+2017,S Alabama,Sun Belt
+2017,BYU,Independent
+2017,Texas St,Sun Belt
+2017,Troy,Sun Belt
+2017,ULM,Sun Belt
+2017,Idaho,Sun Belt
+2017,N Mexico St,Sun Belt
+2017,Appalachian St,Sun Belt
+2017,Georgia   Southern,Sun Belt
+2017,Coastal   Carolina,Sun Belt
+2018,Alabama,SEC
+2018,Ohio St,Big Ten
+2018,Clemson,ACC
+2018,Georgia,SEC
+2018,Michigan,Big Ten
+2018,"Miami, Fl",ACC
+2018,Miss St,SEC
+2018,Penn St,Big Ten
+2018,N Carolina St,ACC
+2018,Missouri,SEC
+2018,Iowa,Big Ten
+2018,Syracuse,ACC
+2018,Florida,SEC
+2018,Nebraska,Big Ten
+2018,Pittsburgh,ACC
+2018,LSU,SEC
+2018,Purdue,Big Ten
+2018,Georgia Tech,ACC
+2018,Texas A&M,SEC
+2018,Northwestern,Big Ten
+2018,Wake Forest,ACC
+2018,Auburn,SEC
+2018,Michigan St,Big Ten
+2018,Boston College,ACC
+2018,Kentucky,SEC
+2018,Minnesota,Big Ten
+2018,Virginia,ACC
+2018,Vanderbilt,SEC
+2018,Wisconsin,Big Ten
+2018,Duke,ACC
+2018,S Carolina,SEC
+2018,Indiana,Big Ten
+2018,Virginia Tech,ACC
+2018,Tennessee,SEC
+2018,Maryland,Big Ten
+2018,N Carolina,ACC
+2018,Mississippi,SEC
+2018,Illinois,Big Ten
+2018,Florida St,ACC
+2018,Arkansas,SEC
+2018,Rutgers,Big Ten
+2018,Louisville,ACC
+2018,Oklahoma,Big 12
+2018,Washington,Pac-12
+2018,UCF,AAC
+2018,West Virginia,Big 12
+2018,Utah,Pac-12
+2018,Temple,AAC
+2018,Texas,Big 12
+2018,Wash St,Pac-12
+2018,Cincinnati,AAC
+2018,Iowa St,Big 12
+2018,Stanford,Pac-12
+2018,Memphis,AAC
+2018,Oklahoma St,Big 12
+2018,Oregon,Pac-12
+2018,Houston,AAC
+2018,Kansas St,Big 12
+2018,Arizona St,Pac-12
+2018,SMU,AAC
+2018,TCU,Big 12
+2018,USC,Pac-12
+2018,Tulane,AAC
+2018,Baylor,Big 12
+2018,California,Pac-12
+2018,Navy,AAC
+2018,Texas Tech,Big 12
+2018,Arizona,Pac-12
+2018,Tulsa,AAC
+2018,Kansas,Big 12
+2018,UCLA,Pac-12
+2018,USF,AAC
+2018,Colorado,Pac-12
+2018,E Carolina,AAC
+2018,Oregon St,Pac-12
+2018,Connecticut,AAC
+2018,UAB,C-USA
+2018,Ohio,MAC
+2018,Notre Dame,Independent
+2018,Middle Tenn,C-USA
+2018,"Miami, OH",MAC
+2018,Army,Independent
+2018,S Miss,C-USA
+2018,Buffalo,MAC
+2018,BYU,Independent
+2018,Marshall,C-USA
+2018,Toledo,MAC
+2018,UMass,Independent
+2018,FIU,C-USA
+2018,N Illinois,MAC
+2018,Liberty,Independent
+2018,FAU,C-USA
+2018,E Michigan,MAC
+2018,N Mexico St,Independent
+2018,North Texas,C-USA
+2018,W Michigan,MAC
+2018,Charlotte,C-USA
+2018,Akron,MAC
+2018,WKU,C-USA
+2018,Bowling Green,MAC
+2018,La Tech,C-USA
+2018,Ball St,MAC
+2018,Old Dominion,C-USA
+2018,Kent St,MAC
+2018,Rice,C-USA
+2018,C Michigan,MAC
+2018,UTSA,C-USA
+2018,UTEP,C-USA
+2018,Boise St,Power   Ratings
+2018,Arkansas St,Sun Belt
+2018,Wyoming,By 3:00Pm Est
+2018,Georgia Southern,Sun Belt
+2018,Air Force,By 3:00Pm Est
+2018,Louisiana,Sun Belt
+2018,Nevada,By 3:00Pm Est
+2018,ULM,Sun Belt
+2018,San Diego St,By 3:00Pm Est
+2018,Texas St,Sun Belt
+2018,UNLV,By 3:00Pm Est
+2018,Georgia St,Sun Belt
+2018,Hawaii,By 3:00Pm Est
+2018,Coastal Carolina,Sun Belt
+2018,Colorado St,By 3:00Pm Est
+2018,S Alabama,Sun Belt
+2018,San Jose St,By 3:00Pm Est
+2018,New Mexico,By 3:00Pm Est
+2019,LSU,SEC
+2019,Ohio St,Big Ten
+2019,Clemson,ACC
+2019,Alabama,SEC
+2019,Wisconsin,Big Ten
+2019,N Carolina,ACC
+2019,Georgia,SEC
+2019,Michigan,Big Ten
+2019,Virginia Tech,ACC
+2019,Florida,SEC
+2019,Penn St,Big Ten
+2019,Virginia,ACC
+2019,Auburn,SEC
+2019,Iowa,Big Ten
+2019,Louisville,ACC
+2019,Kentucky,SEC
+2019,Minnesota,Big Ten
+2019,Florida St,ACC
+2019,Texas A&M,SEC
+2019,Indiana,Big Ten
+2019,Pittsburgh,ACC
+2019,Tennessee,SEC
+2019,Nebraska,Big Ten
+2019,Syracuse,ACC
+2019,Mississippi,SEC
+2019,Michigan St,Big Ten
+2019,Boston College,ACC
+2019,Missouri,SEC
+2019,Purdue,Big Ten
+2019,Wake Forest,ACC
+2019,S Carolina,SEC
+2019,Northwestern,Big Ten
+2019,Duke,ACC
+2019,Miss St,SEC
+2019,Illinois,Big Ten
+2019,"Miami, Fl",ACC
+2019,Arkansas,SEC
+2019,Maryland,Big Ten
+2019,Georgia Tech,ACC
+2019,Vanderbilt,SEC
+2019,Rutgers,Big Ten
+2019,N Carolina St,ACC
+2019,Texas,Big 12
+2019,Oregon,Pac-12
+2019,Memphis,AAC
+2019,Baylor,Big 12
+2019,Washington,Pac-12
+2019,Navy,AAC
+2019,Oklahoma,Big 12
+2019,Utah,Pac-12
+2019,Cincinnati,AAC
+2019,Kansas St,Big 12
+2019,USC,Pac-12
+2019,UCF,AAC
+2019,Oklahoma St,Big 12
+2019,California,Pac-12
+2019,SMU,AAC
+2019,Iowa St,Big 12
+2019,Arizona St,Pac-12
+2019,Tulane,AAC
+2019,TCU,Big 12
+2019,Oregon St,Pac-12
+2019,Tulsa,AAC
+2019,West Virginia,Big 12
+2019,Wash St,Pac-12
+2019,Temple,AAC
+2019,Texas Tech,Big 12
+2019,Colorado,Pac-12
+2019,Houston,AAC
+2019,Kansas,Big 12
+2019,UCLA,Pac-12
+2019,USF,AAC
+2019,Stanford,Pac-12
+2019,E Carolina,AAC
+2019,Arizona,Pac-12
+2019,Connecticut,AAC
+2019,FAU,C-USA
+2019,Buffalo,MAC
+2019,Notre Dame,Independent
+2019,La Tech,C-USA
+2019,Ohio,MAC
+2019,BYU,Independent
+2019,WKU,C-USA
+2019,Kent St,MAC
+2019,Liberty,Independent
+2019,Marshall,C-USA
+2019,W Michigan,MAC
+2019,Army,Independent
+2019,UAB,C-USA
+2019,Ball St,MAC
+2019,N Mexico St,Independent
+2019,S Miss,C-USA
+2019,"Miami, OH",MAC
+2019,UMass,Independent
+2019,Charlotte,C-USA
+2019,N Illinois,MAC
+2019,Middle Tenn,C-USA
+2019,C Michigan,MAC
+2019,FIU,C-USA
+2019,E Michigan,MAC
+2019,Rice,C-USA
+2019,Toledo,MAC
+2019,North Texas,C-USA
+2019,Bowling Green,MAC
+2019,UTSA,C-USA
+2019,Akron,MAC
+2019,Old Dominion,C-USA
+2019,UTEP,C-USA
+2019,Boise St,Tuesday By   3:00Pm
+2019,Louisiana,Sun Belt
+2019,Wyoming,Tuesday By   3:00Pm
+2019,Arkansas St,Sun Belt
+2019,Colorado St,Tuesday By   3:00Pm
+2019,Troy,Sun Belt
+2019,Hawaii,Tuesday By   3:00Pm
+2019,ULM,Sun Belt
+2019,Utah St,Tuesday By   3:00Pm
+2019,Coastal Carolina,Sun Belt
+2019,Fresno St,Tuesday By   3:00Pm
+2019,Georgia St,Sun Belt
+2019,Nevada,Tuesday By   3:00Pm
+2019,S Alabama,Sun Belt
+2019,San Jose St,Tuesday By   3:00Pm
+2019,Texas St,Sun Belt
+2019,UNLV,Tuesday By   3:00Pm
+2019,New Mexico,Tuesday By   3:00Pm
+2020,Alabama,SEC
+2020,Ohio St,Big Ten
+2020,Pittsburgh,ACC
+2020,Florida,SEC
+2020,Iowa,Big Ten
+2020,"Miami, Fl",ACC
+2020,Georgia,SEC
+2020,Indiana,Big Ten
+2020,Syracuse,ACC
+2020,Texas A&M,SEC
+2020,Wisconsin,Big Ten
+2020,Boston College,ACC
+2020,LSU,SEC
+2020,Northwestern,Big Ten
+2020,Virginia Tech,ACC
+2020,Auburn,SEC
+2020,Penn St,Big Ten
+2020,N Carolina,ACC
+2020,Mississippi,SEC
+2020,Minnesota,Big Ten
+2020,Clemson,ACC
+2020,Kentucky,SEC
+2020,Michigan,Big Ten
+2020,N Carolina St,ACC
+2020,Miss St,SEC
+2020,Nebraska,Big Ten
+2020,Georgia Tech,ACC
+2020,Tennessee,SEC
+2020,Illinois,Big Ten
+2020,Virginia,ACC
+2020,Arkansas,SEC
+2020,Purdue,Big Ten
+2020,Wake Forest,ACC
+2020,Missouri,SEC
+2020,Rutgers,Big Ten
+2020,Duke,ACC
+2020,S Carolina,SEC
+2020,Maryland,Big Ten
+2020,Florida St,ACC
+2020,Vanderbilt,SEC
+2020,Michigan St,Big Ten
+2020,Louisville,ACC
+2020,Oklahoma,Big 12
+2020,USC,Pac-12
+2020,Cincinnati,AAC
+2020,Iowa St,Big 12
+2020,Oregon,Pac-12
+2020,UCF,AAC
+2020,Texas,Big 12
+2020,Arizona St,Pac-12
+2020,Tulsa,AAC
+2020,Oklahoma St,Big 12
+2020,Stanford,Pac-12
+2020,Tulane,AAC
+2020,TCU,Big 12
+2020,Utah,Pac-12
+2020,Houston,AAC
+2020,West Virginia,Big 12
+2020,UCLA,Pac-12
+2020,Memphis,AAC
+2020,Baylor,Big 12
+2020,Washington,Pac-12
+2020,SMU,AAC
+2020,Kansas St,Big 12
+2020,California,Pac-12
+2020,E Carolina,AAC
+2020,Texas Tech,Big 12
+2020,Wash St,Pac-12
+2020,Navy,AAC
+2020,Kansas,Big 12
+2020,Oregon St,Pac-12
+2020,USF,AAC
+2020,Colorado,Pac-12
+2020,Temple,AAC
+2020,Arizona,Pac-12
+2020,UAB,C-USA
+2020,Buffalo,MAC
+2020,Notre Dame,Independent
+2020,Marshall,C-USA
+2020,Ball St,MAC
+2020,BYU,Independent
+2020,UTSA,C-USA
+2020,Ohio,MAC
+2020,Liberty,Independent
+2020,WKU,C-USA
+2020,Kent St,MAC
+2020,Army,Independent
+2020,Rice,C-USA
+2020,"Miami, OH",MAC
+2020,UMass,Independent
+2020,Middle Tenn,C-USA
+2020,Toledo,MAC
+2020,N Mexico St,Independent
+2020,La Tech,C-USA
+2020,W Michigan,MAC
+2020,Connecticut,Independent
+2020,S Miss,C-USA
+2020,C Michigan,MAC
+2020,FAU,C-USA
+2020,E Michigan,MAC
+2020,Charlotte,C-USA
+2020,N Illinois,MAC
+2020,North Texas,C-USA
+2020,Akron,MAC
+2020,FIU,C-USA
+2020,Bowling Green,MAC
+2020,UTEP,C-USA
+2020,Old Dominion,C-USA
+2020,Boise St,Tuesday By   3:00Pm
+2020,Louisiana,Sun Belt
+2020,San Diego St,Tuesday By   3:00Pm
+2020,Georgia Southern,Sun Belt
+2020,Wyoming,Tuesday By   3:00Pm
+2020,Georgia St,Sun Belt
+2020,Nevada,Tuesday By   3:00Pm
+2020,Troy,Sun Belt
+2020,Colorado St,Tuesday By   3:00Pm
+2020,Arkansas St,Sun Belt
+2020,Fresno St,Tuesday By   3:00Pm
+2020,Texas St,Sun Belt
+2020,Hawaii,Tuesday By   3:00Pm
+2020,S Alabama,Sun Belt
+2020,New Mexico,Tuesday By   3:00Pm
+2020,ULM,Sun Belt
+2020,Utah St,Tuesday By   3:00Pm
+2020,UNLV,Tuesday By   3:00Pm
+2021,Georgia,SEC
+2021,Michigan,Big Ten
+2021,Clemson,ACC
+2021,Alabama,SEC
+2021,Ohio St,Big Ten
+2021,Pittsburgh,ACC
+2021,Arkansas,SEC
+2021,Wisconsin,Big Ten
+2021,N Carolina St,ACC
+2021,Mississippi,SEC
+2021,Minnesota,Big Ten
+2021,Wake Forest,ACC
+2021,Texas A&M,SEC
+2021,Purdue,Big Ten
+2021,"Miami, Fl",ACC
+2021,Kentucky,SEC
+2021,Penn St,Big Ten
+2021,Louisville,ACC
+2021,Tennessee,SEC
+2021,Michigan St,Big Ten
+2021,Florida St,ACC
+2021,Auburn,SEC
+2021,Iowa,Big Ten
+2021,N Carolina,ACC
+2021,LSU,SEC
+2021,Nebraska,Big Ten
+2021,Virginia,ACC
+2021,Miss St,SEC
+2021,Illinois,Big Ten
+2021,Syracuse,ACC
+2021,S Carolina,SEC
+2021,Maryland,Big Ten
+2021,Boston College,ACC
+2021,Florida,SEC
+2021,Rutgers,Big Ten
+2021,Virginia Tech,ACC
+2021,Missouri,SEC
+2021,Northwestern,Big Ten
+2021,Georgia Tech,ACC
+2021,Vanderbilt,SEC
+2021,Indiana,Big Ten
+2021,Duke,ACC
+2021,Oklahoma St,Big 12
+2021,Utah,Pac-12
+2021,Cincinnati,AAC
+2021,Baylor,Big 12
+2021,UCLA,Pac-12
+2021,Houston,AAC
+2021,Oklahoma,Big 12
+2021,Wash St,Pac-12
+2021,Tulsa,AAC
+2021,Iowa St,Big 12
+2021,Arizona St,Pac-12
+2021,E Carolina,AAC
+2021,Kansas St,Big 12
+2021,Oregon,Pac-12
+2021,UCF,AAC
+2021,Texas Tech,Big 12
+2021,Oregon St,Pac-12
+2021,SMU,AAC
+2021,Texas,Big 12
+2021,California,Pac-12
+2021,Navy,AAC
+2021,West Virginia,Big 12
+2021,Colorado,Pac-12
+2021,Memphis,AAC
+2021,TCU,Big 12
+2021,USC,Pac-12
+2021,Tulane,AAC
+2021,Kansas,Big 12
+2021,Washington,Pac-12
+2021,USF,AAC
+2021,Arizona,Pac-12
+2021,Temple,AAC
+2021,Stanford,Pac-12
+2021,WKU,C-USA
+2021,C Michigan,MAC
+2021,Notre Dame,Independent
+2021,UAB,C-USA
+2021,"Miami, OH",MAC
+2021,BYU,Independent
+2021,UTSA,C-USA
+2021,W Michigan,MAC
+2021,Liberty,Independent
+2021,Marshall,C-USA
+2021,Toledo,MAC
+2021,Army,Independent
+2021,Middle Tenn,C-USA
+2021,N Illinois,MAC
+2021,N Mexico St,Independent
+2021,Old Dominion,C-USA
+2021,Ball St,MAC
+2021,Connecticut,Independent
+2021,North Texas,C-USA
+2021,E Michigan,MAC
+2021,UMass,Independent
+2021,UTEP,C-USA
+2021,Kent St,MAC
+2021,FAU,C-USA
+2021,Ohio,MAC
+2021,S Miss,C-USA
+2021,Buffalo,MAC
+2021,Rice,C-USA
+2021,Bowling Green,MAC
+2021,La Tech,C-USA
+2021,Akron,MAC
+2021,Charlotte,C-USA
+2021,FIU,C-USA
+2021,Utah St,Tuesday By   3:00Pm
+2021,Appalachian St,Sun Belt
+2021,Fresno St,Tuesday By   3:00Pm
+2021,Coastal Carolina,Sun Belt
+2021,San Diego St,Tuesday By   3:00Pm
+2021,Troy,Sun Belt
+2021,Nevada,Tuesday By   3:00Pm
+2021,Georgia Southern,Sun Belt
+2021,Wyoming,Tuesday By   3:00Pm
+2021,S Alabama,Sun Belt
+2021,Hawaii,Tuesday By   3:00Pm
+2021,ULM,Sun Belt
+2021,UNLV,Tuesday By   3:00Pm
+2021,Texas St,Sun Belt
+2021,Colorado St,Tuesday By   3:00Pm
+2021,Arkansas St,Sun Belt
+2021,San Jose St,Tuesday By   3:00Pm
+2021,New Mexico,Tuesday By   3:00Pm
+2022,Georgia,SEC
+2022,Michigan,Big Ten
+2022,Florida St,ACC
+2022,Tennessee,SEC
+2022,Ohio St,Big Ten
+2022,Clemson,ACC
+2022,Alabama,SEC
+2022,Penn St,Big Ten
+2022,Pittsburgh,ACC
+2022,Mississippi St,SEC
+2022,Illinois,Big Ten
+2022,Louisville,ACC
+2022,South Carolina,SEC
+2022,Minnesota,Big Ten
+2022,Wake Forest,ACC
+2022,LSU,SEC
+2022,Iowa,Big Ten
+2022,NC State,ACC
+2022,Kentucky,SEC
+2022,Maryland,Big Ten
+2022,North Carolina,ACC
+2022,Arkansas,SEC
+2022,Purdue,Big Ten
+2022,Duke,ACC
+2022,Mississippi,SEC
+2022,Wisconsin,Big Ten
+2022,Syracuse,ACC
+2022,Florida,SEC
+2022,Nebraska,Big Ten
+2022,Georgia Tech,ACC
+2022,Texas A&M,SEC
+2022,Michigan St,Big Ten
+2022,"Miami, Fl",ACC
+2022,Auburn,SEC
+2022,Indiana,Big Ten
+2022,Virginia Tech,ACC
+2022,Missouri,SEC
+2022,Northwestern,Big Ten
+2022,Virginia,ACC
+2022,Vanderbilt,SEC
+2022,Rutgers,Big Ten
+2022,Boston College,ACC
+2022,TCU,Big 12
+2022,Utah,Pac-12
+2022,Tulane,AAC
+2022,Texas,Big 12
+2022,Washington,Pac-12
+2022,UCF,AAC
+2022,Kansas St,Big 12
+2022,USC,Pac-12
+2022,Cincinnati,AAC
+2022,Texas Tech,Big 12
+2022,Oregon,Pac-12
+2022,Memphis,AAC
+2022,Baylor,Big 12
+2022,Oregon St,Pac-12
+2022,Navy,AAC
+2022,Oklahoma,Big 12
+2022,UCLA,Pac-12
+2022,Houston,AAC
+2022,West Virginia,Big 12
+2022,Washington St,Pac-12
+2022,East Carolina,AAC
+2022,Iowa St,Big 12
+2022,Arizona,Pac-12
+2022,SMU,AAC
+2022,Kansas,Big 12
+2022,Arizona St,Pac-12
+2022,Tulsa,AAC
+2022,Oklahoma St,Big 12
+2022,California,Pac-12
+2022,USF,AAC
+2022,Stanford,Pac-12
+2022,Temple,AAC
+2022,Colorado,Pac-12
+2022,UTSA,C-USA
+2022,Ohio,MAC
+2022,Notre Dame,Independent
+2022,WKU,C-USA
+2022,Eastern Michigan,MAC
+2022,Army,Independent
+2022,UAB,C-USA
+2022,Toledo,MAC
+2022,BYU,Independent
+2022,North Texas,C-USA
+2022,Bowling Green,MAC
+2022,Liberty,Independent
+2022,FAU,C-USA
+2022,"Miami, Oh",MAC
+2022,Connecticut,Independent
+2022,UTEP,C-USA
+2022,Western Michigan,MAC
+2022,New Mexico St,Independent
+2022,Middle Tenn,C-USA
+2022,Kent St,MAC
+2022,UMass,Independent
+2022,Rice,C-USA
+2022,Buffalo,MAC
+2022,Louisiana Tech,C-USA
+2022,Ball St,MAC
+2022,Charlotte,C-USA
+2022,Central Michigan,MAC
+2022,FIU,C-USA
+2022,Akron,MAC
+2022,Northern Illinois,MAC
+2022,Fresno St,Tuesday By   3:00Pm
+2022,Troy,Sun Belt
+2022,San Diego St,Tuesday By   3:00Pm
+2022,Louisiana,Sun Belt
+2022,Utah St,Tuesday By   3:00Pm
+2022,Marshall,Sun Belt
+2022,San Jose St,Tuesday By   3:00Pm
+2022,Georgia St,Sun Belt
+2022,Wyoming,Tuesday By   3:00Pm
+2022,Southern Miss,Sun Belt
+2022,Colorado St,Tuesday By   3:00Pm
+2022,Appalachian St,Sun Belt
+2022,UNLV,Tuesday By   3:00Pm
+2022,Georgia Southern,Sun Belt
+2022,Hawaii,Tuesday By   3:00Pm
+2022,Coastal Carolina,Sun Belt
+2022,Nevada,Tuesday By   3:00Pm
+2022,ULM,Sun Belt
+2022,New Mexico,Tuesday By   3:00Pm
+2022,Old Dominion,Sun Belt
+2022,Texas St,Sun Belt
+2022,Arkansas St,Sun Belt
+2023,Georgia,SEC
+2023,Michigan,Big Ten
+2023,Florida St,ACC
+2023,Alabama,SEC
+2023,Ohio St,Big Ten
+2023,Clemson,ACC
+2023,Missouri,SEC
+2023,Penn St,Big Ten
+2023,Virginia Tech,ACC
+2023,LSU,SEC
+2023,Maryland,Big Ten
+2023,NC State,ACC
+2023,Tennessee,SEC
+2023,Northwestern,Big Ten
+2023,Duke,ACC
+2023,Mississippi,SEC
+2023,Wisconsin,Big Ten
+2023,Georgia Tech,ACC
+2023,Texas A&M,SEC
+2023,Iowa,Big Ten
+2023,Louisville,ACC
+2023,Kentucky,SEC
+2023,Illinois,Big Ten
+2023,"Miami, Fl",ACC
+2023,South Carolina,SEC
+2023,Rutgers,Big Ten
+2023,North Carolina,ACC
+2023,Florida,SEC
+2023,Purdue,Big Ten
+2023,Wake Forest,ACC
+2023,Auburn,SEC
+2023,Nebraska,Big Ten
+2023,Pittsburgh,ACC
+2023,Arkansas,SEC
+2023,Minnesota,Big Ten
+2023,Virginia,ACC
+2023,Mississippi St,SEC
+2023,Indiana,Big Ten
+2023,Boston College,ACC
+2023,Vanderbilt,SEC
+2023,Michigan St,Big Ten
+2023,Syracuse,ACC
+2023,Texas,Big 12
+2023,Oregon,Pac-12
+2023,SMU,AAC
+2023,Kansas St,Big 12
+2023,Arizona,Pac-12
+2023,Memphis,AAC
+2023,Oklahoma,Big 12
+2023,Washington,Pac-12
+2023,UTSA,AAC
+2023,Kansas,Big 12
+2023,Oregon St,Pac-12
+2023,Tulane,AAC
+2023,Iowa St,Big 12
+2023,UCLA,Pac-12
+2023,USF,AAC
+2023,Oklahoma St,Big 12
+2023,Utah,Pac-12
+2023,Navy,AAC
+2023,West Virginia,Big 12
+2023,Washington St,Pac-12
+2023,Rice,AAC
+2023,Texas Tech,Big 12
+2023,California,Pac-12
+2023,North Texas,AAC
+2023,TCU,Big 12
+2023,Colorado,Pac-12
+2023,East Carolina,AAC
+2023,UCF,Big 12
+2023,Arizona St,Pac-12
+2023,FAU,AAC
+2023,BYU,Big 12
+2023,Stanford,Pac-12
+2023,UAB,AAC
+2023,Baylor,Big 12
+2023,USC,Pac-12
+2023,Tulsa,AAC
+2023,Houston,Big 12
+2023,Temple,AAC
+2023,Cincinnati,Big 12
+2023,Charlotte,AAC
+2023,Liberty,C-USA
+2023,"Miami, Oh",MAC
+2023,Notre Dame,Independent
+2023,Jacksonville St,C-USA
+2023,Toledo,MAC
+2023,Army,Independent
+2023,New Mexico St,C-USA
+2023,Ohio,MAC
+2023,Connecticut,Independent
+2023,WKU,C-USA
+2023,Bowling Green,MAC
+2023,UMass,Independent
+2023,Middle Tenn,C-USA
+2023,Northern Illinois,MAC
+2023,Sam Houston,C-USA
+2023,Ball St,MAC
+2023,UTEP,C-USA
+2023,Central Michigan,MAC
+2023,Louisiana Tech,C-USA
+2023,Western Michigan,MAC
+2023,FIU,C-USA
+2023,Buffalo,MAC
+2023,Eastern Michigan,MAC
+2023,Akron,MAC
+2023,Kent St,MAC
+2023,Air Force,Tuesday By   3:00Pm
+2023,James Madison,Sun Belt
+2023,San Jose St,Tuesday By   3:00Pm
+2023,Texas St,Sun Belt
+2023,UNLV,Tuesday By   3:00Pm
+2023,Appalachian St,Sun Belt
+2023,Fresno St,Tuesday By   3:00Pm
+2023,Coastal Carolina,Sun Belt
+2023,San Diego St,Tuesday By   3:00Pm
+2023,Louisiana,Sun Belt
+2023,Colorado St,Tuesday By   3:00Pm
+2023,Georgia St,Sun Belt
+2023,Utah St,Tuesday By   3:00Pm
+2023,Arkansas St,Sun Belt
+2023,New Mexico,Tuesday By   3:00Pm
+2023,Marshall,Sun Belt
+2023,Hawaii,Tuesday By   3:00Pm
+2023,Old Dominion,Sun Belt
+2023,Nevada,Tuesday By   3:00Pm
+2023,Georgia Southern,Sun Belt
+2023,Southern Miss,Sun Belt
+2023,ULM,Sun Belt
+2024,Mississippi,SEC
+2024,Ohio St,Big Ten
+2024,Clemson,ACC
+2024,Texas,SEC
+2024,Penn St,Big Ten
+2024,SMU,ACC
+2024,Georgia,SEC
+2024,Oregon,Big Ten
+2024,Louisville,ACC
+2024,Alabama,SEC
+2024,Indiana,Big Ten
+2024,"Miami, Fl",ACC
+2024,Florida,SEC
+2024,Michigan,Big Ten
+2024,Syracuse,ACC
+2024,Tennessee,SEC
+2024,Minnesota,Big Ten
+2024,Boston College,ACC
+2024,LSU,SEC
+2024,Iowa,Big Ten
+2024,Virginia Tech,ACC
+2024,South Carolina,SEC
+2024,Illinois,Big Ten
+2024,Georgia Tech,ACC
+2024,Missouri,SEC
+2024,USC,Big Ten
+2024,Duke,ACC
+2024,Arkansas,SEC
+2024,Nebraska,Big Ten
+2024,NC State,ACC
+2024,Vanderbilt,SEC
+2024,Rutgers,Big Ten
+2024,Virginia,ACC
+2024,Texas A&M,SEC
+2024,Washington,Big Ten
+2024,California,ACC
+2024,Auburn,SEC
+2024,UCLA,Big Ten
+2024,Pittsburgh,ACC
+2024,Oklahoma,SEC
+2024,Wisconsin,Big Ten
+2024,North Carolina,ACC
+2024,Kentucky,SEC
+2024,Maryland,Big Ten
+2024,Wake Forest,ACC
+2024,Mississippi St,SEC
+2024,Northwestern,Big Ten
+2024,Florida St,ACC
+2024,Michigan St,Big Ten
+2024,Stanford,ACC
+2024,Purdue,Big Ten
+2024,Arizona St,Big 12
+2024,Washington St,Pac-12
+2024,Memphis,AAC
+2024,BYU,Big 12
+2024,Oregon St,Pac-12
+2024,Navy,AAC
+2024,TCU,Big 12
+2024,Army,AAC
+2024,Iowa St,Big 12
+2024,Tulane,AAC
+2024,Baylor,Big 12
+2024,UTSA,AAC
+2024,Colorado,Big 12
+2024,East Carolina,AAC
+2024,Kansas St,Big 12
+2024,USF,AAC
+2024,Texas Tech,Big 12
+2024,Rice,AAC
+2024,Kansas,Big 12
+2024,North Texas,AAC
+2024,Utah,Big 12
+2024,FAU,AAC
+2024,West Virginia,Big 12
+2024,UAB,AAC
+2024,Cincinnati,Big 12
+2024,Charlotte,AAC
+2024,UCF,Big 12
+2024,Temple,AAC
+2024,Houston,Big 12
+2024,Tulsa,AAC
+2024,Arizona,Big 12
+2024,Oklahoma St,Big 12
+2024,Jacksonville St,C-USA
+2024,Ohio,MAC
+2024,Notre Dame,Independent
+2024,Sam Houston St,C-USA
+2024,"Miami, Oh",MAC
+2024,Connecticut,Independent
+2024,Louisiana Tech,C-USA
+2024,Buffalo,MAC
+2024,UMass,Independent
+2024,Liberty,C-USA
+2024,Bowling Green,MAC
+2024,WKU,C-USA
+2024,Northern Illinois,MAC
+2024,FIU,C-USA
+2024,Toledo,MAC
+2024,UTEP,C-USA
+2024,Akron,MAC
+2024,New Mexico St,C-USA
+2024,Western Michigan,MAC
+2024,Kennesaw St,C-USA
+2024,Ball St,MAC
+2024,Middle Tenn,C-USA
+2024,Central Michigan,MAC
+2024,Eastern Michigan,MAC
+2024,Kent St,MAC
+2024,UNLV,Tuesday By   3:00Pm
+2024,Texas St,Sun Belt
+2024,San Jose St,Tuesday By   3:00Pm
+2024,James Madison,Sun Belt
+2024,Fresno St,Tuesday By   3:00Pm
+2024,Louisiana,Sun Belt
+2024,Air Force,Tuesday By   3:00Pm
+2024,South Alabama,Sun Belt
+2024,New Mexico,Tuesday By   3:00Pm
+2024,Old Dominion,Sun Belt
+2024,Wyoming,Tuesday By   3:00Pm
+2024,GA Southern,Sun Belt
+2024,Utah St,Tuesday By   3:00Pm
+2024,Appalachian St,Sun Belt
+2024,Colorado St,Tuesday By   3:00Pm
+2024,Arkansas St,Sun Belt
+2024,Hawaii,Tuesday By   3:00Pm
+2024,Troy,Sun Belt
+2024,Nevada,Tuesday By   3:00Pm
+2024,Coastal Carolina,Sun Belt
+2024,San Diego St,Tuesday By   3:00Pm
+2024,ULM,Sun Belt
+2024,Georgia St,Sun Belt
+2024,Southern Miss,Sun Belt
+2025,Georgia,SEC
+2025,Indiana,Big Ten
+2025,"Miami, Fl",ACC
+2025,Vanderbilt,SEC
+2025,Ohio St,Big Ten
+2025,Clemson,ACC
+2025,Texas,SEC
+2025,Oregon,Big Ten
+2025,SMU,ACC
+2025,Oklahoma,SEC
+2025,Penn St,Big Ten
+2025,Duke,ACC
+2025,Texas A&M,SEC
+2025,Washington,Big Ten
+2025,Pittsburgh,ACC
+2025,Mississippi,SEC
+2025,USC,Big Ten
+2025,Louisville,ACC
+2025,Alabama,SEC
+2025,Iowa,Big Ten
+2025,Georgia Tech,ACC
+2025,Missouri,SEC
+2025,Michigan,Big Ten
+2025,NC State,ACC
+2025,Auburn,SEC
+2025,Illinois,Big Ten
+2025,Virginia,ACC
+2025,Tennessee,SEC
+2025,Wisconsin,Big Ten
+2025,Florida St,ACC
+2025,South Carolina,SEC
+2025,Minnesota,Big Ten
+2025,Wake Forest,ACC
+2025,LSU,SEC
+2025,Nebraska,Big Ten
+2025,California,ACC
+2025,Florida,SEC
+2025,Northwestern,Big Ten
+2025,Stanford,ACC
+2025,Arkansas,SEC
+2025,Rutgers,Big Ten
+2025,Boston College,ACC
+2025,Mississippi St,SEC
+2025,Michigan St,Big Ten
+2025,Virginia Tech,ACC
+2025,Kentucky,SEC
+2025,UCLA,Big Ten
+2025,North Carolina,ACC
+2025,Maryland,Big Ten
+2025,Syracuse,ACC
+2025,Purdue,Big Ten
+2025,Texas Tech,Big 12
+2025,Washington St,Pac-12
+2025,USF,AAC
+2025,Utah,Big 12
+2025,Oregon St,Pac-12
+2025,Tulane,AAC
+2025,BYU,Big 12
+2025,East Carolina,AAC
+2025,Arizona,Big 12
+2025,Navy,AAC
+2025,TCU,Big 12
+2025,North Texas,AAC
+2025,Iowa St,Big 12
+2025,Memphis,AAC
+2025,Kansas St,Big 12
+2025,UTSA,AAC
+2025,Arizona St,Big 12
+2025,Army,AAC
+2025,Houston,Big 12
+2025,Temple,AAC
+2025,Cincinnati,Big 12
+2025,FAU,AAC
+2025,Kansas,Big 12
+2025,Tulsa,AAC
+2025,Baylor,Big 12
+2025,UAB,AAC
+2025,West Virginia,Big 12
+2025,Rice,AAC
+2025,UCF,Big 12
+2025,Charlotte,AAC
+2025,Colorado,Big 12
+2025,Oklahoma St,Big 12
+2025,FIU,C-USA
+2025,Toledo,MAC
+2025,Notre Dame,Independent
+2025,WKU,C-USA
+2025,Western Michigan,MAC
+2025,Connecticut,Independent
+2025,Kennesaw St,C-USA
+2025,Ohio,MAC
+2025,Louisiana Tech,C-USA
+2025,"Miami, Oh",MAC
+2025,Jacksonville St,C-USA
+2025,Central Michigan,MAC
+2025,Liberty,C-USA
+2025,Akron,MAC
+2025,Missouri St,C-USA
+2025,Eastern Michigan,MAC
+2025,New Mexico St,C-USA
+2025,Buffalo,MAC
+2025,Delaware,C-USA
+2025,Northern Illinois,MAC
+2025,Middle Tenn,C-USA
+2025,Kent St,MAC
+2025,UTEP,C-USA
+2025,Bowling Green,MAC
+2025,Sam Houston,C-USA
+2025,Ball St,MAC
+2025,UMass,MAC
+2025,New Mexico,Tuesday By   3:00Pm
+2025,Old Dominion,Sun Belt
+2025,San Diego St,Tuesday By   3:00Pm
+2025,Texas St,Sun Belt
+2025,Hawaii,Tuesday By   3:00Pm
+2025,Troy,Sun Belt
+2025,UNLV,Tuesday By   3:00Pm
+2025,Arkansas St,Sun Belt
+2025,Fresno St,Tuesday By   3:00Pm
+2025,Louisiana,Sun Belt
+2025,Utah St,Tuesday By   3:00Pm
+2025,Georgia Southern,Sun Belt
+2025,Air Force,Tuesday By   3:00Pm
+2025,South Alabama,Sun Belt
+2025,Wyoming,Tuesday By   3:00Pm
+2025,Southern Miss,Sun Belt
+2025,Nevada,Tuesday By   3:00Pm
+2025,Appalachian St,Sun Belt
+2025,San Jose St,Tuesday By   3:00Pm
+2025,Marshall,Sun Belt
+2025,Colorado St,Tuesday By   3:00Pm
+2025,Coastal Carolina,Sun Belt
+2025,Georgia St,Sun Belt
+2025,ULM,Sun Belt

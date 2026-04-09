@@ -1,0 +1,911 @@
+date,home_team,away_team,home_score,away_score
+2023-08-26,Notre Dame,Navy,42,3
+2023-08-26,Jacksonville State,UTEP,17,14
+2023-08-26,San Diego State,Ohio,20,13
+2023-08-26,New Mexico State,Massachusetts,30,41
+2023-08-26,Vanderbilt,Hawai'i,35,28
+2023-08-27,USC,San José State,56,28
+2023-08-27,Louisiana Tech,Florida International,22,17
+2023-08-31,Georgia State,Rhode Island,42,35
+2023-08-31,Western Michigan,St. Francis (PA),35,17
+2023-08-31,Wake Forest,Elon,37,17
+2023-08-31,UCF,Kent State,56,6
+2023-08-31,UConn,NC State,14,24
+2023-09-01,UAB,North Carolina A&T,35,6
+2023-09-01,Missouri,South Dakota,35,10
+2023-09-01,Utah,Florida,24,11
+2023-09-01,Tulsa,Arkansas-Pine Bluff,42,7
+2023-09-01,Minnesota,Nebraska,13,10
+2023-09-01,Arizona State,Southern Utah,24,21
+2023-09-01,Eastern Michigan,Howard,33,23
+2023-09-01,Miami,Miami (OH),38,3
+2023-09-01,Michigan State,Central Michigan,31,7
+2023-09-01,Georgia Tech,Louisville,34,39
+2023-09-02,Kansas,Missouri State,48,17
+2023-09-02,Hawai'i,Stanford,24,37
+2023-09-02,Michigan,East Carolina,30,3
+2023-09-02,SMU,Louisiana Tech,38,14
+2023-09-02,Purdue,Fresno State,35,39
+2023-09-02,Oklahoma,Arkansas State,73,0
+2023-09-02,Tennessee,Virginia,49,13
+2023-09-02,TCU,Colorado,42,45
+2023-09-02,Boston College,Northern Illinois,24,27
+2023-09-02,Iowa,Utah State,24,14
+2023-09-02,Liberty,Bowling Green,34,24
+2023-09-02,Kentucky,Ball State,44,14
+2023-09-02,Air Force,Robert Morris,42,7
+2023-09-02,Ohio,Long Island University,27,10
+2023-09-02,Iowa State,Northern Iowa,30,9
+2023-09-02,Ole Miss,Mercer,73,7
+2023-09-02,Jacksonville State,East Tennessee State,49,3
+2023-09-02,Temple,Akron,24,21
+2023-09-02,Oregon,Portland State,81,7
+2023-09-02,Wisconsin,Buffalo,38,17
+2023-09-02,Cincinnati,Eastern Kentucky,66,13
+2023-09-02,Western Kentucky,South Florida,41,24
+2023-09-02,Indiana,Ohio State,3,23
+2023-09-02,Washington,Boise State,56,19
+2023-09-02,Maryland,Towson,38,6
+2023-09-02,Texas,Rice,37,10
+2023-09-02,Notre Dame,Tennessee State,56,3
+2023-09-02,App State,Gardner-Webb,45,24
+2023-09-02,Auburn,Massachusetts,59,14
+2023-09-02,Pittsburgh,Wofford,45,7
+2023-09-02,North Texas,California,21,58
+2023-09-02,Syracuse,Colgate,65,0
+2023-09-02,Arkansas,Western Carolina,56,13
+2023-09-02,UNLV,Bryant,44,14
+2023-09-02,Mississippi State,SE Louisiana,48,7
+2023-09-02,Florida Atlantic,Monmouth,42,20
+2023-09-02,Georgia,UT Martin,48,7
+2023-09-02,Marshall,UAlbany,21,17
+2023-09-02,James Madison,Bucknell,38,3
+2023-09-02,Charlotte,South Carolina State,24,3
+2023-09-02,Georgia Southern,The Citadel,34,0
+2023-09-02,USC,Nevada,66,14
+2023-09-02,Florida International,Maine,14,12
+2023-09-02,Vanderbilt,Alabama A&M,47,13
+2023-09-02,Troy,Stephen F. Austin,48,30
+2023-09-02,Houston,UTSA,17,14
+2023-09-02,Colorado State,Washington State,24,50
+2023-09-02,Southern Miss,Alcorn State,40,14
+2023-09-02,Memphis,Bethune-Cookman,56,14
+2023-09-02,Oklahoma State,Central Arkansas,27,13
+2023-09-02,UL Monroe,Army,17,13
+2023-09-02,Kansas State,Southeast Missouri State,45,0
+2023-09-02,Texas A&M,New Mexico,52,10
+2023-09-02,Baylor,Texas State,31,42
+2023-09-02,North Carolina,South Carolina,31,17
+2023-09-02,Illinois,Toledo,30,28
+2023-09-02,Louisiana,Northwestern State,38,13
+2023-09-02,Penn State,West Virginia,38,15
+2023-09-02,Wyoming,Texas Tech,35,33
+2023-09-02,Alabama,Middle Tennessee,56,7
+2023-09-03,Tulane,South Alabama,37,17
+2023-09-03,Virginia Tech,Old Dominion,36,17
+2023-09-03,New Mexico State,Western Illinois,58,21
+2023-09-03,UTEP,Incarnate Word,28,14
+2023-09-03,Arizona,Northern Arizona,38,3
+2023-09-03,BYU,Sam Houston,14,0
+2023-09-03,UCLA,Coastal Carolina,27,13
+2023-09-03,San Diego State,Idaho State,36,28
+2023-09-03,Rutgers,Northwestern,24,7
+2023-09-03,San José State,Oregon State,17,42
+2023-09-03,Florida State,LSU,45,24
+2023-09-05,Duke,Clemson,28,7
+2023-09-07,Louisville,Murray State,56,0
+2023-09-08,Indiana,Indiana State,41,7
+2023-09-08,Kansas,Illinois,34,23
+2023-09-09,Wake Forest,Vanderbilt,36,20
+2023-09-09,Penn State,Delaware,63,7
+2023-09-09,Virginia,James Madison,35,36
+2023-09-09,Boston College,Holy Cross,31,28
+2023-09-09,NC State,Notre Dame,24,45
+2023-09-09,Baylor,Utah,13,20
+2023-09-09,Virginia Tech,Purdue,17,24
+2023-09-09,Georgia,Ball State,45,3
+2023-09-09,Ohio State,Youngstown State,35,7
+2023-09-09,Army,Delaware State,57,0
+2023-09-09,Colorado,Nebraska,36,14
+2023-09-09,Kansas State,Troy,42,13
+2023-09-09,Georgia Tech,South Carolina State,48,13
+2023-09-09,Central Michigan,New Hampshire,45,42
+2023-09-09,Bowling Green,Eastern Illinois,38,15
+2023-09-09,Clemson,Charleston Southern,66,17
+2023-09-09,Kentucky,Eastern Kentucky,28,17
+2023-09-09,BYU,Southern Utah,41,16
+2023-09-09,Massachusetts,Miami (OH),28,41
+2023-09-09,Northwestern,UTEP,38,7
+2023-09-09,Toledo,Texas Southern,71,3
+2023-09-09,Northern Illinois,Southern Illinois,11,14
+2023-09-09,Tulane,Ole Miss,20,37
+2023-09-09,Michigan,UNLV,35,7
+2023-09-09,Miami,Texas A&M,48,33
+2023-09-09,Iowa State,Iowa,13,20
+2023-09-09,UTSA,Texas State,20,13
+2023-09-09,Michigan State,Richmond,45,14
+2023-09-09,Navy,Wagner,24,0
+2023-09-09,Syracuse,Western Michigan,48,7
+2023-09-09,San José State,Cal Poly,59,3
+2023-09-09,East Carolina,Marshall,13,31
+2023-09-09,Wyoming,Portland State,31,17
+2023-09-09,Arkansas,Kent State,28,6
+2023-09-09,Tennessee,Austin Peay,30,13
+2023-09-09,Washington,Tulsa,43,10
+2023-09-09,South Alabama,SE Louisiana,35,17
+2023-09-09,North Carolina,App State,40,34
+2023-09-09,Oklahoma,SMU,28,11
+2023-09-09,Old Dominion,Louisiana,38,31
+2023-09-09,Liberty,New Mexico State,33,17
+2023-09-09,Buffalo,Fordham,37,40
+2023-09-09,Akron,Morgan State,24,21
+2023-09-09,Duke,Lafayette,42,7
+2023-09-09,Florida Atlantic,Ohio,10,17
+2023-09-09,Georgia Southern,UAB,49,35
+2023-09-09,West Virginia,Duquesne,56,17
+2023-09-09,Florida International,North Texas,46,39
+2023-09-09,Pittsburgh,Cincinnati,21,27
+2023-09-09,Nevada,Idaho,6,33
+2023-09-09,Missouri,Middle Tennessee,23,19
+2023-09-09,Arkansas State,Memphis,3,37
+2023-09-09,Louisiana Tech,Northwestern State,51,21
+2023-09-09,Boise State,UCF,16,18
+2023-09-09,Rice,Houston,43,41
+2023-09-09,Georgia State,UConn,35,14
+2023-09-09,Western Kentucky,Houston Christian,52,22
+2023-09-09,Alabama,Texas,24,34
+2023-09-09,Coastal Carolina,Jacksonville State,30,16
+2023-09-09,South Florida,Florida A&M,38,24
+2023-09-09,Texas Tech,Oregon,30,38
+2023-09-09,LSU,Grambling,72,10
+2023-09-09,Rutgers,Temple,36,7
+2023-09-09,Florida,McNeese,49,7
+2023-09-09,Maryland,Charlotte,38,20
+2023-09-09,Mississippi State,Arizona,31,24
+2023-09-09,San Diego State,UCLA,10,35
+2023-09-09,Minnesota,Eastern Michigan,25,6
+2023-09-09,Washington State,Wisconsin,31,22
+2023-09-09,South Carolina,Furman,47,21
+2023-09-10,TCU,Nicholls,41,6
+2023-09-10,Utah State,Idaho State,78,28
+2023-09-10,Sam Houston,Air Force,3,13
+2023-09-10,UL Monroe,Lamar,24,14
+2023-09-10,New Mexico,Tennessee Tech,56,10
+2023-09-10,Florida State,Southern Miss,66,13
+2023-09-10,Oregon State,UC Davis,55,7
+2023-09-10,Fresno State,Eastern Washington,34,31
+2023-09-10,California,Auburn,10,14
+2023-09-10,Arizona State,Oklahoma State,15,27
+2023-09-10,USC,Stanford,56,10
+2023-09-10,Hawai'i,UAlbany,31,20
+2023-09-14,Memphis,Navy,28,24
+2023-09-14,Miami,Bethune-Cookman,48,7
+2023-09-15,UTSA,Army,29,37
+2023-09-15,Maryland,Virginia,42,14
+2023-09-16,Air Force,Utah State,39,21
+2023-09-16,Wisconsin,Georgia Southern,35,14
+2023-09-16,Boise State,North Dakota,42,18
+2023-09-16,Baylor,Long Island University,30,7
+2023-09-16,Illinois,Penn State,13,30
+2023-09-16,Mississippi State,LSU,14,41
+2023-09-16,Old Dominion,Wake Forest,24,27
+2023-09-16,Buffalo,Liberty,27,55
+2023-09-16,Ohio,Iowa State,10,7
+2023-09-16,Missouri,Kansas State,30,27
+2023-09-16,Indiana,Louisville,14,21
+2023-09-16,Boston College,Florida State,29,31
+2023-09-16,Kent State,Central Connecticut,38,10
+2023-09-16,Utah,Weber State,31,7
+2023-09-16,Temple,Norfolk State,41,9
+2023-09-16,NC State,VMI,45,7
+2023-09-16,Eastern Michigan,Massachusetts,19,17
+2023-09-16,Ball State,Indiana State,45,7
+2023-09-16,Notre Dame,Central Michigan,41,17
+2023-09-16,North Carolina,Minnesota,31,13
+2023-09-16,Iowa,Western Michigan,41,10
+2023-09-16,Rutgers,Virginia Tech,35,16
+2023-09-16,Georgia,South Carolina,24,14
+2023-09-16,Duke,Northwestern,38,14
+2023-09-16,Oregon State,San Diego State,26,9
+2023-09-16,South Florida,Alabama,3,17
+2023-09-16,UConn,Florida International,17,24
+2023-09-16,App State,East Carolina,43,28
+2023-09-16,Tulsa,Oklahoma,17,66
+2023-09-16,California,Idaho,31,17
+2023-09-16,Ohio State,Western Kentucky,63,10
+2023-09-16,Texas A&M,UL Monroe,47,3
+2023-09-16,Southern Miss,Tulane,3,21
+2023-09-16,Michigan State,Washington,7,41
+2023-09-16,UCLA,North Carolina Central,59,7
+2023-09-16,Washington State,Northern Colorado,64,21
+2023-09-16,Charlotte,Georgia State,25,41
+2023-09-16,UCF,Villanova,48,14
+2023-09-16,Oklahoma State,South Alabama,7,33
+2023-09-16,Toledo,San José State,21,17
+2023-09-16,Middle Tennessee,Murray State,35,14
+2023-09-16,UAB,Louisiana,21,41
+2023-09-16,Florida,Tennessee,29,16
+2023-09-16,Auburn,Samford,45,13
+2023-09-16,Louisiana Tech,North Texas,37,40
+2023-09-16,UNLV,Vanderbilt,40,37
+2023-09-16,SMU,Prairie View A&M,69,0
+2023-09-16,Rice,Texas Southern,59,7
+2023-09-16,Coastal Carolina,Duquesne,66,7
+2023-09-16,Arkansas State,Stony Brook,31,7
+2023-09-16,Troy,James Madison,14,16
+2023-09-16,Cincinnati,Miami (OH),24,31
+2023-09-16,Nebraska,Northern Illinois,35,11
+2023-09-16,Texas Tech,Tarleton State,41,3
+2023-09-16,Kentucky,Akron,35,3
+2023-09-16,West Virginia,Pittsburgh,17,6
+2023-09-16,Michigan,Bowling Green,31,6
+2023-09-16,Arkansas,BYU,31,38
+2023-09-16,Ole Miss,Georgia Tech,48,23
+2023-09-16,Purdue,Syracuse,20,35
+2023-09-17,Texas,Wyoming,31,10
+2023-09-17,Houston,TCU,13,36
+2023-09-17,Clemson,Florida Atlantic,48,14
+2023-09-17,Oregon,Hawai'i,55,10
+2023-09-17,Stanford,Sacramento State,23,30
+2023-09-17,New Mexico,New Mexico State,17,27
+2023-09-17,Texas State,Jackson State,77,34
+2023-09-17,Colorado,Colorado State,43,35
+2023-09-17,Nevada,Kansas,24,31
+2023-09-17,Arizona State,Fresno State,0,29
+2023-09-17,Arizona,UTEP,31,10
+2023-09-21,Coastal Carolina,Georgia State,17,30
+2023-09-22,Purdue,Wisconsin,17,38
+2023-09-22,Virginia,NC State,21,24
+2023-09-23,San Diego State,Boise State,31,34
+2023-09-23,San José State,Air Force,20,45
+2023-09-23,TCU,SMU,34,17
+2023-09-23,Marshall,Virginia Tech,24,17
+2023-09-23,Northern Illinois,Tulsa,14,22
+2023-09-23,Cincinnati,Oklahoma,6,20
+2023-09-23,Troy,Western Kentucky,27,24
+2023-09-23,Michigan,Rutgers,31,7
+2023-09-23,Clemson,Florida State,24,31
+2023-09-23,Syracuse,Army,29,16
+2023-09-23,Vanderbilt,Kentucky,28,45
+2023-09-23,Texas A&M,Auburn,27,10
+2023-09-23,Toledo,Western Michigan,49,31
+2023-09-23,Ball State,Georgia Southern,3,40
+2023-09-23,Louisville,Boston College,56,28
+2023-09-23,Oregon,Colorado,42,6
+2023-09-23,Utah,UCLA,14,7
+2023-09-23,Illinois,Florida Atlantic,23,17
+2023-09-23,Kansas,BYU,38,27
+2023-09-23,UConn,Duke,7,41
+2023-09-23,Michigan State,Maryland,9,31
+2023-09-23,Old Dominion,East Texas A&M,10,9
+2023-09-23,Temple,Miami,7,41
+2023-09-23,Nebraska,Louisiana Tech,28,14
+2023-09-23,Miami (OH),Delaware State,62,20
+2023-09-23,West Virginia,Texas Tech,20,13
+2023-09-23,Alabama,Ole Miss,24,10
+2023-09-23,Massachusetts,New Mexico,31,34
+2023-09-23,Bowling Green,Ohio,7,38
+2023-09-23,Iowa State,Oklahoma State,34,27
+2023-09-23,South Florida,Rice,42,29
+2023-09-23,Tennessee,UTSA,45,14
+2023-09-23,Jacksonville State,Eastern Michigan,21,0
+2023-09-23,South Alabama,Central Michigan,30,34
+2023-09-23,East Carolina,Gardner-Webb,44,0
+2023-09-23,Florida International,Liberty,6,38
+2023-09-23,Wake Forest,Georgia Tech,16,30
+2023-09-23,Tulane,Nicholls,36,7
+2023-09-23,LSU,Arkansas,34,31
+2023-09-23,Washington State,Oregon State,38,35
+2023-09-23,Middle Tennessee,Colorado State,23,31
+2023-09-23,Houston,Sam Houston,38,7
+2023-09-23,Texas State,Nevada,35,24
+2023-09-23,Arkansas State,Southern Miss,44,37
+2023-09-23,Florida,Charlotte,22,7
+2023-09-23,Stanford,Arizona,20,21
+2023-09-23,Wyoming,App State,22,19
+2023-09-23,Notre Dame,Ohio State,14,17
+2023-09-23,Baylor,Texas,6,38
+2023-09-23,South Carolina,Mississippi State,37,30
+2023-09-23,Missouri,Memphis,34,27
+2023-09-23,Georgia,UAB,49,21
+2023-09-23,Penn State,Iowa,31,0
+2023-09-23,Northwestern,Minnesota,37,34
+2023-09-23,Indiana,Akron,29,27
+2023-09-23,Louisiana,Buffalo,45,38
+2023-09-24,Kansas State,UCF,44,31
+2023-09-24,Pittsburgh,North Carolina,24,41
+2023-09-24,Utah State,James Madison,38,45
+2023-09-24,UTEP,UNLV,28,45
+2023-09-24,Fresno State,Kent State,53,10
+2023-09-24,Washington,California,59,32
+2023-09-24,Arizona State,USC,28,42
+2023-09-24,Hawai'i,New Mexico State,20,17
+2023-09-28,Western Kentucky,Middle Tennessee,31,10
+2023-09-28,Tulsa,Temple,48,26
+2023-09-29,Sam Houston,Jacksonville State,28,35
+2023-09-29,NC State,Louisville,10,13
+2023-09-30,UTEP,Louisiana Tech,10,24
+2023-09-30,Oregon State,Utah,21,7
+2023-09-30,BYU,Cincinnati,35,27
+2023-09-30,Syracuse,Clemson,14,31
+2023-09-30,Arkansas,Texas A&M,22,34
+2023-09-30,Kentucky,Florida,33,14
+2023-09-30,James Madison,South Alabama,31,23
+2023-09-30,UConn,Utah State,33,34
+2023-09-30,Akron,Buffalo,10,13
+2023-09-30,Minnesota,Louisiana,35,24
+2023-09-30,Colorado,USC,41,48
+2023-09-30,Tulane,UAB,35,23
+2023-09-30,Northwestern,Penn State,13,41
+2023-09-30,Central Michigan,Eastern Michigan,26,23
+2023-09-30,Boston College,Virginia,27,24
+2023-09-30,Kent State,Miami (OH),3,23
+2023-09-30,California,Arizona State,24,21
+2023-09-30,Texas Tech,Houston,49,28
+2023-09-30,Rutgers,Wagner,52,3
+2023-09-30,Texas,Kansas,40,14
+2023-09-30,UCF,Baylor,35,36
+2023-09-30,Toledo,Northern Illinois,35,33
+2023-09-30,Georgia Tech,Bowling Green,27,38
+2023-09-30,Nebraska,Michigan,7,45
+2023-09-30,Western Michigan,Ball State,42,24
+2023-09-30,Purdue,Illinois,44,19
+2023-09-30,Marshall,Old Dominion,41,35
+2023-09-30,Navy,South Florida,30,44
+2023-09-30,Auburn,Georgia,20,27
+2023-09-30,Maryland,Indiana,44,17
+2023-09-30,Massachusetts,Arkansas State,28,52
+2023-09-30,Vanderbilt,Missouri,21,38
+2023-09-30,Memphis,Boise State,35,32
+2023-09-30,UNLV,Hawai'i,44,20
+2023-09-30,Wyoming,New Mexico,35,26
+2023-09-30,Ole Miss,LSU,55,49
+2023-09-30,Stanford,Oregon,6,42
+2023-09-30,Georgia State,Troy,7,28
+2023-09-30,Colorado State,Utah Tech,41,20
+2023-09-30,Georgia Southern,Coastal Carolina,38,28
+2023-09-30,Rice,East Carolina,24,17
+2023-09-30,Oklahoma,Iowa State,50,20
+2023-09-30,North Texas,Abilene Christian,45,31
+2023-09-30,Southern Miss,Texas State,36,50
+2023-09-30,SMU,Charlotte,34,16
+2023-09-30,Duke,Notre Dame,14,21
+2023-09-30,Tennessee,South Carolina,41,20
+2023-09-30,Iowa,Michigan State,26,16
+2023-10-01,Air Force,San Diego State,49,10
+2023-10-01,TCU,West Virginia,21,24
+2023-10-01,Virginia Tech,Pittsburgh,38,21
+2023-10-01,UL Monroe,App State,40,41
+2023-10-01,Mississippi State,Alabama,17,40
+2023-10-01,Arizona,Washington,24,31
+2023-10-01,Fresno State,Nevada,27,9
+2023-10-05,Middle Tennessee,Jacksonville State,30,45
+2023-10-05,New Mexico State,Florida International,34,17
+2023-10-05,Liberty,Sam Houston,21,16
+2023-10-06,Louisiana Tech,Western Kentucky,28,35
+2023-10-06,Oklahoma State,Kansas State,29,21
+2023-10-07,Illinois,Nebraska,7,20
+2023-10-07,Mississippi State,Western Michigan,41,28
+2023-10-07,Virginia,William & Mary,27,13
+2023-10-07,Ohio State,Maryland,37,17
+2023-10-07,Wisconsin,Rutgers,24,13
+2023-10-07,Texas,Oklahoma,30,34
+2023-10-07,Army,Boston College,24,27
+2023-10-07,Missouri,LSU,39,49
+2023-10-07,Massachusetts,Toledo,24,41
+2023-10-07,Buffalo,Central Michigan,37,13
+2023-10-07,Temple,UTSA,34,49
+2023-10-07,NC State,Marshall,48,41
+2023-10-07,UCLA,Washington State,25,17
+2023-10-07,Northwestern,Howard,23,20
+2023-10-07,Akron,Northern Illinois,14,55
+2023-10-07,Miami (OH),Bowling Green,27,0
+2023-10-07,Ohio,Kent State,42,17
+2023-10-07,Iowa,Purdue,20,14
+2023-10-07,Louisiana,Texas State,34,30
+2023-10-07,Florida State,Virginia Tech,39,17
+2023-10-07,North Carolina,Syracuse,40,7
+2023-10-07,Navy,North Texas,27,24
+2023-10-07,Texas A&M,Alabama,20,26
+2023-10-07,Clemson,Wake Forest,17,12
+2023-10-07,Eastern Michigan,Ball State,24,10
+2023-10-07,Florida,Vanderbilt,38,14
+2023-10-07,Troy,Arkansas State,37,3
+2023-10-07,Kansas,UCF,51,22
+2023-10-07,UAB,South Florida,56,35
+2023-10-07,Rice,UConn,31,38
+2023-10-07,Florida Atlantic,Tulsa,20,17
+2023-10-07,Arizona State,Colorado,24,27
+2023-10-07,UL Monroe,South Alabama,7,55
+2023-10-07,Georgia,Kentucky,51,13
+2023-10-07,Southern Miss,Old Dominion,13,17
+2023-10-07,Ole Miss,Arkansas,27,20
+2023-10-07,Minnesota,Michigan,10,52
+2023-10-07,Louisville,Notre Dame,33,20
+2023-10-08,Baylor,Texas Tech,14,39
+2023-10-08,Wyoming,Fresno State,24,19
+2023-10-08,Miami,Georgia Tech,20,23
+2023-10-08,Boise State,San José State,35,27
+2023-10-08,Iowa State,TCU,27,14
+2023-10-08,Utah State,Colorado State,44,24
+2023-10-08,California,Oregon State,40,52
+2023-10-08,USC,Arizona,43,41
+2023-10-10,Middle Tennessee,Louisiana Tech,31,23
+2023-10-10,App State,Coastal Carolina,24,27
+2023-10-10,Jacksonville State,Liberty,13,31
+2023-10-11,Florida International,UTEP,14,27
+2023-10-12,New Mexico State,Sam Houston,27,13
+2023-10-12,Houston,West Virginia,41,39
+2023-10-12,East Carolina,SMU,10,31
+2023-10-13,Memphis,Tulane,21,31
+2023-10-14,Utah State,Fresno State,32,37
+2023-10-14,Colorado,Stanford,43,46
+2023-10-14,Purdue,Ohio State,7,41
+2023-10-14,Vanderbilt,Georgia,20,37
+2023-10-14,Cincinnati,Iowa State,10,30
+2023-10-14,North Texas,Temple,45,14
+2023-10-14,James Madison,Georgia Southern,41,13
+2023-10-14,Rutgers,Michigan State,27,24
+2023-10-14,Michigan,Indiana,52,7
+2023-10-14,Eastern Michigan,Kent State,28,14
+2023-10-14,Florida State,Syracuse,41,3
+2023-10-14,Alabama,Arkansas,24,21
+2023-10-14,Ball State,Toledo,6,13
+2023-10-14,Charlotte,Navy,0,14
+2023-10-14,Utah,California,34,14
+2023-10-14,Virginia Tech,Wake Forest,30,13
+2023-10-14,Tennessee,Texas A&M,20,13
+2023-10-14,South Carolina,Florida,39,41
+2023-10-14,Western Michigan,Miami (OH),21,34
+2023-10-14,Penn State,Massachusetts,63,0
+2023-10-14,TCU,BYU,44,11
+2023-10-14,Oklahoma State,Kansas,39,32
+2023-10-14,Army,Troy,0,19
+2023-10-14,South Florida,Florida Atlantic,14,56
+2023-10-14,Washington,Oregon,36,33
+2023-10-14,Buffalo,Bowling Green,14,24
+2023-10-14,Maryland,Illinois,24,27
+2023-10-14,Central Michigan,Akron,17,10
+2023-10-14,Wisconsin,Iowa,6,15
+2023-10-14,Northern Illinois,Ohio,23,13
+2023-10-14,Nevada,UNLV,27,45
+2023-10-14,New Mexico,San José State,24,52
+2023-10-14,Pittsburgh,Louisville,38,21
+2023-10-14,Texas Tech,Kansas State,21,38
+2023-10-14,Texas State,UL Monroe,21,20
+2023-10-14,Washington State,Arizona,6,44
+2023-10-14,Georgia State,Marshall,41,24
+2023-10-14,LSU,Auburn,48,18
+2023-10-14,Air Force,Wyoming,34,27
+2023-10-14,Kentucky,Missouri,21,38
+2023-10-14,North Carolina,Miami,41,31
+2023-10-14,Notre Dame,USC,48,20
+2023-10-15,Duke,NC State,24,3
+2023-10-15,UTSA,UAB,41,20
+2023-10-15,Oregon State,UCLA,36,24
+2023-10-15,Colorado State,Boise State,31,30
+2023-10-15,Hawai'i,San Diego State,34,41
+2023-10-17,Liberty,Middle Tennessee,42,35
+2023-10-17,Jacksonville State,Western Kentucky,20,17
+2023-10-17,South Alabama,Southern Miss,55,3
+2023-10-18,Sam Houston,Florida International,27,33
+2023-10-19,UTEP,New Mexico State,7,28
+2023-10-19,Marshall,James Madison,9,20
+2023-10-19,Tulsa,Rice,10,42
+2023-10-20,Temple,SMU,0,55
+2023-10-21,Ohio State,Penn State,20,12
+2023-10-21,Navy,Air Force,6,17
+2023-10-21,UAB,Memphis,21,45
+2023-10-21,Indiana,Rutgers,14,31
+2023-10-21,Oklahoma,UCF,31,29
+2023-10-21,Arkansas,Mississippi State,3,7
+2023-10-21,Ohio,Western Michigan,20,17
+2023-10-21,Georgia Tech,Boston College,23,38
+2023-10-21,Cincinnati,Baylor,29,32
+2023-10-21,Bowling Green,Akron,41,14
+2023-10-21,Georgia Southern,UL Monroe,38,28
+2023-10-21,East Carolina,Charlotte,7,10
+2023-10-21,Nebraska,Northwestern,17,9
+2023-10-21,West Virginia,Oklahoma State,34,48
+2023-10-21,Illinois,Wisconsin,21,25
+2023-10-21,Oregon,Washington State,38,24
+2023-10-21,UConn,South Florida,21,24
+2023-10-21,Northern Illinois,Eastern Michigan,20,13
+2023-10-21,Missouri,South Carolina,34,12
+2023-10-21,Ball State,Central Michigan,24,17
+2023-10-21,Wake Forest,Pittsburgh,21,17
+2023-10-21,Kent State,Buffalo,6,24
+2023-10-21,Tulane,North Texas,35,28
+2023-10-21,Iowa,Minnesota,10,12
+2023-10-21,Alabama,Tennessee,34,20
+2023-10-21,Houston,Texas,24,31
+2023-10-21,Miami (OH),Toledo,17,21
+2023-10-21,Florida Atlantic,UTSA,10,36
+2023-10-21,New Mexico,Hawai'i,42,21
+2023-10-21,North Carolina,Virginia,27,31
+2023-10-21,UNLV,Colorado State,25,23
+2023-10-21,Old Dominion,App State,28,21
+2023-10-21,Arkansas State,Coastal Carolina,17,27
+2023-10-21,BYU,Texas Tech,27,14
+2023-10-21,San José State,Utah State,42,21
+2023-10-21,Kansas State,TCU,41,3
+2023-10-21,Auburn,Ole Miss,21,28
+2023-10-21,Florida State,Duke,38,20
+2023-10-21,LSU,Army,62,0
+2023-10-21,Michigan State,Michigan,0,49
+2023-10-22,Louisiana,Georgia State,17,20
+2023-10-22,Miami,Clemson,28,20
+2023-10-22,USC,Utah,32,34
+2023-10-22,San Diego State,Nevada,0,6
+2023-10-22,Stanford,UCLA,7,42
+2023-10-22,Washington,Arizona State,15,7
+2023-10-24,Louisiana Tech,New Mexico State,24,27
+2023-10-24,Western Kentucky,Liberty,29,42
+2023-10-25,Florida International,Jacksonville State,16,41
+2023-10-26,Sam Houston,UTEP,34,37
+2023-10-26,Georgia Southern,Georgia State,44,27
+2023-10-26,Virginia Tech,Syracuse,38,10
+2023-10-27,Charlotte,Florida Atlantic,16,38
+2023-10-28,Kansas,Oklahoma,38,33
+2023-10-28,Penn State,Indiana,33,24
+2023-10-28,Wake Forest,Florida State,16,41
+2023-10-28,Army,Massachusetts,14,21
+2023-10-28,Boston College,UConn,21,14
+2023-10-28,UCF,West Virginia,28,41
+2023-10-28,Kansas State,Houston,41,0
+2023-10-28,Northwestern,Maryland,33,27
+2023-10-28,Texas A&M,South Carolina,30,17
+2023-10-28,SMU,Tulsa,69,10
+2023-10-28,Eastern Michigan,Western Michigan,21,45
+2023-10-28,NC State,Clemson,24,17
+2023-10-28,North Texas,Memphis,42,45
+2023-10-28,UTSA,East Carolina,41,27
+2023-10-28,Baylor,Iowa State,18,30
+2023-10-28,Auburn,Mississippi State,27,13
+2023-10-28,Minnesota,Michigan State,27,12
+2023-10-28,Florida,Georgia,20,43
+2023-10-28,Nebraska,Purdue,31,14
+2023-10-28,Utah,Oregon,6,35
+2023-10-28,Miami,Virginia,29,26
+2023-10-28,Louisville,Duke,23,0
+2023-10-28,Texas,BYU,35,6
+2023-10-28,Ohio,Miami (OH),16,30
+2023-10-28,App State,Southern Miss,48,38
+2023-10-28,Notre Dame,Pittsburgh,58,7
+2023-10-28,Rice,Tulane,28,30
+2023-10-28,California,USC,49,50
+2023-10-28,South Alabama,Louisiana,20,33
+2023-10-28,UL Monroe,Arkansas State,24,34
+2023-10-28,Boise State,Wyoming,32,7
+2023-10-28,Coastal Carolina,Marshall,34,6
+2023-10-28,Kentucky,Tennessee,27,33
+2023-10-28,Stanford,Washington,33,42
+2023-10-28,Texas State,Troy,13,31
+2023-10-28,Colorado State,Air Force,13,30
+2023-10-28,Wisconsin,Ohio State,10,24
+2023-10-28,Ole Miss,Vanderbilt,33,7
+2023-10-28,UCLA,Colorado,28,16
+2023-10-29,Georgia Tech,North Carolina,46,42
+2023-10-29,Arizona State,Washington State,38,27
+2023-10-29,Oklahoma State,Cincinnati,45,13
+2023-10-29,James Madison,Old Dominion,30,27
+2023-10-29,Arizona,Oregon State,27,24
+2023-10-29,Fresno State,UNLV,31,24
+2023-10-29,Nevada,New Mexico,34,24
+2023-10-29,Hawai'i,San José State,0,35
+2023-10-31,Central Michigan,Northern Illinois,37,31
+2023-10-31,Toledo,Buffalo,31,13
+2023-11-01,Bowling Green,Ball State,24,21
+2023-11-01,Akron,Kent State,31,27
+2023-11-02,Texas Tech,TCU,35,28
+2023-11-02,Duke,Wake Forest,24,21
+2023-11-02,Troy,South Alabama,28,10
+2023-11-03,Syracuse,Boston College,10,17
+2023-11-04,Wyoming,Colorado State,24,15
+2023-11-04,North Carolina,Campbell,59,7
+2023-11-04,South Carolina,Jacksonville State,38,28
+2023-11-04,Texas,Kansas State,33,30
+2023-11-04,Ole Miss,Texas A&M,38,35
+2023-11-04,Tennessee,UConn,59,3
+2023-11-04,Michigan State,Nebraska,20,17
+2023-11-04,Indiana,Wisconsin,20,14
+2023-11-04,Florida,Arkansas,36,39
+2023-11-04,Rutgers,Ohio State,16,35
+2023-11-04,Clemson,Notre Dame,31,23
+2023-11-04,Sam Houston,Kennesaw State,24,21
+2023-11-04,Virginia,Georgia Tech,17,45
+2023-11-04,Utah,Arizona State,55,3
+2023-11-04,Temple,Navy,32,18
+2023-11-04,Air Force,Army,3,23
+2023-11-04,UAB,Florida Atlantic,45,42
+2023-11-04,North Texas,UTSA,29,37
+2023-11-04,Arkansas State,Louisiana,37,17
+2023-11-04,Memphis,South Florida,59,50
+2023-11-04,Louisville,Virginia Tech,34,3
+2023-11-04,Baylor,Houston,24,25
+2023-11-04,Northwestern,Iowa,7,10
+2023-11-04,Cincinnati,UCF,26,28
+2023-11-04,Massachusetts,Merrimack,31,21
+2023-11-04,Maryland,Penn State,15,51
+2023-11-04,Georgia State,James Madison,14,42
+2023-11-04,Oklahoma State,Oklahoma,27,24
+2023-11-04,Georgia,Missouri,30,21
+2023-11-04,East Carolina,Tulane,10,13
+2023-11-04,Minnesota,Illinois,26,27
+2023-11-04,Old Dominion,Coastal Carolina,24,28
+2023-11-04,Pittsburgh,Florida State,7,24
+2023-11-04,Southern Miss,UL Monroe,24,7
+2023-11-04,Nevada,Hawai'i,14,27
+2023-11-04,Vanderbilt,Auburn,15,31
+2023-11-04,Tulsa,Charlotte,26,33
+2023-11-04,Texas State,Georgia Southern,45,24
+2023-11-04,Oregon,California,63,19
+2023-11-04,New Mexico State,Middle Tennessee,13,7
+2023-11-04,App State,Marshall,31,9
+2023-11-04,New Mexico,UNLV,14,56
+2023-11-04,Liberty,Louisiana Tech,56,30
+2023-11-04,Iowa State,Kansas,21,28
+2023-11-04,San Diego State,Utah State,24,32
+2023-11-04,West Virginia,BYU,37,7
+2023-11-04,Rice,SMU,31,36
+2023-11-04,Michigan,Purdue,41,13
+2023-11-04,USC,Washington,42,52
+2023-11-04,Mississippi State,Kentucky,3,24
+2023-11-04,Alabama,LSU,42,28
+2023-11-05,NC State,Miami,20,6
+2023-11-05,UTEP,Western Kentucky,13,21
+2023-11-05,Washington State,Stanford,7,10
+2023-11-05,Colorado,Oregon State,19,26
+2023-11-05,Fresno State,Boise State,37,30
+2023-11-05,Arizona,UCLA,27,10
+2023-11-08,Western Michigan,Central Michigan,38,28
+2023-11-08,Northern Illinois,Ball State,17,20
+2023-11-08,Buffalo,Ohio,10,20
+2023-11-09,Kent State,Bowling Green,19,49
+2023-11-09,Miami (OH),Akron,19,0
+2023-11-09,Toledo,Eastern Michigan,49,23
+2023-11-10,Louisiana,Southern Miss,31,34
+2023-11-10,Louisville,Virginia,31,24
+2023-11-11,SMU,North Texas,45,21
+2023-11-11,UNLV,Wyoming,34,14
+2023-11-11,Boston College,Virginia Tech,22,48
+2023-11-11,Army,Holy Cross,17,14
+2023-11-11,Penn State,Michigan,15,24
+2023-11-11,South Florida,Temple,27,23
+2023-11-11,Clemson,Georgia Tech,42,21
+2023-11-11,Illinois,Indiana,48,45
+2023-11-11,Kentucky,Alabama,21,49
+2023-11-11,Nebraska,Maryland,10,13
+2023-11-11,Kansas,Texas Tech,13,16
+2023-11-11,South Carolina,Vanderbilt,47,6
+2023-11-11,Tulane,Tulsa,24,22
+2023-11-11,Liberty,Old Dominion,38,10
+2023-11-11,Wake Forest,NC State,6,26
+2023-11-11,Colorado,Arizona,31,34
+2023-11-11,James Madison,UConn,44,6
+2023-11-11,Charlotte,Memphis,38,44
+2023-11-11,UL Monroe,Troy,14,45
+2023-11-11,Georgia State,App State,14,42
+2023-11-11,Louisiana Tech,Sam Houston,27,42
+2023-11-11,Kansas State,Baylor,59,25
+2023-11-11,Utah State,Nevada,41,24
+2023-11-11,UCF,Oklahoma State,45,3
+2023-11-11,Syracuse,Pittsburgh,28,13
+2023-11-11,Western Kentucky,New Mexico State,29,38
+2023-11-11,Iowa,Rutgers,22,0
+2023-11-11,Florida State,Miami,27,20
+2023-11-11,Coastal Carolina,Texas State,31,23
+2023-11-11,Purdue,Minnesota,49,30
+2023-11-11,Wisconsin,Northwestern,10,24
+2023-11-11,Navy,UAB,31,6
+2023-11-11,Washington,Utah,35,28
+2023-11-11,Missouri,Tennessee,36,7
+2023-11-11,Middle Tennessee,Florida International,40,6
+2023-11-11,Arkansas,Auburn,10,48
+2023-11-11,Florida Atlantic,East Carolina,7,22
+2023-11-11,California,Washington State,42,39
+2023-11-11,South Alabama,Arkansas State,21,14
+2023-11-11,Oregon State,Stanford,62,17
+2023-11-12,Oklahoma,West Virginia,59,20
+2023-11-12,Colorado State,San Diego State,22,19
+2023-11-12,Houston,Cincinnati,14,24
+2023-11-12,Marshall,Georgia Southern,38,33
+2023-11-12,Georgia,Ole Miss,52,17
+2023-11-12,LSU,Florida,52,35
+2023-11-12,UTSA,Rice,34,14
+2023-11-12,Texas A&M,Mississippi State,51,10
+2023-11-12,Ohio State,Michigan State,38,3
+2023-11-12,TCU,Texas,26,29
+2023-11-12,North Carolina,Duke,47,45
+2023-11-12,UCLA,Arizona State,7,17
+2023-11-12,Boise State,New Mexico,42,14
+2023-11-12,BYU,Iowa State,13,45
+2023-11-12,San José State,Fresno State,42,18
+2023-11-12,Oregon,USC,36,27
+2023-11-12,Hawai'i,Air Force,27,13
+2023-11-15,Northern Illinois,Western Michigan,24,0
+2023-11-15,Eastern Michigan,Akron,30,27
+2023-11-15,Bowling Green,Toledo,31,32
+2023-11-16,Ohio,Central Michigan,34,20
+2023-11-16,Miami (OH),Buffalo,23,10
+2023-11-17,Pittsburgh,Boston College,24,16
+2023-11-18,UTSA,South Florida,49,21
+2023-11-18,Washington State,Colorado,56,14
+2023-11-18,UConn,Sacred Heart,31,3
+2023-11-18,Penn State,Rutgers,27,6
+2023-11-18,Alabama,Chattanooga,66,10
+2023-11-18,Navy,East Carolina,10,0
+2023-11-18,Texas A&M,Abilene Christian,38,10
+2023-11-18,Mississippi State,Southern Miss,41,20
+2023-11-18,Army,Coastal Carolina,28,21
+2023-11-18,Ole Miss,UL Monroe,35,3
+2023-11-18,Memphis,SMU,34,38
+2023-11-18,Maryland,Michigan,24,31
+2023-11-18,Northwestern,Purdue,23,15
+2023-11-18,BYU,Oklahoma,24,31
+2023-11-18,Florida Atlantic,Tulane,8,24
+2023-11-18,Miami,Louisville,31,38
+2023-11-18,Indiana,Michigan State,21,24
+2023-11-18,Liberty,Massachusetts,49,25
+2023-11-18,Wyoming,Hawai'i,42,9
+2023-11-18,James Madison,App State,23,26
+2023-11-18,Jacksonville State,Louisiana Tech,56,17
+2023-11-18,Charlotte,Rice,7,28
+2023-11-18,Middle Tennessee,UTEP,34,30
+2023-11-18,Ball State,Kent State,34,3
+2023-11-18,West Virginia,Cincinnati,42,21
+2023-11-18,Arizona,Utah,42,18
+2023-11-18,Virginia,Duke,30,27
+2023-11-18,UAB,Temple,34,24
+2023-11-18,Tulsa,North Texas,28,35
+2023-11-18,Colorado State,Nevada,30,20
+2023-11-18,Arkansas State,Texas State,77,31
+2023-11-18,Tennessee,Georgia,10,38
+2023-11-18,Western Kentucky,Sam Houston,28,23
+2023-11-18,USC,UCLA,20,38
+2023-11-18,Notre Dame,Wake Forest,45,7
+2023-11-18,Troy,Louisiana,31,24
+2023-11-18,TCU,Baylor,42,17
+2023-11-18,Virginia Tech,NC State,28,35
+2023-11-18,Air Force,UNLV,27,31
+2023-11-18,Clemson,North Carolina,31,20
+2023-11-18,Iowa,Illinois,15,13
+2023-11-18,Arizona State,Oregon,13,49
+2023-11-18,Auburn,New Mexico State,10,31
+2023-11-18,Ohio State,Minnesota,37,3
+2023-11-18,Houston,Oklahoma State,30,43
+2023-11-18,Texas Tech,UCF,24,23
+2023-11-18,South Alabama,Marshall,28,0
+2023-11-18,Georgia Southern,Old Dominion,17,20
+2023-11-18,Stanford,California,15,27
+2023-11-18,Florida State,North Alabama,58,13
+2023-11-19,Kansas,Kansas State,27,31
+2023-11-19,Utah State,Boise State,10,45
+2023-11-19,South Carolina,Kentucky,17,14
+2023-11-19,Missouri,Florida,33,31
+2023-11-19,Oregon State,Washington,20,22
+2023-11-19,Arkansas,Florida International,44,20
+2023-11-19,Wisconsin,Nebraska,24,17
+2023-11-19,Iowa State,Texas,16,26
+2023-11-19,Georgia Tech,Syracuse,31,22
+2023-11-19,LSU,Georgia State,56,14
+2023-11-19,San José State,San Diego State,24,13
+2023-11-19,Fresno State,New Mexico,17,25
+2023-11-22,Western Michigan,Bowling Green,10,34
+2023-11-22,Buffalo,Eastern Michigan,11,24
+2023-11-24,Mississippi State,Ole Miss,7,17
+2023-11-24,Akron,Ohio,14,25
+2023-11-24,Central Michigan,Toledo,17,32
+2023-11-24,Boston College,Miami,20,45
+2023-11-24,Nebraska,Iowa,10,13
+2023-11-24,Temple,Memphis,21,45
+2023-11-24,Oklahoma,TCU,69,45
+2023-11-24,New Mexico,Utah State,41,44
+2023-11-24,Tulane,UTSA,29,16
+2023-11-24,Boise State,Air Force,27,19
+2023-11-24,Arkansas,Missouri,14,48
+2023-11-25,Michigan State,Penn State,0,42
+2023-11-25,Texas,Texas Tech,57,7
+2023-11-25,Oregon,Oregon State,31,7
+2023-11-25,Sam Houston,Middle Tennessee,23,20
+2023-11-25,Purdue,Indiana,35,31
+2023-11-25,Michigan,Ohio State,30,24
+2023-11-25,Louisville,Kentucky,31,38
+2023-11-25,LSU,Texas A&M,42,30
+2023-11-25,Kent State,Northern Illinois,27,37
+2023-11-25,Ball State,Miami (OH),15,17
+2023-11-25,Massachusetts,UConn,18,31
+2023-11-25,Duke,Pittsburgh,30,19
+2023-11-25,UCF,Houston,27,13
+2023-11-25,SMU,Navy,59,14
+2023-11-25,Southern Miss,Troy,17,35
+2023-11-25,Rice,Florida Atlantic,24,21
+2023-11-25,Syracuse,Wake Forest,35,31
+2023-11-25,East Carolina,Tulsa,27,29
+2023-11-25,Old Dominion,Georgia State,25,24
+2023-11-25,North Texas,UAB,45,42
+2023-11-25,Louisiana,UL Monroe,52,21
+2023-11-25,UNLV,San José State,31,37
+2023-11-25,Florida International,Western Kentucky,28,41
+2023-11-25,Utah,Colorado,23,17
+2023-11-25,Auburn,Alabama,24,27
+2023-11-25,Rutgers,Maryland,24,42
+2023-11-25,Minnesota,Wisconsin,14,28
+2023-11-25,Illinois,Northwestern,43,45
+2023-11-25,Tennessee,Vanderbilt,48,24
+2023-11-25,UTEP,Liberty,28,42
+2023-11-25,Coastal Carolina,James Madison,14,56
+2023-11-25,Marshall,Arkansas State,35,21
+2023-11-25,Virginia,Virginia Tech,17,55
+2023-11-25,App State,Georgia Southern,55,27
+2023-11-25,Oklahoma State,BYU,40,34
+2023-11-25,Arizona State,Arizona,23,59
+2023-11-25,Washington,Washington State,24,21
+2023-11-25,New Mexico State,Jacksonville State,20,17
+2023-11-26,Florida,Florida State,15,24
+2023-11-26,Baylor,West Virginia,31,34
+2023-11-26,Texas State,South Alabama,52,44
+2023-11-26,Stanford,Notre Dame,23,56
+2023-11-26,South Carolina,Clemson,7,16
+2023-11-26,South Florida,Charlotte,48,14
+2023-11-26,Georgia Tech,Georgia,23,31
+2023-11-26,Cincinnati,Kansas,16,49
+2023-11-26,Kansas State,Iowa State,35,42
+2023-11-26,NC State,North Carolina,39,20
+2023-11-26,Nevada,Wyoming,6,42
+2023-11-26,San Diego State,Fresno State,33,18
+2023-11-26,UCLA,California,7,33
+2023-11-26,Hawai'i,Colorado State,27,24
+2023-12-02,Liberty,New Mexico State,49,35
+2023-12-02,Washington,Oregon,34,31
+2023-12-02,Texas,Oklahoma State,49,21
+2023-12-02,Toledo,Miami (OH),14,23
+2023-12-02,UNLV,Boise State,20,44
+2023-12-02,Troy,App State,49,23
+2023-12-02,Tulane,SMU,14,26
+2023-12-02,Alabama,Georgia,27,24
+2023-12-03,Iowa,Michigan,0,26
+2023-12-03,Florida State,Louisville,16,6
+2023-12-09,Army,Navy,17,11
+2023-12-16,Ohio,Georgia Southern,41,21
+2023-12-16,Louisiana,Jacksonville State,31,34
+2023-12-16,App State,Miami (OH),13,9
+2023-12-16,Fresno State,New Mexico State,37,10
+2023-12-17,Boise State,UCLA,22,35
+2023-12-17,Texas Tech,California,34,14
+2023-12-18,Old Dominion,Western Kentucky,35,38
+2023-12-20,Marshall,UTSA,17,35
+2023-12-22,Syracuse,South Florida,0,45
+2023-12-22,UCF,Georgia Tech,17,30
+2023-12-23,Duke,Troy,17,10
+2023-12-23,Northern Illinois,Arkansas State,21,19
+2023-12-23,Utah State,Georgia State,22,45
+2023-12-23,Air Force,James Madison,31,21
+2023-12-24,Eastern Michigan,South Alabama,10,59
+2023-12-24,Northwestern,Utah,14,7
+2023-12-24,San José State,Coastal Carolina,14,24
+2023-12-26,Minnesota,Bowling Green,30,24
+2023-12-26,Rice,Texas State,21,45
+2023-12-27,UNLV,Kansas,36,49
+2023-12-27,Tulane,Virginia Tech,20,41
+2023-12-27,West Virginia,North Carolina,30,10
+2023-12-28,USC,Louisville,42,28
+2023-12-28,Oklahoma State,Texas A&M,31,23
+2023-12-28,Boston College,SMU,23,14
+2023-12-28,Miami,Rutgers,24,31
+2023-12-28,Kansas State,NC State,28,19
+2023-12-29,Oklahoma,Arizona,24,38
+2023-12-29,Kentucky,Clemson,35,38
+2023-12-29,Notre Dame,Oregon State,40,8
+2023-12-29,Iowa State,Memphis,26,36
+2023-12-30,Ohio State,Missouri,3,14
+2023-12-30,Penn State,Ole Miss,25,38
+2023-12-30,Maryland,Auburn,31,13
+2023-12-30,Florida State,Georgia,3,63
+2023-12-30,Wyoming,Toledo,16,15
+2024-01-01,LSU,Wisconsin,35,31
+2024-01-01,Oregon,Liberty,45,6
+2024-01-01,Tennessee,Iowa,35,0
+2024-01-01,Michigan,Alabama,27,20
+2024-01-02,Washington,Texas,37,31
+2024-01-09,Michigan,Washington,34,13
