@@ -3,20 +3,20 @@ Florida St,1,148,133
 Oklahoma,2,145,138
 UCLA,3,143,136
 Auburn,4,142,131
-S Carolina,6,139,127
+South Carolina,6,139,127
 Oregon,6,139,147
 Michigan St,8,138,141
 Stanford,8,138,132
 Alabama,10,137,143
 USC,10,137,132
-Miss St,11,134,144
+Mississippi St,11,134,144
 Mississippi,12,133,136
 Georgia,15,132,144
 Baylor,15,132,143
 LSU,15,132,133
 Wisconsin,19,131,137
 Kansas St,19,131,138
-N Carolina,19,131,123
+North Carolina,19,131,123
 Oregon St,19,131,118
 TCU,23,130,143
 Missouri,23,130,135
@@ -40,7 +40,7 @@ Nebraska,42,125,128
 Northwestern,42,125,125
 Arizona,42,125,135
 UCF,42,125,123
-Wash St,42,125,119
+Washington St,42,125,119
 Texas Tech,45,124,113
 Houston,45,124,119
 Syracuse,45,124,110
@@ -64,7 +64,7 @@ Utah St,62,119,121
 Indiana,66,118,113
 "Miami, Fl",66,118,125
 Temple,66,118,117
-N Illinois,66,118,113
+Northern Illinois,66,118,113
 West Virginia,69,117,130
 Rutgers,69,117,113
 Nevada,69,117,113
@@ -74,14 +74,14 @@ Fresno St,72,116,114
 Toledo,74,115,114
 San Diego St,74,115,116
 Kentucky,78,114,114
-E Carolina,78,114,120
+East Carolina,78,114,120
 Virginia,78,114,125
-N Carolina St,78,114,115
+NC State,78,114,115
 Kansas,84,113,113
 Memphis,84,113,125
 SMU,84,113,91
 Colorado,84,113,115
-C Michigan,84,113,110
+Central Michigan,84,113,110
 North Texas,84,113,103
 California,87,112,120
 Akron,87,112,103
@@ -91,7 +91,7 @@ Connecticut,91,111,102
 Rice,91,111,115
 Kent St,91,111,102
 San Jose St,93,110,101
-S Alabama,93,110,102
+South Alabama,93,110,102
 Purdue,96,109,112
 FAU,96,109,102
 Louisiana,96,109,108
@@ -105,25 +105,25 @@ Tulsa,106,105,104
 Ohio,106,105,106
 ULM,106,105,101
 Troy,106,105,98
-W Michigan,109,104,121
-La Tech,109,104,117
+Western Michigan,109,104,121
+Louisiana Tech,109,104,117
 Buffalo,109,104,100
 Air Force,111,103,113
 Army,111,103,98
 Wyoming,112,102,104
 WKU,114,101,112
 New Mexico,114,101,103
-S Miss,115,100,97
+Southern Miss,115,100,97
 FIU,116,99,105
 UTEP,117,98,106
 UAB,120,96,112
-"Miami, OH",120,96,99
+Miami (OH),120,96,99
 Texas St,120,96,106
 Old Dominion,121,95,103
 Idaho,122,94,90
 UMass,123,93,102
-E Michigan,125,91,87
+Eastern Michigan,125,91,87
 Georgia St,125,91,85
 Appalachian St,126,88,108
 Georgia Southern,128,86,105
-N Mexico St,128,86,86
+New Mexico St,128,86,86
