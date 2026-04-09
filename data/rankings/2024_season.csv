@@ -1,135 +1,135 @@
 team,final_rank,season_points,preseason_rank
-Oregon,1,1124,2
-Ohio St,2,1042,5
-Notre Dame,3,951,5
-Texas,4,942,8
-Clemson,5,868,24
-Arizona St,6,809,64
-SMU,7,743,46
-Penn St,8,737,8
-Iowa St,9,581,17
-Georgia,10,563,1
-Michigan,11,553,6
-BYU,12,540,53
-Colorado,13,539,59
-Illinois,14,533,59
-Indiana,15,518,72
-"Miami, Fl",16,508,36
-Louisville,17,506,35
-Kansas St,18,488,14
-LSU,19,483,12
-Alabama,20,474,5
-Baylor,21,468,53
-Mississippi,22,411,15
-Boston College,23,338,80
-USC,24,300,39
-Syracuse,25,288,76
-Florida,26,257,24
-Texas Tech,27,254,46
-Tennessee,28,237,29
-Nebraska,29,236,43
-West Virginia,30,229,30
-Virginia Tech,32,223,12
-Georgia Tech,32,223,29
-TCU,33,221,43
-Minnesota,34,208,59
-Washington,35,199,39
-Kansas,36,195,24
-Missouri,37,178,12
-Duke,38,171,76
-Virginia,39,168,72
-Iowa,40,156,29
-Wisconsin,41,122,29
-South Carolina,43,111,24
-Texas A&M,43,111,29
-Rutgers,44,92,43
-Vanderbilt,45,80,101
-Pittsburgh,46,77,80
-Washington St,47,76,59
-North Carolina,48,71,64
-"Miami, Oh",49,55,80
-South Alabama,50,47,88
-Northern Illinois,51,45,90
-East Carolina,52,41,94
-Western Michigan,53,34,101
-Cincinnati,54,29,59
-Central Michigan,55,27,108
-Mississippi St,56,24,111
-Sam Houston St,57,20,115
-GA Southern,58,13,122
-Eastern Michigan,59,8,127
-Michigan St,60,5,72
-Louisiana Tech,61,2,133
-Kennesaw St,62,1,134
-UCLA,63,-12,53
-Arizona,64,-13,14
-Arkansas,65,-46,53
-Utah,66,-72,35
-Oklahoma St,67,-79,17
-UCF,68,-134,64
-Oklahoma,69,-144,12
-Florida St,70,-147,24
-Northwestern,71,-155,35
-Maryland,73,-159,35
-Houston,73,-159,94
-Kentucky,74,-160,24
-Auburn,75,-171,43
-NC State,76,-287,18
-Purdue,77,-309,46
-Wake Forest,78,-318,53
-Boise St,79,-322,39
-California,80,-393,72
-Memphis,81,-441,35
-UNLV,82,-498,76
-Stanford,83,-529,76
-Navy,84,-572,90
-Marshall,85,-617,108
-Tulane,86,-679,86
-Connecticut,87,-682,118
-James Madison,88,-739,64
-Old Dominion,89,-759,94
-Army,90,-868,97
-Louisiana,91,-885,72
-Hawaii,92,-891,115
-USF,93,-922,47
-Texas St,94,-944,53
-Oregon St,95,-947,80
-Arkansas St,96,-961,84
-Utah St,97,-991,108
-Colorado St,98,-1001,97
-Charlotte,99,-1011,118
-Fresno St,100,-1028,84
-Appalachian St,101,-1042,59
-Ohio,102,-1069,111
-San Jose St,103,-1070,97
-Troy,104,-1074,86
-Buffalo,105,-1123,124
-ULM,106,-1152,132
-UTSA,107,-1165,72
-Liberty,108,-1209,64
-Toledo,110,-1213,108
-New Mexico,110,-1213,127
-Air Force,111,-1225,72
-San Diego St,112,-1231,108
-WKU,113,-1237,108
-Rice,114,-1258,94
-Nevada,115,-1278,127
-Coastal Carolina,116,-1284,84
-North Texas,117,-1297,101
-Jacksonville St,118,-1304,88
-Bowling Green,119,-1313,84
-UAB,120,-1317,101
-UTEP,121,-1320,132
-Temple,122,-1363,122
-UMass,123,-1396,130
-Akron,124,-1409,124
-Wyoming,125,-1425,72
-Georgia St,126,-1443,118
-Ball St,127,-1465,111
-Southern Miss,128,-1541,122
-New Mexico St,129,-1546,115
-Tulsa,130,-1547,115
-Middle Tenn,131,-1577,122
-FAU,132,-1621,102
-FIU,133,-1630,130
-Kent St,134,-1889,130
+Ohio St,1,1230,5
+Oregon,2,1214,2
+Notre Dame,3,1140,5
+Texas,4,1053,8
+Penn St,5,951,8
+SMU,6,869,46
+Clemson,7,867,24
+Arizona St,8,852,64
+Michigan,9,675,6
+Indiana,10,674,72
+South Carolina,11,669,24
+Georgia,12,658,1
+Iowa St,14,631,17
+Louisville,14,631,35
+Illinois,15,629,59
+BYU,16,621,53
+"Miami, Fl",17,616,36
+Alabama,18,605,5
+LSU,19,577,12
+Colorado,20,549,59
+Mississippi,21,541,15
+Kansas St,22,490,14
+Baylor,23,478,53
+Syracuse,24,434,76
+USC,25,421,39
+Georgia Tech,26,405,29
+Minnesota,27,397,59
+Texas Tech,28,387,46
+Boston College,29,376,80
+Washington,30,370,39
+Iowa,31,358,29
+Tennessee,32,355,29
+Duke,33,335,76
+Nebraska,34,334,43
+Florida,35,299,24
+Missouri,36,296,12
+Virginia Tech,37,273,12
+TCU,38,257,43
+Rutgers,39,250,43
+West Virginia,41,219,30
+Virginia,41,219,72
+Wisconsin,42,213,29
+Kansas,43,197,24
+Texas A&M,44,163,29
+Vanderbilt,45,161,101
+Pittsburgh,46,148,80
+UCLA,47,99,53
+Cincinnati,48,59,59
+Michigan St,49,56,72
+Arizona,50,40,14
+Arkansas,51,7,53
+Maryland,52,2,35
+Utah,53,-41,35
+Kentucky,54,-44,24
+Northwestern,55,-65,35
+UCF,56,-79,64
+Oklahoma,57,-87,12
+Oklahoma St,58,-92,17
+Auburn,60,-125,43
+Houston,60,-125,94
+NC State,61,-133,18
+Florida St,62,-145,24
+Boise St,63,-159,39
+North Carolina,64,-164,64
+California,65,-177,72
+Wake Forest,66,-207,53
+Purdue,67,-255,46
+Memphis,68,-257,35
+UNLV,69,-264,76
+Stanford,70,-330,76
+Navy,71,-394,90
+Marshall,72,-406,108
+Old Dominion,73,-420,94
+Connecticut,75,-427,118
+Georgia Southern,75,-427,122
+Mississippi St,76,-442,111
+James Madison,77,-477,64
+Tulane,78,-538,86
+Washington St,79,-582,59
+South Alabama,80,-642,88
+Louisiana,81,-649,72
+Appalachian St,82,-651,59
+Charlotte,83,-670,118
+Texas St,84,-678,53
+Army,85,-683,97
+Sam Houston St,86,-695,115
+East Carolina,87,-717,94
+USF,88,-756,47
+Arkansas St,89,-778,84
+Hawaii,90,-780,115
+Oregon St,91,-781,80
+Ohio,92,-830,111
+Troy,93,-842,86
+San Jose St,94,-847,97
+Colorado St,95,-867,97
+UTSA,96,-879,72
+Utah St,97,-907,108
+Fresno St,98,-913,84
+Buffalo,99,-942,124
+Miami (OH),100,-949,80
+Liberty,101,-985,64
+Toledo,102,-1015,108
+ULM,103,-1018,132
+Rice,104,-1033,94
+WKU,105,-1038,108
+Coastal Carolina,106,-1043,84
+North Texas,107,-1052,101
+Northern Illinois,108,-1053,90
+New Mexico,109,-1070,127
+San Diego St,110,-1080,108
+Nevada,111,-1097,127
+Air Force,112,-1110,72
+Temple,113,-1124,122
+Bowling Green,114,-1132,84
+Jacksonville St,115,-1142,88
+UTEP,116,-1175,132
+UAB,118,-1176,101
+Georgia St,118,-1176,118
+Wyoming,119,-1185,72
+UMass,120,-1226,130
+Akron,121,-1249,124
+Central Michigan,122,-1330,108
+Western Michigan,123,-1331,101
+Ball St,124,-1346,111
+Tulsa,125,-1351,115
+Southern Miss,126,-1354,122
+FAU,127,-1373,102
+Eastern Michigan,128,-1394,127
+New Mexico St,129,-1401,115
+Kennesaw St,130,-1431,134
+FIU,131,-1436,130
+Middle Tenn,132,-1450,122
+Louisiana Tech,133,-1506,133
+Kent St,134,-1744,130

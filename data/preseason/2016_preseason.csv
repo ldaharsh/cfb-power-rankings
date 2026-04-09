@@ -16,13 +16,13 @@ Arkansas,14,124,115
 "Miami, Fl",15,123,124
 Houston,16,122,117
 Texas,18,121,107
-Miss St,18,121,114
+Mississippi St,18,121,114
 Nebraska,20,120,111
 Michigan St,20,120,110
 USF,25,119,118
-Wash St,25,119,120
+Washington St,25,119,120
 Louisville,25,119,123
-N Carolina,25,119,119
+North Carolina,25,119,119
 Oregon,25,119,110
 Kansas St,32,118,125
 Auburn,32,118,122
@@ -50,17 +50,17 @@ Memphis,52,113,116
 Georgia Tech,52,113,117
 California,52,113,109
 UCLA,52,113,109
-W Michigan,52,113,120
+Western Michigan,52,113,120
 Penn St,53,112,130
 Iowa St,58,111,110
-N Carolina St,58,111,116
+NC State,58,111,116
 Boston College,58,111,106
 Virginia,58,111,102
 Georgia Southern,58,111,94
 Texas A&M,61,110,116
 Missouri,61,110,108
 Air Force,61,110,107
-S Carolina,64,109,99
+South Carolina,64,109,99
 Cincinnati,64,109,101
 Connecticut,64,109,88
 Florida,71,108,116
@@ -68,7 +68,7 @@ Texas Tech,71,108,113
 Indiana,71,108,108
 Temple,71,108,124
 Navy,71,108,118
-C Michigan,71,108,100
+Central Michigan,71,108,100
 Bowling Green,71,108,97
 Vanderbilt,75,107,116
 Illinois,75,107,97
@@ -78,11 +78,11 @@ Kentucky,78,106,113
 Syracuse,78,106,102
 Middle Tenn,78,106,99
 Tulsa,82,105,113
-N Illinois,82,105,105
-S Miss,82,105,98
+Northern Illinois,82,105,105
+Southern Miss,82,105,98
 Marshall,82,105,85
-E Carolina,85,104,95
-La Tech,85,104,111
+East Carolina,85,104,95
+Louisiana Tech,85,104,111
 Arkansas St,85,104,102
 Purdue,89,103,99
 Ohio,89,103,105
@@ -100,7 +100,7 @@ FAU,98,98,85
 Rutgers,100,97,89
 SMU,100,97,101
 Colorado St,105,96,114
-"Miami, OH",105,96,103
+Miami (OH),105,96,103
 Wyoming,105,96,104
 UNLV,105,96,92
 Troy,105,96,99
@@ -111,14 +111,14 @@ Old Dominion,109,94,101
 Fresno St,111,93,86
 Buffalo,111,93,88
 Rice,112,92,90
-E Michigan,114,91,100
+Eastern Michigan,114,91,100
 Ball St,114,91,95
 Tulane,116,90,98
 FIU,116,90,93
 UCF,119,89,107
 UMass,119,89,86
-N Mexico St,119,89,88
-S Alabama,120,88,90
+New Mexico St,119,89,88
+South Alabama,120,88,90
 UTSA,123,87,100
 North Texas,123,87,88
 Louisiana,123,87,100

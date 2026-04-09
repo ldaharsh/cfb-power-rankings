@@ -7,7 +7,7 @@ Ohio St,7,129,150
 Georgia,7,129,135
 Florida,7,129,133
 Iowa,9,128,129
-Miss St,9,128,112
+Mississippi St,9,128,112
 Texas A&M,12,126,121
 Texas,12,126,129
 Notre Dame,12,126,132
@@ -23,7 +23,7 @@ Baylor,23,121,128
 Washington,23,121,126
 Oklahoma St,23,121,119
 UCF,25,120,120
-Wash St,25,120,113
+Washington St,25,120,113
 Wisconsin,31,119,133
 Michigan St,31,119,111
 Northwestern,31,119,110
@@ -42,7 +42,7 @@ Duke,42,117,109
 Kansas St,42,117,119
 Appalachian St,42,117,121
 Wake Forest,47,116,109
-S Carolina,47,116,113
+South Carolina,47,116,113
 Arizona,47,116,103
 Utah St,47,116,101
 Fresno St,47,116,100
@@ -55,23 +55,23 @@ Arizona St,55,115,113
 Ohio,55,115,110
 Boise St,55,115,116
 Purdue,59,114,110
-N Carolina St,59,114,99
+NC State,59,114,99
 West Virginia,59,114,115
 Army,59,114,101
 Vanderbilt,61,113,95
 California,61,113,115
-N Carolina,65,112,124
+North Carolina,65,112,124
 Tennessee,65,112,118
 Georgia Tech,65,112,101
 Texas Tech,65,112,112
 UAB,66,111,102
 Boston College,69,110,109
 Temple,69,110,108
-S Miss,69,110,101
+Southern Miss,69,110,101
 SMU,71,109,112
 FIU,71,109,99
 Mississippi,75,108,117
-"Miami, OH",75,108,103
+Miami (OH),75,108,103
 Air Force,75,108,117
 Arkansas St,75,108,102
 Tulane,78,107,111
@@ -90,16 +90,16 @@ Georgia Southern,88,105,104
 Illinois,90,104,108
 Nevada,90,104,99
 Colorado,92,103,111
-N Illinois,92,103,99
+Northern Illinois,92,103,99
 Oregon St,96,102,113
-La Tech,96,102,110
+Louisiana Tech,96,102,110
 Middle Tenn,96,102,99
-E Michigan,96,102,98
+Eastern Michigan,96,102,98
 USF,99,101,98
 WKU,99,101,109
 Charlotte,99,101,100
 FAU,103,100,121
-W Michigan,103,100,104
+Western Michigan,103,100,104
 Louisiana,103,100,115
 San Diego St,103,100,111
 Buffalo,105,99,110
@@ -109,7 +109,7 @@ Kent St,108,97,105
 ULM,108,97,101
 Liberty,109,96,104
 Louisville,114,94,115
-E Carolina,114,94,95
+East Carolina,114,94,95
 Ball St,114,94,103
 San Jose St,114,94,98
 Texas St,114,94,91
@@ -119,13 +119,13 @@ North Texas,118,92,94
 Georgia St,118,92,94
 Old Dominion,119,91,85
 Bowling Green,120,90,75
-N Mexico St,124,89,85
+New Mexico St,124,89,85
 UTSA,124,89,91
 Coastal Carolina,124,89,95
 New Mexico,124,89,88
 Akron,125,88,68
-S Alabama,126,87,94
+South Alabama,126,87,94
 UTEP,127,86,81
 UMass,129,84,65
-C Michigan,129,84,98
+Central Michigan,129,84,98
 Connecticut,130,81,83

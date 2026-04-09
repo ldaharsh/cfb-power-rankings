@@ -14,17 +14,17 @@ Auburn,14,134,117
 Texas,14,134,120
 Stanford,14,134,116
 "Miami, Fl",20,133,121
-Miss St,20,133,130
+Mississippi St,20,133,130
 Boston College,20,133,110
 Duke,20,133,110
 Iowa St,20,133,118
 USC,20,133,109
 Pittsburgh,22,132,115
-S Carolina,22,132,113
+South Carolina,22,132,113
 Utah,25,131,118
 Kansas St,25,131,114
 Boise St,25,131,114
-N Carolina St,30,130,119
+NC State,30,130,119
 Florida,30,130,120
 LSU,30,130,119
 Memphis,30,130,112
@@ -41,7 +41,7 @@ West Virginia,42,128,121
 TCU,42,128,110
 Baylor,42,128,109
 California,42,128,108
-N Carolina,43,127,106
+North Carolina,43,127,106
 Virginia Tech,45,126,107
 UCF,45,126,119
 Georgia Tech,49,125,115
@@ -65,15 +65,15 @@ San Diego St,63,120,97
 Colorado,68,119,101
 Army,68,119,110
 Marshall,68,119,100
-La Tech,68,119,92
+Louisiana Tech,68,119,92
 Wyoming,68,119,103
-Wash St,71,118,118
+Washington St,71,118,118
 Middle Tenn,71,118,105
 Toledo,71,118,105
 Kentucky,78,117,115
 Maryland,78,117,106
-"Miami, OH",78,117,108
-N Illinois,78,117,104
+Miami (OH),78,117,108
+Northern Illinois,78,117,104
 Utah St,78,117,114
 Troy,78,117,101
 Nevada,78,117,100
@@ -87,14 +87,14 @@ Air Force,85,115,100
 Tulane,88,114,98
 USF,88,114,95
 BYU,88,114,107
-E Michigan,89,113,101
+Eastern Michigan,89,113,101
 Virginia,93,112,110
 Tulsa,93,112,96
 UAB,93,112,106
 North Texas,93,112,96
 Rutgers,97,111,97
 Kansas,97,111,104
-W Michigan,97,111,94
+Western Michigan,97,111,94
 Arkansas St,97,111,105
 Oregon St,101,110,89
 UMass,101,110,87
@@ -104,17 +104,17 @@ Old Dominion,102,109,88
 Cincinnati,105,108,112
 SMU,105,108,99
 Georgia Southern,105,108,100
-C Michigan,106,107,79
+Central Michigan,106,107,79
 FIU,110,106,98
 Akron,110,106,88
 Bowling Green,110,106,87
 Colorado St,110,106,89
-E Carolina,111,105,87
+East Carolina,111,105,87
 New Mexico,112,104,84
 Connecticut,115,103,73
-S Miss,115,103,102
-S Alabama,115,103,81
-N Mexico St,117,102,80
+Southern Miss,115,103,102
+South Alabama,115,103,81
+New Mexico St,117,102,80
 Coastal Carolina,117,102,82
 WKU,118,101,93
 Charlotte,121,99,96

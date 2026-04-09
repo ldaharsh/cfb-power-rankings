@@ -31,9 +31,9 @@ Texas,30,134,130
 Arizona,30,134,129
 Nebraska,32,132,127
 Florida St,32,132,141
-Miss St,35,131,134
+Mississippi St,35,131,134
 Penn St,35,131,129
-N Carolina St,35,131,128
+NC State,35,131,128
 Michigan,40,130,134
 West Virginia,40,130,136
 Temple,40,130,133
@@ -42,13 +42,13 @@ Colorado,40,130,124
 Northwestern,44,129,131
 Minnesota,44,129,130
 Illinois,44,129,122
-La Tech,44,129,122
+Louisiana Tech,44,129,122
 Texas Tech,48,128,131
 Florida,48,128,129
 Pittsburgh,48,128,129
 California,48,128,131
 Iowa,52,127,137
-S Carolina,52,127,123
+South Carolina,52,127,123
 Rutgers,52,127,111
 BYU,52,127,132
 Cincinnati,57,126,126
@@ -56,23 +56,23 @@ Virginia,57,126,124
 San Diego St,57,126,132
 Utah St,57,126,119
 Marshall,57,126,121
-N Carolina,58,125,140
+North Carolina,58,125,140
 Kentucky,62,124,118
 Memphis,62,124,135
 Washington,62,124,138
 WKU,62,124,134
-Wash St,66,123,134
+Washington St,66,123,134
 Boston College,66,123,120
 Toledo,66,123,128
-N Illinois,66,123,122
+Northern Illinois,66,123,122
 Vanderbilt,69,122,118
 "Miami, Fl",69,122,131
 UCF,69,122,95
 Purdue,72,121,115
 Houston,72,121,137
-W Michigan,72,121,130
+Western Michigan,72,121,130
 Maryland,75,120,116
-E Carolina,75,120,121
+East Carolina,75,120,121
 Appalachian St,75,120,119
 Iowa St,79,119,125
 Navy,79,119,131
@@ -112,18 +112,18 @@ North Texas,112,109,98
 Georgia Southern,112,109,121
 ULM,112,109,96
 FAU,114,108,110
-C Michigan,114,108,116
+Central Michigan,114,108,116
 Connecticut,117,107,119
-S Miss,117,107,130
+Southern Miss,117,107,130
 Army,117,107,103
 Buffalo,118,106,93
 Troy,119,104,110
-"Miami, OH",121,103,104
-S Alabama,121,103,101
+Miami (OH),121,103,104
+South Alabama,121,103,101
 UTSA,122,102,97
 UNLV,124,101,105
 Idaho,124,101,98
 Georgia St,125,99,113
-N Mexico St,126,97,99
-E Michigan,127,96,99
+New Mexico St,126,97,99
+Eastern Michigan,127,96,99
 Charlotte,128,85,87

@@ -1,27 +1,18 @@
 cfbd_name,steel_name
-Alabama A&M,Alabama A&M
 App State,Appalachian St
 Appalachian State,Appalachian St
 Arizona State,Arizona St
 Arkansas State,Arkansas St
 Ball State,Ball St
 Boise State,Boise St
-Boston College,Boston College
-Bowling Green,Bowling Green
-Buffalo,Buffalo
-Central Michigan,C Michigan
-Charlotte,Charlotte
-Cincinnati,Cincinnati
-Coastal Carolina,Coastal Carolina
+Central Michigan,Central Michigan
 Colorado State,Colorado St
-Connecticut,Connecticut
-UConn,Connecticut
-East Carolina,E Carolina
-Eastern Michigan,E Michigan
-FIU,FIU
-FAU,FAU
+East Carolina,East Carolina
+Eastern Michigan,Eastern Michigan
 Florida Atlantic,FAU
+FAU,FAU
 Florida International,FIU
+FIU,FIU
 Florida State,Florida St
 Fresno State,Fresno St
 Georgia Southern,Georgia Southern
@@ -29,83 +20,52 @@ Georgia State,Georgia St
 Georgia Tech,Georgia Tech
 Hawaii,Hawaii
 "Hawai'i",Hawaii
-Houston,Houston
-Illinois,Illinois
-Indiana,Indiana
 Iowa State,Iowa St
 Jacksonville State,Jacksonville St
 James Madison,James Madison
 Kansas State,Kansas St
+Kennesaw State,Kennesaw St
 Kent State,Kent St
-Kentucky,Kentucky
 Louisiana,Louisiana
 Louisiana Monroe,ULM
 UL Monroe,ULM
-Louisiana Tech,La Tech
-Louisville,Louisville
-LSU,LSU
+Louisiana Tech,Louisiana Tech
 Marshall,Marshall
 Massachusetts,UMass
-Memphis,Memphis
 Miami,"Miami, Fl"
 "Miami (FL)","Miami, Fl"
-"Miami (OH)","Miami, OH"
+"Miami (OH)","Miami (OH)"
 Michigan State,Michigan St
 Middle Tennessee,Middle Tenn
-Minnesota,Minnesota
-Mississippi State,Miss St
-Missouri,Missouri
+Mississippi State,Mississippi St
+Missouri State,Missouri St
+NC State,NC State
 Nevada,Nevada
-New Mexico,New Mexico
 New Mexico State,New Mexico St
-North Carolina,N Carolina
-North Carolina State,N Carolina St
-North Texas,North Texas
-Northern Illinois,N Illinois
-Northwestern,Northwestern
-Notre Dame,Notre Dame
-Ohio,Ohio
+North Carolina,North Carolina
+North Carolina State,NC State
+Northern Illinois,Northern Illinois
 Ohio State,Ohio St
 Oklahoma State,Oklahoma St
 Ole Miss,Mississippi
 Oregon State,Oregon St
 Penn State,Penn St
-Pittsburgh,Pittsburgh
-Purdue,Purdue
-Rice,Rice
-Rutgers,Rutgers
-Sam Houston State,Sam Houston
+Sam Houston,Sam Houston St
+Sam Houston State,Sam Houston St
 San Diego State,San Diego St
 San Jose State,San Jose St
 "San José State",San Jose St
-SMU,SMU
-South Alabama,S Alabama
-South Carolina,S Carolina
+South Alabama,South Alabama
+South Carolina,South Carolina
 South Florida,USF
-Southern Mississippi,S Miss
-Stanford,Stanford
-Syracuse,Syracuse
-TCU,TCU
-Temple,Temple
-Tennessee,Tennessee
-Texas A&M,Texas A&M
+Southern Miss,Southern Miss
+Southern Mississippi,Southern Miss
 Texas State,Texas St
 Texas Tech,Texas Tech
-Toledo,Toledo
-Troy,Troy
-Tulane,Tulane
-Tulsa,Tulsa
-UAB,UAB
-UCF,UCF
-UNLV,UNLV
-UTEP,UTEP
-UTSA,UTSA
+UConn,Connecticut
 Utah State,Utah St
-Vanderbilt,Vanderbilt
 Virginia Tech,Virginia Tech
-Wake Forest,Wake Forest
-Washington State,Wash St
-West Virginia,West Virginia
+Washington State,Washington St
 Western Kentucky,WKU
-Western Michigan,W Michigan
+Western Michigan,Western Michigan
 Wyoming,Wyoming

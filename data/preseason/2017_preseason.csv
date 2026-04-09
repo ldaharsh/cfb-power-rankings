@@ -16,12 +16,12 @@ Notre Dame,14,130,128
 Auburn,16,128,136
 Florida,16,128,116
 Stanford,19,127,130
-N Carolina St,19,127,129
+NC State,19,127,129
 Virginia Tech,19,127,126
 Georgia,21,125,142
 Michigan,21,125,129
 Northwestern,24,124,131
-Wash St,24,124,124
+Washington St,24,124,124
 WKU,24,124,100
 TCU,29,123,132
 Minnesota,29,123,112
@@ -45,15 +45,15 @@ Vanderbilt,48,119,110
 Houston,48,119,117
 Wake Forest,48,119,125
 Duke,48,119,125
-N Carolina,48,119,118
+North Carolina,48,119,118
 Colorado St,48,119,111
 Texas,53,118,126
 West Virginia,53,118,122
 UCLA,53,118,121
 Colorado,53,118,115
-W Michigan,53,118,109
+Western Michigan,53,118,109
 Missouri,58,117,124
-Miss St,58,117,123
+Mississippi St,58,117,123
 Utah,58,117,123
 Navy,58,117,115
 San Diego St,58,117,118
@@ -61,11 +61,11 @@ Mississippi,63,116,119
 Boston College,63,116,128
 Temple,63,116,115
 Tulsa,63,116,104
-"Miami, OH",63,116,107
+Miami (OH),63,116,107
 Nebraska,64,115,110
 Syracuse,66,114,110
-La Tech,66,114,106
-S Carolina,71,113,121
+Louisiana Tech,66,114,106
+South Carolina,71,113,121
 Indiana,71,113,118
 Arizona St,71,113,122
 Arizona,71,113,120
@@ -81,7 +81,7 @@ UTSA,79,111,103
 SMU,81,110,112
 Army,81,110,114
 UCF,85,109,129
-N Illinois,85,109,115
+Northern Illinois,85,109,115
 Ohio,85,109,112
 Wyoming,85,109,107
 Kansas,88,108,97
@@ -90,8 +90,8 @@ Nevada,88,108,106
 Tulane,90,107,109
 Old Dominion,90,107,98
 Maryland,96,106,107
-C Michigan,96,106,115
-E Michigan,96,106,109
+Central Michigan,96,106,115
+Eastern Michigan,96,106,109
 New Mexico,96,106,97
 Bowling Green,96,106,99
 Idaho,96,106,99
@@ -99,7 +99,7 @@ Air Force,98,105,108
 Troy,98,105,114
 Illinois,101,104,102
 Utah St,101,104,111
-S Miss,101,104,106
+Southern Miss,101,104,106
 FIU,105,103,109
 Hawaii,105,103,91
 San Jose St,105,103,85
@@ -107,8 +107,8 @@ Louisiana,105,103,92
 Rutgers,109,102,104
 Kent St,109,102,91
 Rice,109,102,91
-N Mexico St,109,102,99
-E Carolina,112,101,97
+New Mexico St,109,102,99
+East Carolina,112,101,97
 Akron,112,101,107
 Ball St,112,101,83
 Fresno St,115,99,117
@@ -121,7 +121,7 @@ UMass,119,98,105
 FAU,120,97,120
 Connecticut,124,96,99
 Georgia St,124,96,91
-S Alabama,124,96,97
+South Alabama,124,96,97
 ULM,124,96,100
 UAB,126,95,105
 Georgia Southern,126,95,95
